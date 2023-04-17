@@ -1,0 +1,5 @@
+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôþËúýÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒšœû
+osquid:S001161"WRename this field "attribute_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð°žï
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒšœû

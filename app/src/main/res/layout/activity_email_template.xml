@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".seller_app.activity.EmailTemplateActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Campaign Name"
+            android:textSize="16dp"
+            android:textColor="#333"/>
+
+        <EditText
+            android:id="@+id/email_campaign_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Campaign Name"
+            android:textSize="16dp"
+            android:textColor="#333">
+        </EditText>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Subject Line"
+            android:textSize="16dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#333"/>
+
+        <EditText
+            android:id="@+id/email_subject_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Subject Line"
+            android:textSize="16dp"
+            android:textColor="#333">
+
+        </EditText>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="From Email"
+            android:textSize="16dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#333"/>
+
+        <EditText
+            android:id="@+id/email_from_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="From Email"
+            android:textSize="16dp"
+            android:textColor="#333"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="From Name"
+            android:textSize="16dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#333"/>
+
+        <EditText
+            android:id="@+id/email_from_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="From Name"
+            android:textSize="16dp"
+            android:textColor="#333"/>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/email_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/new_btn_color"
+        android:textColor="#FFFFFF"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:layout_margin="10dp"
+        android:text="Next">
+
+    </Button>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

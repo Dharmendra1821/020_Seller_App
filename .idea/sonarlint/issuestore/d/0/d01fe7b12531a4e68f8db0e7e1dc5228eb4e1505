@@ -1,0 +1,17 @@
+
+asquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(——Ú0
+lsquid:S00116,"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,
+gsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(ë»Þœøÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Üå¯
+gsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(—³¹¡ÿÿÿÿÿ
+Msquid:S2696ò"6Make the enclosing method "static" or remove this set.(×óžj
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(Ëªšñúÿÿÿÿ
+ssquid:S00116,"\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,
+hsquid:HiddenFieldCheck‰"ERename "sharedPreferences" which hides the field declared at line 45.(·ðî²
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(èÚêÏúÿÿÿÿ
+hsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(ßØàºüÿÿÿÿ
+usquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎÙ–çüÿÿÿÿ
+Œsquid:S13196"uThe type of the "categories" object should be an interface such as "List" rather than the implementation "ArrayList".(£€€å
+Esquid:S1659,"/Declare "CustomerAddressId" on a separate line.(Û‚©,
+bsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Ï§ù·
+hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ŸæœÎøÿÿÿÿ

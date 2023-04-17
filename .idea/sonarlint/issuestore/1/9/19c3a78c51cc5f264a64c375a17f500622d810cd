@@ -1,0 +1,9 @@
+
+a
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(¦Ë­8İ÷Šëì.
+i
+java:S2259["LA "NullPointerException" could be thrown; "mUploadMessage" is nullable here.(ÖÌÔˆ8İ÷Šëì.
+v
+java:S1104$"TMake filePath a static final constant or non-public and provide accessors if needed.(€çàÿÿÿÿÿ8İ÷Šëì.
+|
+java:S1104#"ZMake mUploadMessage a static final constant or non-public and provide accessors if needed.(¢¾­Îúÿÿÿÿ8İ÷Šëì.

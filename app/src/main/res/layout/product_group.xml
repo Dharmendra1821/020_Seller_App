@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:layout_marginTop="10dp">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <TextView
+            android:layout_column="1"
+            android:layout_weight="1"
+            android:singleLine="false"
+            android:maxWidth="10dp"
+            android:layout_below="@+id/PRODUCTS"
+            android:id="@+id/productname10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Product name 1"
+            android:textSize="14dp"/>
+
+        <ImageView
+
+            android:id="@+id/imageprice"
+            android:layout_width="17dp"
+            android:layout_height="17dp"
+            android:layout_column="2"
+            android:layout_below="@+id/PRICE"
+            android:layout_gravity="center"
+            android:layout_toRightOf="@+id/productname1"
+            android:scaleType="fitXY"
+            android:src="@drawable/payment" />
+
+        <TextView
+            android:layout_column="2"
+            android:id="@+id/productprice"
+            android:layout_below="@+id/PRICE"
+            android:layout_toRightOf="@id/imageprice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp" />
+
+        <EditText
+
+            android:id="@+id/EDITQTY1G"
+            android:singleLine="true"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_column="3"
+            android:layout_below="@+id/ppq"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/productprice"
+            android:background="@drawable/editbox"
+            android:gravity="center"
+            android:inputType="number"
+            android:imeOptions="actionDone"
+            android:hint="0"
+            android:textSize="12dp" />
+
+    </TableRow>
+</TableLayout>

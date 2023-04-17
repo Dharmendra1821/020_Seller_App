@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_margin="10dp"
+       android:orientation="vertical">
+
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+
+
+          <CheckBox
+              android:id="@+id/sub_category_child"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Sub Category"
+              android:textSize="14dp"
+              android:buttonTint="@color/colorBlack"
+              android:textColor="@color/colorBlack"/>
+
+
+           <View
+               android:id="@+id/social_term_divider"
+               android:layout_width="match_parent"
+               android:layout_height="0.5dp"
+               android:layout_marginTop="10dp"
+               android:background="#FFBFC6C3"></View>
+
+
+
+
+       </LinearLayout>
+
+
+
+
+
+
+   </LinearLayout>
+
+
+
+
+
+</LinearLayout>

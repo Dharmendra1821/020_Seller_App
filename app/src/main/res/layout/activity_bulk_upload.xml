@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    tools:context=".seller_app.activity.BulkUploadActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="How to Add Multiple Product List:">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:textStyle="normal"
+            android:layout_marginTop="10dp"
+            android:textSize="16dp"
+            android:text="1. First Download The Sample Excel by clicking on Below 'Download Sample Excel' Button.">
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:textStyle="normal"
+            android:layout_marginTop="10dp"
+            android:textSize="16dp"
+            android:text="2. Fill your Data downloaded in that file.">
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:textStyle="normal"
+            android:layout_marginTop="10dp"
+            android:textSize="16dp"
+            android:text="3. Upload This file by clicking 'Bulk Upload' button.">
+        </TextView>
+
+        <Button
+            android:id="@+id/bulk_upload_invoice"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="BULK UPLOAD"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/gradient_button">
+
+        </Button>
+
+        <Button
+            android:id="@+id/bulk_download_invoice"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="DOWNLOAD SAMPLE"
+            android:textColor="#f79923"
+            android:background="@drawable/grey_rounded">
+
+        </Button>
+    </LinearLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

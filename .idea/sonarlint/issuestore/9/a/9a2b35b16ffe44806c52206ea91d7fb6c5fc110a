@@ -1,0 +1,26 @@
+
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Í½8š×é-
+ssquid:S00116"TRename this field "seller_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¿Ö8ø†Ìé-
+Š"squid:ClassVariableVisibilityCheck"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ8ºğËøæ-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²à¥¦8š×é-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸µ¥úÿÿÿÿ8š×é-
+ˆ"squid:ClassVariableVisibilityCheck"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ8§ƒÏé-
+"squid:ClassVariableVisibilityCheck
+"ZMake approve_status a static final constant or non-public and provide accessors if needed.(ğáÎ8‘œÖé-
+‰"squid:ClassVariableVisibilityCheck"OMake set a static final constant or non-public and provide accessors if needed.(Çù–øÿÿÿÿ8ÅÇÍøæ-
+rsquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó«¢©ûÿÿÿÿ8æàÏé-
+Š"squid:ClassVariableVisibilityCheck"UMake seller_id a static final constant or non-public and provide accessors if needed.(ß¿Ö8ø†Ìé-
+tsquid:S00116"URename this field "old_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûËò°8‘œÖé-
+msquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ä 8æàÏé-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÿŞ­ûÿÿÿÿ8æàÏé-
+tsquid:S00116	"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŸƒš8§ƒÏé-
+osquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ€$8æàÏé-
+xsquid:S00116
+"YRename this field "approve_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğáÎ8‘œÖé-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸µ¥úÿÿÿÿ8š×é-
+‹"squid:ClassVariableVisibilityCheck"VMake old_status a static final constant or non-public and provide accessors if needed.(ûËò°8‘œÖé-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ŸŸËüÿÿÿÿ8š×é-
+psquid:S00117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ä 8æàÏé-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Í½8š×é-
+lsquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ€$8æàÏé-
+‹"squid:ClassVariableVisibilityCheck	"VMake product_id a static final constant or non-public and provide accessors if needed.(öŸƒš8§ƒÏé-

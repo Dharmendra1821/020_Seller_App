@@ -1,0 +1,137 @@
+
+y
+java:S1192„"VDefine a constant instead of duplicating this literal "Internal server error" 3 times.(¤¨ÃÉøÿÿÿÿ8“Îáå.
+H
+java:S1659a"+Declare "markPaidToken" on a separate line.(õ˜†ï8“Îáå.
+I
+java:S1659a",Declare "uniqueDeviceId" on a separate line.(õ˜†ï8“Îáå.
+K
+java:S1659e".Declare "collect_now_cash" on a separate line.(—“Áò8“Îáå.
+S
+java:S1068H"6Remove this unused "paymentRadioButton" private field.(Ñ‰ÖÌ8“Îáå.
+N
+java:S1481Å"+Remove this unused "street" local variable.(Ş¶ÕÖÿÿÿÿÿ8“Îáå.
+\
+java:S1117˜"9Rename "email" which hides the field declared at line 89.(Í½ÃËøÿÿÿÿ8“Îáå.
+^	java:S125î"<This block of commented-out lines of code should be removed.(…éãñüÿÿÿÿ8“Îáå.
+
+java:S1128""bRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.MainRequest'.(õ÷±Ä8“Îáå.
+`
+java:S1117Ã"BRename "progressDialog" which hides the field declared at line 80.(Ë¥â‰8“Îáå.
+w	java:S116c"[Rename this field "collect_now_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŒ¿¦8“Îáå.
+‡
+java:S1192“"dDefine a constant instead of duplicating this literal " You Are Not Connected To internet " 3 times.(¼Ü°¯şÿÿÿÿ8“Îáå.
+^	java:S125ø"<This block of commented-out lines of code should be removed.(ì¹ÒÈùÿÿÿÿ8“Îáå.
+i
+java:S1117É"FRename "mposRetrofitClient" which hides the field declared at line 95.(Ôõ±Ãÿÿÿÿÿ8“Îáå.
+M
+java:S1481€"/Remove this unused "collection" local variable.(Ïƒøğ8©ÍëÛû/
+‚
+java:S11286"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.PlacedOrderResponse'.(—¨¸ë8’ßûˆ0
+g
+java:S3358“"DExtract this nested ternary operation into an independent statement.(™Á»åüÿÿÿÿ8’ßûˆ0
+Y	java:S125¾"<This block of commented-out lines of code should be removed.(îÎ¸Ö8“Îáå.
+\
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.(¬”¡®8“Îáå.
+q
+java:S1192Ë"NDefine a constant instead of duplicating this literal "PlaceOrder===" 8 times.(æéîıÿÿÿÿ8“Îáå.
+t
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(¨Œşÿÿÿÿ8“Îáå.
+w	java:S116e"[Rename this field "collect_now_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—“Áò8“Îáå.
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(î„Ü÷8“Îáå.
+^	java:S125¬"<This block of commented-out lines of code should be removed.(µèÇûÿÿÿÿ8ô§åå.
+t
+java:S1192Õ"QDefine a constant instead of duplicating this literal "Request Data ===" 4 times.(úÊ…Œûÿÿÿÿ8“Îáå.
+Y	java:S125¹"<This block of commented-out lines of code should be removed.(Ã ›‡8“Îáå.
+i
+java:S1117ü"FRename "mposRetrofitClient" which hides the field declared at line 95.(Ôõ±Ãÿÿÿÿÿ8“Îáå.
+w	java:S116K"\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,8“Îáå.
+\
+java:S1117Ë"9Rename "email" which hides the field declared at line 89.(Í½ÃËøÿÿÿÿ8“Îáå.
+Y	java:S125è"<This block of commented-out lines of code should be removed.(æİ²8å×äå.
+h
+java:S1192y"KDefine a constant instead of duplicating this literal "StandAlone" 5 times.(Î´ı·8“Îáå.
+g
+java:S3358Å"DExtract this nested ternary operation into an independent statement.(Ş¶ÕÖÿÿÿÿÿ8“Îáå.
+^	java:S125¸"<This block of commented-out lines of code should be removed.(’ùŞàıÿÿÿÿ8ùÉ¼áú/
+¤
+java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œƒƒ©ùÿÿÿÿ8“Îáå.
+G
+java:S1481Â"*Remove this unused "count" local variable.(«Ôæp8“Îáå.
+n
+java:S1192ø"KDefine a constant instead of duplicating this literal "Loading..." 3 times.(ñËÄİÿÿÿÿÿ8”¡ãå.
+u
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(“ÂàŸÿÿÿÿÿ8“Îáå.
+‚
+java:S11284"`Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.PaymentRequest'.(—²³Æşÿÿÿÿ8’ßûˆ0
+K
+java:S1659G")Declare "acceptterms" on a separate line.(À›âñşÿÿÿÿ8“Îáå.
+s
+java:S1192‡"UDefine a constant instead of duplicating this literal "Something went wrong" 9 times.(»²í8“Îáå.
+C
+java:S1659a"&Declare "itemList" on a separate line.(õ˜†ï8“Îáå.
+~	java:S116d"]Rename this field "collect_now_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨æÇöÿÿÿÿÿ8“Îáå.
+L
+java:S1659S"/Declare "newAddressDetails" on a separate line.(Ï«£ß8“Îáå.
+p	java:S116K"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,8“Îáå.
+X	java:S125™"<This block of commented-out lines of code should be removed.(Í´Ù8“Îáå.
+G
+java:S1481"*Remove this unused "count" local variable.(«Ôæp8“Îáå.
+P
+java:S1481Ç"-Remove this unused "regionId" local variable.(¡»ı…øÿÿÿÿ8“Îáå.
+A
+java:S1148”"#Use a logger to log this exception.(Ç’Çê8“Îáå.
+P
+java:S1659G".Declare "sendQFixCheckBox" on a separate line.(À›âñşÿÿÿÿ8“Îáå.
+u
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Ÿ¿úøÿÿÿÿ8“Îáå.
+X	java:S125q"<This block of commented-out lines of code should be removed.(û·©ÿ8“Îáå.
+K
+java:S1659K"/Declare "CustomerAddressId" on a separate line.(Û‚©,8“Îáå.
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(¼Ÿ µùÿÿÿÿ8“Îáå.
+i
+java:S1117‚"FRename "mposRetrofitClient" which hides the field declared at line 95.(Ôõ±Ãÿÿÿÿÿ8“Îáå.
+w	java:S116e"[Rename this field "collect_now_cash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—“Áò8“Îáå.
+J
+java:S1659G"(Declare "collectnow" on a separate line.(À›âñşÿÿÿÿ8“Îáå.
+Y	java:S125Æ"<This block of commented-out lines of code should be removed.(ğº¨º8—ÚêÛû/
+W
+java:S1117ú"9Rename "email" which hides the field declared at line 89.(õÇÃé8“Îáå.
+A
+java:S1148˜"#Use a logger to log this exception.(Ç’Çê8“Îáå.
+Q
+java:S1068G"/Remove this unused "acceptterms" private field.(À›âñşÿÿÿÿ8“Îáå.
+^	java:S125ö"<This block of commented-out lines of code should be removed.(ßúˆæÿÿÿÿÿ8“Îáå.
+P
+java:S1481Í"2Remove this unused "shippedStreet" local variable.(„‘­ç8“Îáå.
+A
+java:S1148«"#Use a logger to log this exception.(Ç’Çê8“Îáå.
+Y	java:S125¯"<This block of commented-out lines of code should be removed.(«çØÔ8“Îáå.
+‡
+java:S1128<"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ShippingRateRequest'.(ÕˆÌîÿÿÿÿÿ8“Îáå.
+i
+java:S1192ì"KDefine a constant instead of duplicating this literal "CustomerId" 4 times.(œ‚õ8“Îáå.
+i
+java:S1117£"FRename "mposRetrofitClient" which hides the field declared at line 95.(Ôõ±Ãÿÿÿÿÿ8“Îáå.
+g
+java:S3358Æ"DExtract this nested ternary operation into an independent statement.(™Á»åüÿÿÿÿ8’ßûˆ0
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(—¢ì”ıÿÿÿÿ8“Îáå.
+g
+java:S1192û"IDefine a constant instead of duplicating this literal "shop_url" 4 times.(¦ØÚî8“Îáå.
+M
+java:S1481Ë"*Remove this unused "email" local variable.(Í½ÃËøÿÿÿÿ8“Îáå.
+J
+java:S1481û",Remove this unused "shopUrl" local variable.(¦ØÚî8ùÉ¼áú/
+W
+java:S1117õ"9Rename "email" which hides the field declared at line 89.(õÇÃé8“Îáå.
+`
+java:S1117ò"BRename "progressDialog" which hides the field declared at line 80.(Ë¥â‰8“Îáå.
+g
+java:S3358’"DExtract this nested ternary operation into an independent statement.(Ş¶ÕÖÿÿÿÿÿ8“Îáå.
+^	java:S125ä"<This block of commented-out lines of code should be removed.(‰à®êúÿÿÿÿ8“Îáå.
+J
+java:S1481",Remove this unused "shopUrl" local variable.(¦ØÚî8’ßûˆ0
+R
+java:S1144®"4Remove this unused private "isPoyntTerminal" method.(‡Û8“Îáå.
+P
+java:S1659O".Declare "mobileNoEditText" on a separate line.(™·Ñëùÿÿÿÿ8“Îáå.

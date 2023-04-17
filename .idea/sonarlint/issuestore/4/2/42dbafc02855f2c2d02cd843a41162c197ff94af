@@ -1,0 +1,79 @@
+
+h
+java:S1192]"KDefine a constant instead of duplicating this literal "product_id" 4 times.(ô‰¬„8×¥œŒÁ/
+i
+java:S1192`"LDefine a constant instead of duplicating this literal "product_sku" 4 times.(ù¡•8×¥œŒÁ/
+m
+java:S1192Ñ"JDefine a constant instead of duplicating this literal "entity_id" 3 times.(ÉƒÜÊıÿÿÿÿ8×¥œŒÁ/
+g
+java:S1192Ï"IDefine a constant instead of duplicating this literal "value_id" 6 times.(ô†…›8×¥œŒÁ/
+h
+java:S1192a"KDefine a constant instead of duplicating this literal "StandAlone" 4 times.(Î´ı·8×¥œŒÁ/
+l
+java:S1192Ó"IDefine a constant instead of duplicating this literal "position" 3 times.(ùìÍ°ùÿÿÿÿ8×¥œŒÁ/
+W
+java:S1141l"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8×¥œŒÁ/
+X
+java:S1141È"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8×¥œŒÁ/
+F
+java:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×¥œŒÁ/
+F
+java:S1148²"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×¥œŒÁ/
+K
+java:S1604Á"(Make this anonymous inner class a lambda(ªàêÏûÿÿÿÿ8×¥œŒÁ/
+K
+java:S1604ˆ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8×¥œŒÁ/
+
+java:S1488•"^Immediately return this expression instead of assigning it to the temporary variable "bitmap".( ¶âæùÿÿÿÿ8×¥œŒÁ/
+
+java:S1488Ÿ"^Immediately return this expression instead of assigning it to the temporary variable "bitmap".( ¶âæùÿÿÿÿ8×¥œŒÁ/
+
+java:S1488©"^Immediately return this expression instead of assigning it to the temporary variable "bitmap".( ¶âæùÿÿÿÿ8×¥œŒÁ/
+R
+java:S1128*"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8×¥œŒÁ/
+x
+java:S1450O"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(”ü®‡ùÿÿÿÿ8×¥œŒÁ/
+J
+java:S1659>"(Declare "imageView2" on a separate line.(·ş„èûÿÿÿÿ8×¥œŒÁ/
+J
+java:S1659>"(Declare "imageView3" on a separate line.(·ş„èûÿÿÿÿ8×¥œŒÁ/
+D
+java:S1659F"'Declare "price_txt" on a separate line.(ÅÍ£û8×¥œŒÁ/
+B
+java:S1659F"%Declare "sku_txt" on a separate line.(ÅÍ£û8×¥œŒÁ/
+o	java:S116F"SRename this field "name_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÍ£û8×¥œŒÁ/
+p	java:S116F"TRename this field "price_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÍ£û8×¥œŒÁ/
+n	java:S116F"RRename this field "sku_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÍ£û8×¥œŒÁ/
+r	java:S116G"VRename this field "edit_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ßá8×¥œŒÁ/
+u	java:S116M"YRename this field "PERMISSION_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀ‚×8×¥œŒÁ/
+w	java:S116P"VRename this field "PERMISSIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÛ®Ñûÿÿÿÿ8×¥œŒÁ/
+E	java:S108y")Either remove or fill this block of code.(”ı¾8×¥œŒÁ/
+F	java:S108")Either remove or fill this block of code.(”ı¾8×¥œŒÁ/
+p	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿç¼øÿÿÿÿ8×¥œŒÁ/
+p	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š´÷œÿÿÿÿÿ8×¥œŒÁ/
+k	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µúñ‹8×¥œŒÁ/
+p
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ŒØøÜ8×¥œŒÁ/
+F	java:S108ƒ")Either remove or fill this block of code.(”ı¾8×¥œŒÁ/
+|
+java:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8×¥œŒÁ/
+K
+java:S1905¦"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8×¥œŒÁ/
+9
+java:S3626Ï"Remove this redundant jump.(ûÁİ…8×¥œŒÁ/
+9
+java:S3626İ"Remove this redundant jump.(ûÁİ…8×¥œŒÁ/
+D
+java:S1172¿"&Remove these unused method parameters.(ƒ‹Î÷8×¥œŒÁ/
+J
+java:S1172Ä",Remove this unused method parameter "which".(¦Œœ¢8×¥œŒÁ/
+z
+java:S3252ÿ"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ß„Ïıÿÿÿÿ8×¥œŒÁ/
+F	java:S108‚")Either remove or fill this block of code.(á¢–¬8×¥œŒÁ/
+^	java:S125²"<This block of commented-out lines of code should be removed.(â›úŠÿÿÿÿÿ8×¥œŒÁ/
+^	java:S125¸"<This block of commented-out lines of code should be removed.(ı¶ºôşÿÿÿÿ8×¥œŒÁ/
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(ßê‰À8×¥œŒÁ/
+Y	java:S125"<This block of commented-out lines of code should be removed.(­Îá¾8×¥œŒÁ/
+^	java:S125›"<This block of commented-out lines of code should be removed.(ñ¹²ûÿÿÿÿ8×¥œŒÁ/
+M
+java:S1144£"0Remove this unused private "checkParams" method.(©¸ìG8×¥œŒÁ/

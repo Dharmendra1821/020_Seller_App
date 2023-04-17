@@ -1,0 +1,7 @@
+
+{squid:S00116"\Rename this field "billingstate_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÕóÃ8Ù¡Çä-
+squid:S13193"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¤üö8Ü³å©ä-
+–squid:S13197"xThe type of the "billingstreet" object should be an interface such as "List" rather than the implementation "ArrayList".(ÑïŞÅ8Ü³å©ä-
+msquid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€È8Ü³å©ä-
+rsquid:S00100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¿µıÿÿÿÿ8Ü³å©ä-
+usquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¿µıÿÿÿÿ8Ü³å©ä-

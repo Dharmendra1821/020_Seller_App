@@ -1,0 +1,6 @@
+
+l
+java:S1192-"JDefine a constant instead of duplicating this literal " TEXT , " 11 times.(ÒƒÂÞùÿÿÿÿ8“”Ö„å.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íþÍ¸8“”Ö„å.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷ Ïªùÿÿÿÿ8“”Ö„å.
+]	java:S125*"<This block of commented-out lines of code should be removed.(ÝÇ˜‚øÿÿÿÿ8“”Ö„å.

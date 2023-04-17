@@ -1,0 +1,41 @@
+
+wsquid:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(İèñƒ8îË›ıÿ-
+|squid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á½ºúÿÿÿÿ8îË›ıÿ-
+Vsquid:S1481Ó"2Remove this unused "IsAllExecuted" local variable.(†şö¸øÿÿÿÿ8îË›ıÿ-
+vsquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(°´Ëúÿÿÿÿ8îË›ıÿ-
+jsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(÷µæ®8îË›ıÿ-
+osquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(•ßŸÿÿÿÿÿ8îË›ıÿ-
+wsquid:S3776„"SRefactor this method to reduce its Cognitive Complexity from 154 to the 15 allowed.(ôäÈæıÿÿÿÿ8îË›ıÿ-
+osquid:S00116L"PRename this field "Index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È…’8îË›ıÿ-
+Bsquid:S1659´"#Declare "label" on a separate line.(à¨Ê£8îË›ıÿ-
+qsquid:S00117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÌÚä8îË›ıÿ-
+]squid:S1155Å">Use isEmpty() to check whether the collection is empty or not.(æÀƒ›8îË›ıÿ-
+Jsquid:S1659¯"&Declare "spinner2" on a separate line.(æÄÿşÿÿÿÿ8‚§›ıÿ-
+ksquid:S00116R"SRename this field "CartName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÓ¡é
+osquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(Øª¿Ÿÿÿÿÿÿ8îË›ıÿ-
+osquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(•ßŸÿÿÿÿÿ8îË›ıÿ-
+"squid:ClassVariableVisibilityCheckW"YMake mSelectedItem a static final constant or non-public and provide accessors if needed.( İùQ8îË›ıÿ-
+Jsquid:S1659¯"&Declare "spinner4" on a separate line.(æÄÿşÿÿÿÿ8îË›ıÿ-
+Šsquid:S1845a"gRename field "dropdown" to prevent any misunderstanding/clash with field "Dropdown" defined on line 62.(ÀÛØüûÿÿÿÿ8îË›ıÿ-
+vsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†şö¸øÿÿÿÿ8îË›ıÿ-
+osquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(•ßŸÿÿÿÿÿ8îË›ıÿ-
+Bsquid:S1659G"Declare "c" on a separate line.(óøä·ùÿÿÿÿ8îË›ıÿ-
+1squid:S2176­"Rename this class.(®ü†ï8îË›ıÿ-
+Jsquid:S1659¯"&Declare "spinner3" on a separate line.(æÄÿşÿÿÿÿ8îË›ıÿ-
+Gsquid:S1604ö"(Make this anonymous inner class a lambda(†£°î8îË›ıÿ-
+Nsquid:S1659°"*Declare "productvalue" on a separate line.(„ÒŠÕÿÿÿÿÿ8îË›ıÿ-
+Nsquid:S1481Â"*Remove this unused "value" local variable.(íÆ‡Ÿúÿÿÿÿ8îË›ıÿ-
+osquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(•ßŸÿÿÿÿÿ8îË›ıÿ-
+zsquid:S3923’"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¬ôì–8îË›ıÿ-
+dsquid:HiddenFieldCheckÏ"5Rename "a" which hides the field declared at line 92.(ãúÈşÿÿÿÿ8îË›ıÿ-
+rsquid:S00116K"NRename this field "QTY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İßÀÂøÿÿÿÿ8‚§›ıÿ-
+fsquid:S1192¾"GDefine a constant instead of duplicating this literal "SELECT" 5 times.(—ª¹¶8îË›ıÿ-
+vsquid:S00116S"RRename this field "CartSKU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïú«™şÿÿÿÿ8‚§›ıÿ-
+Ssquid:S1066İ"/Merge this if statement with the enclosing one.(¡½œüıÿÿÿÿ8îË›ıÿ-
+ssquid:S00116T"TRename this field "CartPrice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•êŞÇ8îË›ıÿ-
+psquid:S00116´"PRename this field "Price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¨Ê£8îË›ıÿ-
+wsquid:S00116>"SRename this field "Dropdown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ”™¤øÿÿÿÿ8îË›ıÿ-
+{squid:S00116E"WRename this field "Productimage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ç«–ÿÿÿÿÿ8îË›ıÿ-
+osquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(•ßŸÿÿÿÿÿ8îË›ıÿ-
+Gsquid:S1659G"$Declare "select" on a separate line.(óøä·ùÿÿÿÿ8îË›ıÿ-
+wsquid:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß¸¾İ8îË›ıÿ-

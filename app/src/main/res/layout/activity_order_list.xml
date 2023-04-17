@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    tools:context=".add_new_product.activities.OrderListActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:weightSum="4"
+        android:orientation="horizontal">
+        
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="30dp"
+            android:textSize="12dp"
+            android:text="Invoice"
+            android:id="@+id/invoice_Btn"
+            android:textColor="@color/colorBlack"
+            android:textAllCaps="false"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/button_text_border"/>
+
+        <Button
+            android:id="@+id/shipped_Btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="30dp"
+            android:textSize="12dp"
+            android:text="Shipped"
+            android:textColor="@color/colorBlack"
+            android:textAllCaps="false"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/button_text_border"/>
+        <Button
+            android:id="@+id/cancelled_Btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="30dp"
+            android:textSize="12dp"
+            android:text="Cancel"
+            android:textColor="@color/colorBlack"
+            android:textAllCaps="false"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/button_text_border"/>
+        <Button
+            android:id="@+id/delivered_Btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="30dp"
+            android:textSize="12dp"
+            android:layout_marginRight="10dp"
+            android:text="Delivered"
+            android:textColor="@color/colorBlack"
+            android:textAllCaps="false"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/button_text_border"/>
+
+
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:textSize="12dp"
+                android:text="Create Memo"
+                android:id="@+id/create_memoBtn"
+                android:textColor="@color/colorWhite"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textAllCaps="false"
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:background="#2C357E"/>
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:textSize="12dp"
+                android:text="Cancel Udhar"
+                android:id="@+id/cancel_udharBtn"
+                android:textColor="@color/colorWhite"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textAllCaps="false"
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:background="#2C357E"/>
+
+        </LinearLayout>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="64646"
+            android:textColor="@color/colorBlack"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:id="@+id/order_detail_id"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Suraj Gholap"
+            android:textColor="@color/colorBlack"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/order_detail_custname"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shipping Details"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/colorBlack"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Suraj Gholap cxdvdfgrfgdrfgrdfgdsgdsgdsgsdgdsgds fdgsdgsd"
+            android:textColor="@color/colorBlack"
+            android:textSize="14dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/order_detail_address"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Suraj@gmail.com"
+            android:textColor="@color/colorBlack"
+            android:textSize="14dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/order_detail_email"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9833173183"
+            android:textColor="@color/colorBlack"
+            android:textSize="14dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/order_detail_mobile"/>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/product_detail_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:visibility="gone"
+        android:weightSum="3">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16dp"
+            android:text="SKU"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/new_btn_color"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16dp"
+            android:text="Product name"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/new_btn_color"
+            />
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16dp"
+            android:text="Product price"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/new_btn_color"
+            />
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:id="@+id/myorder_product_detail_recyclerview">
+
+    </androidx.recyclerview.widget.RecyclerView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:background="#e4e4e4">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Subtotal"
+            android:textColor="@color/colorBlack"
+            android:textSize="14dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/order_detail_subtotal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shipping amount"
+            android:textColor="@color/colorBlack"
+            android:textSize="14dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/order_detail_shippingamount"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tax amount"
+            android:textColor="@color/colorBlack"
+            android:textSize="14dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/order_detail_taxamount"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Order Total"
+            android:textColor="@color/colorBlack"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/order_detail_grandtotal"/>
+
+    </LinearLayout>
+    </LinearLayout>
+</ScrollView>

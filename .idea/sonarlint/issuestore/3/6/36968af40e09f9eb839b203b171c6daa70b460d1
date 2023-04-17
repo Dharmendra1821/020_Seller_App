@@ -1,0 +1,7 @@
+
+€squid:S4165-"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà8ãû³üÿ-
+¦squid:S1319*"‚The type of the "addProductListingModels" object should be an interface such as "List" rather than the implementation "ArrayList".(˜é‘ºùÿÿÿÿ8ãû³üÿ-
+…squid:S14884"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ8ãû³üÿ-
+Usquid:S2696…"6Make the enclosing method "static" or remove this set.(õ§ÿ³8ãû³üÿ-
+Hsquid:S00108W")Either remove or fill this block of code.(”ı¾8ãû³üÿ-
+xsquid:S00116u"TRename this field "add_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÑÂ­ûÿÿÿÿ8ãû³üÿ-

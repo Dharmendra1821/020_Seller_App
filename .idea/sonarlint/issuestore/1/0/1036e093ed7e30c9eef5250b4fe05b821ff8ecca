@@ -1,0 +1,165 @@
+
+X
+java:S1117¹":Rename "intent" which hides the field declared at line 80.(õÒƒ8‘Öô‹ù/
+N
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8ÉËÆìê.
+m
+java:S1192ó"JDefine a constant instead of duplicating this literal "CGST/SGST" 5 times.(êŠ÷òıÿÿÿÿ8ƒ›Î‰í.
+Y	java:S125"<This block of commented-out lines of code should be removed.(ı¿•™8¬åºìê.
+Y	java:S125§"<This block of commented-out lines of code should be removed.(œ¹øñ8Šçïğì.
+j
+java:S1192¨"GDefine a constant instead of duplicating this literal "Url..." 3 times.(òì£Ğùÿÿÿÿ8‘Öô‹ù/
+i
+java:S1192â"KDefine a constant instead of duplicating this literal "Select Tax" 3 times.(½Ù·±8›©Ó“í.
+ˆ
+java:S1128E"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.ComplaintsAdapter'.(ÓÑªûÿÿÿÿ8¬åºìê.
+H
+java:S1659a"+Declare "gstTaxAdapter" on a separate line.(Î‰¯ç8¬åºìê.
+F
+java:S1659a")Declare "igstAdapter" on a separate line.(Î‰¯ç8¬åºìê.
+K
+java:S1905»"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8›¯¡’í.
+Y	java:S125Ä"<This block of commented-out lines of code should be removed.(ùÀâ´8Šçïğì.
+^	java:S125ı"<This block of commented-out lines of code should be removed.(İ€ğ¦ûÿÿÿÿ8ÖÅüˆí.
+E
+java:S1604¿"(Make this anonymous inner class a lambda(î™Âk8¬åºìê.
+M
+java:S1144¸"0Remove this unused private "checkParams" method.(©¸ìG8›¯¡’í.
+p
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 97 to the 15 allowed.(¡é††8¦õ“‰í.
+¤
+java:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8ıç¬ñì.
+s
+java:S1128I"WRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.BASE_URL'.(Œ°Á98Ÿ‘ô‹ù/
+¤
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8ıç¬ñì.
+E
+java:S1604¢"(Make this anonymous inner class a lambda(î™Âk8ÄŠ‰í.
+G
+java:S1659w"*Declare "mainTaxValue" on a separate line.(æôôæ8¹ƒ‰í.
+E
+java:S1604¥"(Make this anonymous inner class a lambda(²» g8›¯¡’í.
+u
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¨Œşÿÿÿÿ8¬åºìê.
+C
+java:S1659`"(Declare "igstLayout" on a separate line.(ˆôÚ²şÿÿÿÿ
+E
+java:S1659v"/Declare "igstSelectedValue" on a separate line.(¡Áğ
+v	java:S116Z"\Rename this field "gst_tax_selection" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äúÅŞÿÿÿÿÿ
+K
+java:S1604…"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8›¯¡’í.
+E
+java:S1659M"#Declare "price" on a separate line.(å©¶Êøÿÿÿÿ8¬åºìê.
+o	java:S116Y"URename this field "gst_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï—¡œıÿÿÿÿ
+X
+java:S1117¶":Rename "status" which hides the field declared at line 94.(Í¤ª˜8úù£ÿ/
+L
+java:S1659~"*Declare "igstCheckbox" on a separate line.(½Û…£ÿÿÿÿÿ8”Ú†ğì.
+N
+java:S1659\",Declare "check_igst_new" on a separate line.(Ñ´È…úÿÿÿÿ8¬åºìê.
+R
+java:S1128"5Remove this unused import 'android.text.TextWatcher'.( š«8¬åºìê.
+O
+java:S1659^"-Declare "create_igst_tax" on a separate line.(ÚŒ­úÿÿÿÿ8¬åºìê.
+D
+java:S1659w"'Declare "igstValue" on a separate line.(æôôæ8¬åºìê.
+z	java:S116\"YRename this field "check_cgst_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ´È…úÿÿÿÿ8¬åºìê.
+{	java:S116^"ZRename this field "create_cgst_tax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŒ­úÿÿÿÿ8¬åºìê.
+O
+java:S1602¯",Remove useless curly braces around statement(ç‘‹ôüÿÿÿÿ8ÄŠ‰í.
+H
+java:S1659a"+Declare "statusAdapter" on a separate line.(Î‰¯ç8çæ‰‰í.
+Y	java:S125±"<This block of commented-out lines of code should be removed.(ıÇÏ½8„üˆí.
+‚
+java:S1128B"gRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.AddInvoiceActivity'.(èÚªÿÿÿÿÿ
+O
+java:S1659^"-Declare "create_cgst_tax" on a separate line.(ÚŒ­úÿÿÿÿ8¬åºìê.
+K
+java:S1604¯"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8‘Öô‹ù/
+^	java:S125Ë"<This block of commented-out lines of code should be removed.( ³ù€ıÿÿÿÿ8ÄŠ‰í.
+^	java:S125Á"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ıç¬ñì.
+^	java:S125¢"<This block of commented-out lines of code should be removed.(ÈŸ‚ïüÿÿÿÿ8‘Öô‹ù/
+K
+java:S1905æ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8‘Öô‹ù/
+G
+java:S1659M"%Declare "product" on a separate line.(å©¶Êøÿÿÿÿ8¬åºìê.
+M
+java:S1128"2Remove this unused import 'android.text.Editable'.(À”áÈşÿÿÿÿ
+D
+java:S1659M""Declare "cgst" on a separate line.(å©¶Êøÿÿÿÿ8¬åºìê.
+^	java:S125ã"<This block of commented-out lines of code should be removed.(ÿ¼‹Åÿÿÿÿÿ8û­’–ì.
+{	java:S116^"ZRename this field "create_main_tax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŒ­úÿÿÿÿ8œıøˆí.
+{	java:S116^"ZRename this field "create_igst_tax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŒ­úÿÿÿÿ8¬åºìê.
+n
+java:S1192°"KDefine a constant instead of duplicating this literal "cgst/sgst" 10 times.(ˆûå“ùÿÿÿÿ8ÿ›Ô‰í.
+O
+java:S11284"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¬åºìê.
+w
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó˜Şº8›¯¡’í.
+Y	java:S125È"<This block of commented-out lines of code should be removed.(ßê‰À8‘Öô‹ù/
+F
+java:S1659a")Declare "cgstAdapter" on a separate line.(Î‰¯ç8¬åºìê.
+r	java:S116Z"XRename this field "gst_tax_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äúÅŞÿÿÿÿÿ
+q
+java:S1192œ"SDefine a constant instead of duplicating this literal "invoice_for_amount" 3 times.(‰âŞÑ8¦õ“‰í.
+
+java:S1128:"qRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.MyProductListActivity'.(üÁÄ88¬åºìê.
+C
+java:S1659["(Declare "check_igst" on a separate line.(í“ú¼ÿÿÿÿÿ
+^	java:S125¯"<This block of commented-out lines of code should be removed.(¿ÊÊ«øÿÿÿÿ8‚´úˆí.
+F
+java:S1659a")Declare "gstTaxValue" on a separate line.(Î‰¯ç8¬åºìê.
+E
+java:S1128"/Remove this unused import 'android.os.Handler'.(ûÛ’¡
+^	java:S125û"<This block of commented-out lines of code should be removed.(Ö¤Îãùÿÿÿÿ8ÖÅüˆí.
+S
+java:S1481ü"0Remove this unused "jsonObject1" local variable.(ÍÒ‰ñşÿÿÿÿ8¦õ“‰í.
+o	java:S116["URename this field "check_cgst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í“ú¼ÿÿÿÿÿ
+J
+java:S1481¡",Remove this unused "shopUrl" local variable.(¦ØÚî8‘Öô‹ù/
+^	java:S125¯"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ıç¬ñì.
+Y	java:S125³"<This block of commented-out lines of code should be removed.(÷Ñã8ıç¬ñì.
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ıç¬ñì.
+q
+java:S1192Ê"NDefine a constant instead of duplicating this literal "products_list" 3 times.(Ç†Ù¬üÿÿÿÿ8¢­÷±í.
+¤
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8ıç¬ñì.
+M
+java:S1144ã"0Remove this unused private "checkParams" method.(©¸ìG8‘Öô‹ù/
+E
+java:S1604Å"(Make this anonymous inner class a lambda(²» g8‘Öô‹ù/
+C
+java:S1659M"!Declare "qty" on a separate line.(å©¶Êøÿÿÿÿ8¬åºìê.
+
+java:S1128C"mRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.AddInvoiceSecondActivity'.(¡¯ËŞÿÿÿÿÿ8¬åºìê.
+C
+java:S1659Y"(Declare "gst_layout" on a separate line.(Ï—¡œıÿÿÿÿ
+Y	java:S125¨"<This block of commented-out lines of code should be removed.(ßê‰À8›¯¡’í.
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(Ş²…²8“½Ó“í.
+F	java:S108¾")Either remove or fill this block of code.(”ı¾8‘Öô‹ù/
+D
+java:S1168Ş"&Return an empty array instead of null.(¥¹ï8‘Öô‹ù/
+|
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(éğÄüÿÿÿÿ8û­’–ì.
+s	java:S116Y"YRename this field "product_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï—¡œıÿÿÿÿ
+p
+java:S1192İ"MDefine a constant instead of duplicating this literal "Product List" 5 times.(Ç‘è£ùÿÿÿÿ8ˆˆµšì.
+z	java:S116\"YRename this field "check_igst_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ´È…úÿÿÿÿ8¬åºìê.
+^	java:S125µ"<This block of commented-out lines of code should be removed.(å‹êÔúÿÿÿÿ8¾šƒğì.
+F
+java:S1659Z"+Declare "gst_tax_value" on a separate line.(äúÅŞÿÿÿÿÿ
+W
+java:S1128":Remove this unused import 'android.widget.CompoundButton'.(®½¤Ş8¬åºìê.
+D
+java:S1659M""Declare "igst" on a separate line.(å©¶Êøÿÿÿÿ8¬åºìê.
+|
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÖÔïùÿÿÿÿ8›¯¡’í.
+o	java:S116["URename this field "check_igst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í“ú¼ÿÿÿÿÿ
+K
+java:S1659")Declare "igstChecked" on a separate line.(·Ùãøÿÿÿÿ8¨Ù‡’í.
+j
+java:S1117™"GRename "invoiceProductModel" which hides the field declared at line 85.(»¢¦’ûÿÿÿÿ8ÄŠ‰í.
+O
+java:S1659^"-Declare "create_main_tax" on a separate line.(ÚŒ­úÿÿÿÿ8œıøˆí.
+y	java:S116{"XRename this field "help_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÊÿÜşÿÿÿÿ8¬åºìê.
+Y	java:S125©"<This block of commented-out lines of code should be removed.(™£î8ıç¬ñì.

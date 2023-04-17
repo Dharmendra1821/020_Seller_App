@@ -1,0 +1,10 @@
+
+‡
+java:S1128"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.invoice_seller.CreateInvoiceActivity'.(¸‹œ€üÿÿÿÿ8·’‘²í.
+l	java:S116"WRename this field "invoice_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ãÕÂ
+k	java:S116"VRename this field "bulk_upload" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ãÕÂ
+@
+java:S1659"*Declare "invoice_list" on a separate line.(¤ãÕÂ
+?
+java:S1659")Declare "bulk_upload" on a separate line.(¤ãÕÂ
+k	java:S116"VRename this field "add_invoice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ãÕÂ

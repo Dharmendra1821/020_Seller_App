@@ -1,0 +1,632 @@
+
+Y	java:S125ù"<This block of commented-out lines of code should be removed.(ûÁ8ëÑíêì.
+Z
+java:S2589"7Remove this expression which always evaluates to "true"(àˆàŠıÿÿÿÿ8Ó‘Šëì.
+E
+java:S1604·"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+O
+java:S1128p"2Remove this unused import 'okhttp3.MultipartBody'.(ÕœˆŒ8“—Ù‘ë.
+K
+java:S1905´
+"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ó‘Šëì.
+F
+java:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+\
+java:S1874æ"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ8Ó‘Šëì.
+¦
+java:S1192ù"‚Define a constant instead of duplicating this literal "Unsupported Encoding while trying to get the bytes of %s using %s" 5 times.(Ùğôøûÿÿÿÿ8Ó‘Šëì.
+G
+java:S1481Ú
+")Remove this unused "igst" local variable.(ëõœğ8Ó‘Šëì.
+g
+java:S1192¸"JDefine a constant instead of duplicating this literal "imageUrl1" 7 times.(á’ˆy8“—Ù‘ë.
+F	java:S108Ò	")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+J
+java:S1481£",Remove this unused "shopUrl" local variable.(¦ØÚî8Á¸¦§ş/
+^	java:S125í"<This block of commented-out lines of code should be removed.(¾öÎ´ÿÿÿÿÿ8Ó‘Šëì.
+v	java:S116°"YRename this field "PERMISSION_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀ‚×8“—Ù‘ë.
+†
+java:S1192«"cDefine a constant instead of duplicating this literal "Product image deleted successfully" 3 times.(úÄ´ùÿÿÿÿ8Ó‘Šëì.
+a
+java:S1155ß">Use isEmpty() to check whether the collection is empty or not.(íááúÿÿÿÿ8Û…·Ïş/
+~	java:S116À"bRename this field "product_stock_avail_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê®ºD8“—Ù‘ë.
+Ÿ
+java:S1128‹"|Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.EditImageProductDetailActivity'.(ö«¶åùÿÿÿÿ8“—Ù‘ë.
+F
+java:S1148Ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+F
+java:S1128X")Remove this unused import 'java.io.File'.(†Ğ¥Å8“—Ù‘ë.
+p
+java:S1192İ"MDefine a constant instead of duplicating this literal "Out of Stock" 3 times.(åè¹£üÿÿÿÿ8ëÑíêì.
+G
+java:S1128c"*Remove this unused import 'java.sql.Blob'.(ïÚ¶ã8“—Ù‘ë.
+q
+java:S1192š"NDefine a constant instead of duplicating this literal "PlaceOrder===" 4 times.(æéîıÿÿÿÿ8Ó‘Šëì.
+V
+java:S1128?"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8“—Ù‘ë.
+a
+java:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(íááúÿÿÿÿ8Û…·Ïş/
+A
+java:S1659¯"#Declare "edit3" on a separate line.(ŠªÊİ8“—Ù‘ë.
+J
+java:S1172†",Remove this unused method parameter "which".(¦Œœ¢8Ó‘Šëì.
+W
+java:S1128W"5Remove this unused import 'java.io.DataOutputStream'.(¸Îáíıÿÿÿÿ8“—Ù‘ë.
+‚
+java:S1128•"_Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ConfigDetails'.(˜ıç¤üÿÿÿÿ8“—Ù‘ë.
+K
+java:S1604À"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8Ó‘Šëì.
+p	java:S100Ê	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¨œ“ÿÿÿÿÿ8Ó‘Šëì.
+p
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(§¾õØ8Ó‘Šëì.
+F	java:S108á")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+^	java:S125³"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Ó‘Šëì.
+E
+java:S1604Ø"(Make this anonymous inner class a lambda(²» g8Ó‘Šëì.
+L
+java:S1874„".Remove this use of "Scheme"; it is deprecated.(‰šÀö8Ó‘Šëì.
+’
+java:S1128‡"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListActivity'.( ÏßÜ8“—Ù‘ë.
+¤
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ8ëÑíêì.
+G
+java:S1659Ç")Declare "sub_spinner" on a separate line.(İò8“—Ù‘ë.
+w	java:S116©"URename this field "basic_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È„š÷şÿÿÿÿ8“—Ù‘ë.
+l
+java:S1192¡"IDefine a constant instead of duplicating this literal "Response" 5 times.(ËÖ‡©ùÿÿÿÿ8Ó‘Šëì.
+Y	java:S125ÿ"<This block of commented-out lines of code should be removed.(­ú°ã8ëÑíêì.
+t
+java:S1192™"VDefine a constant instead of duplicating this literal "GST 28% Taxable Goods" 3 times.(îˆÜ®8ëÑíêì.
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(çÛÖÛ8Ó‘Šëì.
+ƒ
+java:S1192ğ"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 5 times.(Š¥Ç¾ıÿÿÿÿ8Ó‘Šëì.
+M
+java:S1144•"0Remove this unused private "checkParams" method.(©¸ìG8Ó‘Šëì.
+M
+java:S1144"0Remove this unused private "checkParams" method.(©¸ìG8Ó‘Šëì.
+F
+java:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+N
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8“—Ù‘ë.
+s
+java:S1192É"UDefine a constant instead of duplicating this literal "Something went wrong" 3 times.(áÅ¢ˆ8ª”¢§ş/
+^	java:S125Œ"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Ó‘Šëì.
+d
+java:S1192—"FDefine a constant instead of duplicating this literal "https" 3 times.(‰šÀö8Ó‘Šëì.
+Q
+java:S1128Y"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8“—Ù‘ë.
+r
+java:S2095ú"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ8Ó‘Šëì.
+J
+java:S1481ı",Remove this unused "shopUrl" local variable.(¦ØÚî8ÎÎŠ§ş/
+\
+java:S1874ú"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ8Ó‘Šëì.
+t	java:S116Ï"WRename this field "sub_parentid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼í©¾8“—Ù‘ë.
+K
+java:S1604º"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ8Ó‘Šëì.
+z	java:S116Á"XRename this field "p_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+F	java:S108¦	")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+V
+java:S1874ó"8Remove this use of "SSLSocketFactory"; it is deprecated.(‰šÀö8Ó‘Šëì.
+	java:S116ê"bRename this field "product_category_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³8“—Ù‘ë.
+z	java:S116¨"XRename this field "more_info_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¾¡şûÿÿÿÿ8“—Ù‘ë.
+
+java:S1319„"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹Ş¯É8ëÑíêì.
+G
+java:S1659İ"$Declare "image3" on a separate line.(Ñ­î©úÿÿÿÿ8“—Ù‘ë.
+¤
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ8ëÑíêì.
+I
+java:S1659Á"&Declare "p_weight" on a separate line.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+s	java:S116¹"VRename this field "more_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¤½8“—Ù‘ë.
+V
+java:S1117ì"8Rename "url" which hides the field declared at line 240.(ƒëÑè8Ó‘Šëì.
+d
+java:S1192…	"FDefine a constant instead of duplicating this literal "image" 3 times.(¾îÁõ8Ó‘Šëì.
+v	java:S116©"TRename this field "more_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È„š÷şÿÿÿÿ8“—Ù‘ë.
+s
+java:S1192–"UDefine a constant instead of duplicating this literal "GST 5% Taxable Goods" 3 times.(ÚÆñÈ8“—Ù‘ë.
+|
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÏúşÿÿÿÿ8ëÑíêì.
+|
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8Ó‘Šëì.
+\
+java:S1874Õ"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ8Ó‘Šëì.
+¤
+java:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ8ëÑíêì.
+F	java:S108ù")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8ëÑíêì.
+G
+java:S1659İ"$Declare "image1" on a separate line.(Ñ­î©úÿÿÿÿ8“—Ù‘ë.
+N
+java:S1068²"+Remove this unused "toolbar" private field.(”ü®‡ùÿÿÿÿ8“—Ù‘ë.
+l
+java:S1192¼"IDefine a constant instead of duplicating this literal "imageId1" 5 times.(»ÓÀ¬øÿÿÿÿ8“—Ù‘ë.
+J
+java:S1659À"-Declare "product_tax_new" on a separate line.(Ê®ºD8“—Ù‘ë.
+N
+java:S1659Á"+Declare "p_availablity" on a separate line.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+†
+java:S1128"hRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.EntryModel'.(ÔºÌÔ8“—Ù‘ë.
+p
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.( Üó8ëÑíêì.
+[
+java:S11288">Remove this unused import 'com.android.volley.toolbox.Volley'.(¢‰Ò¶8“—Ù‘ë.
+F
+java:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+J
+java:S1172Ô",Remove this unused method parameter "which".(¦Œœ¢8Ó‘Šëì.
+k
+java:S1192Ç"NDefine a constant instead of duplicating this literal "imagemasterid" 3 times.(Ö‘™	8Ó‘Šëì.
+n	java:S117ù	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹£³8“—Ù‘ë.
+Z
+java:S1874ó"<Remove this use of "getConnectionManager"; it is deprecated.(‰šÀö8Ó‘Šëì.
+E
+java:S1604ª"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+K
+java:S1604±"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ8Ó‘Šëì.
+?	java:S131´""Add a default case to this switch.(ºÖ8ëÑíêì.
+Z
+java:S2589î"7Remove this expression which always evaluates to "true"(àˆàŠıÿÿÿÿ8Ó‘Šëì.
+L
+java:S1874ó".Remove this use of "Scheme"; it is deprecated.(‰šÀö8Ó‘Šëì.
+D
+java:S1168ò"&Return an empty array instead of null.(¥¹ï8Ó‘Šëì.
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(ßê‰À8Ó‘Šëì.
+^	java:S125™"<This block of commented-out lines of code should be removed.(¹±»ÿüÿÿÿÿ8Ó‘Šëì.
+x	java:S116Œ"VRename this field "StringArray" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Œù‹ÿÿÿÿÿ8ëÑíêì.
+D
+java:S1172"&Remove these unused method parameters.(ƒ‹Î÷8Ó‘Šëì.
+F	java:S108â")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+Z
+java:S1874„"<Remove this use of "getConnectionManager"; it is deprecated.(‰šÀö8Ó‘Šëì.
+l
+java:S1192‡"IDefine a constant instead of duplicating this literal "url....." 3 times.(öÃ±÷şÿÿÿÿ8Ó‘Šëì.
+“
+java:S1319ü"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¾õãÀúÿÿÿÿ8ëÑíêì.
+h
+java:S1192Ç"JDefine a constant instead of duplicating this literal "........." 3 times.(­Êê¨8Ó‘Šëì.
+R
+java:S1068ë"/Remove this unused "parentItems" private field.(ãË¿éûÿÿÿÿ8“—Ù‘ë.
+T
+java:S1128;"7Remove this unused import 'com.google.gson.JsonObject'.(µÊ´½8“—Ù‘ë.
+K
+java:S1604"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8Ó‘Šëì.
+F
+java:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+t	java:S116¹"WRename this field "basic_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¤½8“—Ù‘ë.
+v
+java:S2293…
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö„¦V8Ó‘Šëì.
+t	java:S116Á"RRename this field "p_stock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+M
+java:S1144÷"0Remove this unused private "checkParams" method.(©¸ìG8Ó‘Šëì.
+^	java:S125¦"<This block of commented-out lines of code should be removed.(¹–­Ûúÿÿÿÿ8Ó‘Šëì.
+f
+java:S1192à"IDefine a constant instead of duplicating this literal "position" 4 times.(ƒÕÏY8ëÑíêì.
+j	java:S116ó"MRename this field "RC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ş¦ò8“—Ù‘ë.
+y
+java:S1192—"VDefine a constant instead of duplicating this literal "GST 12% Taxable Goods" 3 times.(÷ÚÇÒıÿÿÿÿ8“—Ù‘ë.
+a
+java:S1155ï">Use isEmpty() to check whether the collection is empty or not.(æ‰éÌşÿÿÿÿ8Û…·Ïş/
+K
+java:S1905˜"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ó‘Šëì.
+n	java:S117ú	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘•²8“—Ù‘ë.
+R
+java:S1659À"5Declare "product_stock_avail_new" on a separate line.(Ê®ºD8“—Ù‘ë.
+N
+java:S1659Æ"+Declare "subcategories" on a separate line.(¤†›×ÿÿÿÿÿ8“—Ù‘ë.
+D
+java:S1172è"&Remove these unused method parameters.(ƒ‹Î÷8Ó‘Šëì.
+T
+java:S1128^"7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸8“—Ù‘ë.
+H
+java:S1659Á"%Declare "p_stock" on a separate line.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+K
+java:S1905‚"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ó‘Šëì.
+s	java:S116Á"QRename this field "p_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+™
+java:S1319€"vThe type of the "categoryIds" object should be an interface such as "List" rather than the implementation "ArrayList".(Ì€…˜üÿÿÿÿ8ëÑíêì.
+¤
+java:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ8ëÑíêì.
+e
+java:S1192Ÿ"HDefine a constant instead of duplicating this literal "Bearer " 9 times.(çôÏw8Ó‘Šëì.
+E
+java:S1604è"(Make this anonymous inner class a lambda(²» g8Ó‘Šëì.
+z	java:S116Á"XRename this field "p_availablity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+Y	java:S125¥"<This block of commented-out lines of code should be removed.(çÛÖÛ8Ó‘Šëì.
+X
+java:S1141ï	"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ó‘Šëì.
+E
+java:S1604É"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+F
+java:S1148±"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+V
+java:S1874„"8Remove this use of "SSLSocketFactory"; it is deprecated.(‰šÀö8Ó‘Šëì.
+D
+java:S1168ú"&Return an empty array instead of null.(¥¹ï8Ó‘Šëì.
+E
+java:S1604œ"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+y
+java:S1128—"\Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ProductSKU'.(š¹ú8“—Ù‘ë.
+U
+java:S11283"8Remove this unused import 'com.android.volley.Response'.(ˆïƒ 8“—Ù‘ë.
+E
+java:S1604—
+"(Make this anonymous inner class a lambda(²» g8Ó‘Šëì.
+E
+java:S1604¶"(Make this anonymous inner class a lambda(²» g8Ó‘Šëì.
+E
+java:S1604·"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+K
+java:S1604Ï"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8Ó‘Šëì.
+N
+java:S1659Á"+Declare "p_description" on a separate line.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+F	java:S108Ê")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+|
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ğÁûşÿÿÿÿ8ëÑíêì.
+s	java:S117ø	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕüÿÿÿÿ8ëÑíêì.
+R
+java:S1128Z"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8“—Ù‘ë.
+Z
+java:S2589ÿ"7Remove this expression which always evaluates to "true"(àˆàŠıÿÿÿÿ8Ó‘Šëì.
+F
+java:S1659Á"#Declare "p_sku" on a separate line.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+ƒ
+java:S1128"`Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.login.model.ProductCartResponse'.(ÃÆ¯âıÿÿÿÿ8“—Ù‘ë.
+^	java:S125¢"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8ëÑíêì.
+S
+java:S1128\"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8“—Ù‘ë.
+j
+java:S1192÷"GDefine a constant instead of duplicating this literal "utf-8" 10 times.(§ßŞÕúÿÿÿÿ8Ó‘Šëì.
+u	java:S116Ğ"SRename this field "sub_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÁÍùÿÿÿÿ8“—Ù‘ë.
+y
+java:S1192£"[Define a constant instead of duplicating this literal "product saved successfully" 7 times.(Ö·‘ô8Ó‘Šëì.
+j
+java:S1192š"LDefine a constant instead of duplicating this literal "StandAlone" 11 times.(Î´ı·8ëÑíêì.
+Y	java:S125«
+"<This block of commented-out lines of code should be removed.(­Îá¾8Ó‘Šëì.
+j
+java:S1192¶"GDefine a constant instead of duplicating this literal "image3" 8 times.(«°èÍıÿÿÿÿ8ëÑíêì.
+a
+java:S11281"?Remove this unused import 'com.android.volley.NetworkResponse'.(÷ÌÂñøÿÿÿÿ8“—Ù‘ë.
+a
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(æ‰éÌşÿÿÿÿ8Û…·Ïş/
+G
+java:S1481“")Remove this unused "gson" local variable.(şëŒ8ª”¢§ş/
+M
+java:S1144ı"0Remove this unused private "checkParams" method.(©¸ìG8Ó‘Šëì.
+Y	java:S125¨"<This block of commented-out lines of code should be removed.(¤²ÆÛ8ëÑíêì.
+D
+java:S1168"&Return an empty array instead of null.(¥¹ï8Ó‘Šëì.
+h
+java:S1192Ÿ"KDefine a constant instead of duplicating this literal "adminToken" 7 times.(çôÏw8Ó‘Šëì.
+{	java:S116Í"YRename this field "sub_categoryid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×²Úšüÿÿÿÿ8“—Ù‘ë.
+F
+java:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+v	java:S116À"ZRename this field "product_tax_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê®ºD8“—Ù‘ë.
+t	java:S116Á"RRename this field "p_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+€	java:S116Ù"^Rename this field "product_hsncode_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äú´ºüÿÿÿÿ8“—Ù‘ë.
+¤
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8ëÑíêì.
+m
+java:S1192º"JDefine a constant instead of duplicating this literal "imageUrl3" 7 times.(˜¿Âıüÿÿÿÿ8ëÑíêì.
+l
+java:S1192Î"NDefine a constant instead of duplicating this literal "customerToken" 3 times.(êšï›8Ó‘Šëì.
+I
+java:S1659®"+Declare "productimage3" on a separate line.(³Ï²8“—Ù‘ë.
+„
+java:S1128„"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.util.MultipartUtility'.(ë²×É8“—Ù‘ë.
+K
+java:S1604Ç"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8Ó‘Šëì.
+K
+java:S1905‘"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ó‘Šëì.
+J
+java:S1068¤",Remove this unused "textView" private field.(ô¼¬Ø8“—Ù‘ë.
+V
+java:S1117Æ
+"8Rename "url" which hides the field declared at line 240.(ğè‡8Ó‘Šëì.
+|
+java:S2293ó
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8Ó‘Šëì.
+D
+java:S1168Ø"&Return an empty array instead of null.(¥¹ï8Ó‘Šëì.
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(¿÷‚üÿÿÿÿ8ª”¢§ş/
+N
+java:S1659¨"+Declare "more_info_btn" on a separate line.(á¾¡şûÿÿÿÿ8“—Ù‘ë.
+^	java:S125Ü"<This block of commented-out lines of code should be removed.(¾öÎ´ÿÿÿÿÿ8Ó‘Šëì.
+y	java:S116Î"WRename this field "sub_imageurl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÏ¼ÿÿÿÿÿ8“—Ù‘ë.
+J
+java:S1172í",Remove this unused method parameter "which".(¦Œœ¢8Ó‘Šëì.
+K
+java:S1905ú"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ó‘Šëì.
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹è8ëÑíêì.
+Š
+java:S1192¹"gDefine a constant instead of duplicating this literal "Images not uploaded, please try again!" 3 times.(âÎêõùÿÿÿÿ8Ó‘Šëì.
+
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "bitmap".( ¶âæùÿÿÿÿ8ëÑíêì.
+š
+java:S1319ˆ"wThe type of the "categoryName" object should be an interface such as "List" rather than the implementation "ArrayList".(ï¡äúÿÿÿÿ8ëÑíêì.
+h
+java:S1192—"JDefine a constant instead of duplicating this literal "shop_url" 12 times.(¦ØÚî8’—Ù‘ë.
+j
+java:S1192´"GDefine a constant instead of duplicating this literal "image1" 8 times.(é¬¼üúÿÿÿÿ8“—Ù‘ë.
+E
+java:S1604—"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+E
+java:S1185Ö"(Remove this method to simply inherit it.(­–ÀS8Ó‘Šëì.
+M
+java:S1144ÿ
+"0Remove this unused private "checkParams" method.(©¸ìG8Ó‘Šëì.
+Y	java:S125‰
+"<This block of commented-out lines of code should be removed.(€Åé8Ó‘Šëì.
+M
+java:S1144±
+"0Remove this unused private "checkParams" method.(©¸ìG8Ó‘Šëì.
+I
+java:S1659®"+Declare "productimage2" on a separate line.(³Ï²8“—Ù‘ë.
+E
+java:S1185Ä"(Remove this method to simply inherit it.(­–ÀS8Ó‘Šëì.
+E
+java:S1604å
+"(Make this anonymous inner class a lambda(²» g8Ó‘Šëì.
+m
+java:S1192¹"JDefine a constant instead of duplicating this literal "imageUrl2" 9 times.(Û”³®øÿÿÿÿ8“—Ù‘ë.
+j
+java:S1192µ"GDefine a constant instead of duplicating this literal "image2" 8 times.(éçö½úÿÿÿÿ8“—Ù‘ë.
+F
+java:S1148Ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+[
+java:S1128=">Remove this unused import 'com.squareup.picasso.MemoryPolicy'.(Àÿ“8“—Ù‘ë.
+K
+java:S1128i".Remove this unused import 'java.util.Objects'.(¼¸õ›8“—Ù‘ë.
+E
+java:S1604¦"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+}
+java:S1450ë"ZRemove the "parentItems" field and declare it as a local variable in the relevant methods.(ãË¿éûÿÿÿÿ8“—Ù‘ë.
+r	java:S116Á"PRename this field "p_sku" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+u	java:S116Á"SRename this field "p_weight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+E
+java:S1604ï"(Make this anonymous inner class a lambda(²» g8Ó‘Šëì.
+V
+java:S1117İ	"8Rename "url" which hides the field declared at line 240.(ƒ¼£œ8Ó‘Šëì.
+|
+java:S2293¥
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8Ó‘Šëì.
+F	java:S108½")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+^	java:S125Ù"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Ó‘Šëì.
+p
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(öÿÕÅ8Ó‘Šëì.
+†
+java:S1128Œ"cRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.Entry'.(‰›Àùÿÿÿÿ8“—Ù‘ë.
+F
+java:S1148Ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+|
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Œù‹ÿÿÿÿÿ8ëÑíêì.
+Š
+java:S1192Ì"lDefine a constant instead of duplicating this literal "Are you sure you wish to delete this image?" 3 times.(ßÚÔ8ëÑíêì.
+M
+java:S1128b"0Remove this unused import 'java.net.URLEncoder'.(ê¢ºÆ8“—Ù‘ë.
+K
+java:S1128o".Remove this unused import 'okhttp3.MediaType'.(¢¿ÜŠ8“—Ù‘ë.
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(ßê‰À8Ó‘Šëì.
+H
+java:S1659Ü"%Declare "editBtn" on a separate line.(«¬çüÿÿÿÿ8“—Ù‘ë.
+Y	java:S125ù
+"<This block of commented-out lines of code should be removed.(­Îá¾8Ó‘Šëì.
+s	java:S117÷	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( µËƒıÿÿÿÿ8“—Ù‘ë.
+[
+java:S1128>"?Remove this unused import 'com.squareup.picasso.NetworkPolicy'.(òÎå]8“—Ù‘ë.
+G
+java:S1659¹")Declare "more_layout" on a separate line.(ï¤½8“—Ù‘ë.
+^	java:S125µ	"<This block of commented-out lines of code should be removed.(èüù±ùÿÿÿÿ8Ó‘Šëì.
+F	java:S108ò")Either remove or fill this block of code.(á¢–¬8ëÑíêì.
+Y	java:S125µ"<This block of commented-out lines of code should be removed.(çÛÖÛ8Ó‘Šëì.
+K
+java:S1905Ş"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ó‘Šëì.
+|
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÇñ–úÿÿÿÿ8ëÑíêì.
+F	java:S108è")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+|
+java:S2293Ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8Ó‘Šëì.
+r
+java:S2095Õ"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ8Ó‘Šëì.
+q	java:S116Ò"TRename this field "sku_exits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔËáô8“—Ù‘ë.
+^	java:S125É
+"<This block of commented-out lines of code should be removed.(Ğùåªÿÿÿÿÿ8Ó‘Šëì.
+G
+java:S1659À"*Declare "sub_category" on a separate line.(Ê®ºD8“—Ù‘ë.
+D
+java:S1168‰"&Return an empty array instead of null.(¥¹ï8Ó‘Šëì.
+y
+java:S1192˜"VDefine a constant instead of duplicating this literal "GST 18% Taxable Goods" 3 times.(ÿàûÏúÿÿÿÿ8“—Ù‘ë.
+u
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ğ¸™áúÿÿÿÿ8ëÑíêì.
+^	java:S125ü"<This block of commented-out lines of code should be removed.(¹ãÑ¸ıÿÿÿÿ8ëÑíêì.
+^	java:S125à	"<This block of commented-out lines of code should be removed.(Ğùåªÿÿÿÿÿ8Ó‘Šëì.
+K
+java:S1604"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8Ó‘Šëì.
+a
+java:S1117ô">Rename "weightVal" which hides the field declared at line 247.(ÊÂâñşÿÿÿÿ8ëÑíêì.
+a
+java:S1155ğ">Use isEmpty() to check whether the collection is empty or not.(àñáıÿÿÿÿ8Û…·Ïş/
+A
+java:S1659¯"#Declare "edit2" on a separate line.(ŠªÊİ8“—Ù‘ë.
+Y	java:S125è
+"<This block of commented-out lines of code should be removed.(ßê‰À8Ó‘Šëì.
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Ó‘Šëì.
+‚
+java:S1128ˆ"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.Content'.(é¾z8“—Ù‘ë.
+n
+java:S1192"PDefine a constant instead of duplicating this literal "---------------" 3 times.(õÒ8Ó‘Šëì.
+L
+java:S1481Š")Remove this unused "call" local variable.(œ¿éÏúÿÿÿÿ8ª”¢§ş/
+M
+java:S1128["0Remove this unused import 'java.io.InputStream'.(¹»º8“—Ù‘ë.
+E
+java:S1604ü"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+F	java:S108Å	")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+M
+java:S1144Û"0Remove this unused private "checkParams" method.(©¸ìG8Ó‘Šëì.
+r
+java:S2095æ"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ8Ó‘Šëì.
+z
+java:S3252ï"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ß„Ïıÿÿÿÿ8Ó‘Šëì.
+j
+java:S1192›"GDefine a constant instead of duplicating this literal "result" 3 times.(ğ‰ æúÿÿÿÿ8Ó‘Šëì.
+E
+java:S1604Ñ"(Make this anonymous inner class a lambda(²» g8Ó‘Šëì.
+e
+java:S1192Ë"GDefine a constant instead of duplicating this literal "Delete" 6 times.(Õ¯¢8Ó‘Šëì.
+L
+java:S1874—".Remove this use of "Scheme"; it is deprecated.(‰šÀö8Ó‘Šëì.
+a
+java:S1155ø">Use isEmpty() to check whether the collection is empty or not.(íááúÿÿÿÿ8Û…·Ïş/
+f
+java:S1192É"HDefine a constant instead of duplicating this literal "request" 3 times.(Ø†İÄ8ëÑíêì.
+j
+java:S1192Ó"GDefine a constant instead of duplicating this literal "Cancel" 3 times.(òİŸ÷ıÿÿÿÿ8Ó‘Šëì.
+g
+java:S1192¾"IDefine a constant instead of duplicating this literal "imageId3" 5 times.(©š„ë8ëÑíêì.
+Y
+java:S1128l"=Remove this unused import 'javax.net.ssl.HttpsURLConnection'.(æÎº08“—Ù‘ë.
+H
+java:S1659Á"%Declare "p_price" on a separate line.(à‚÷øÿÿÿÿ8“—Ù‘ë.
+G
+java:S1659İ"$Declare "image2" on a separate line.(Ñ­î©úÿÿÿÿ8“—Ù‘ë.
+v	java:S116¨"TRename this field "basic_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¾¡şûÿÿÿÿ8“—Ù‘ë.
+s	java:S116Ç"VRename this field "sub_spinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İò8“—Ù‘ë.
+Z
+java:S1128R"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ8“—Ù‘ë.
+Œ
+java:S1128"nRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.ComplaintsDetailsActivity'.(ı•§Ä8“—Ù‘ë.
+x	java:S116»"VRename this field "PERMISSIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÛ®Ñûÿÿÿÿ8“—Ù‘ë.
+r
+java:S1128"URemove this unused import 'net.hydromatic.linq4j.expressions.ExpressionType.Convert'.(´£ÿL8“—Ù‘ë.
+s	java:S116À"WRename this field "sub_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê®ºD8“—Ù‘ë.
+Ÿ
+java:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ8ëÑíêì.
+Z
+java:S1874—"<Remove this use of "getConnectionManager"; it is deprecated.(‰šÀö8Ó‘Šëì.
+F	java:S108Ï")Either remove or fill this block of code.(”ı¾8ëÑíêì.
+r
+java:S1192å	"ODefine a constant instead of duplicating this literal "Please wait..." 5 times.(÷Šşİøÿÿÿÿ8Ó‘Šëì.
+o
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(³•P8Ó‘Šëì.
+Y	java:S125š
+"<This block of commented-out lines of code should be removed.(ßê‰À8Ó‘Šëì.
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Ó‘Šëì.
+K
+java:S1604è	"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8Ó‘Šëì.
+Š
+java:S1128…"lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.util.VolleyMultipartRequest'.(‹´±8“—Ù‘ë.
+V
+java:S1117Û"8Rename "url" which hides the field declared at line 240.(ƒëÑè8Ó‘Šëì.
+F	java:S108¸")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+[
+java:S1117¤"8Rename "url" which hides the field declared at line 240.(ú‹Ğ“ùÿÿÿÿ8Ó‘Šëì.
+J
+java:S1659©"'Declare "more_view" on a separate line.(È„š÷şÿÿÿÿ8“—Ù‘ë.
+F
+java:S1148’
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+K
+java:S1604Ñ
+"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8Ó‘Šëì.
+}	java:S116é"[Rename this field "product_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‹ ’ùÿÿÿÿ8“—Ù‘ë.
+Ÿ
+java:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ8ëÑíêì.
+l
+java:S1192ê"NDefine a constant instead of duplicating this literal "Authorization" 8 times.(ÅÊéà8Ó‘Šëì.
+Y	java:S125ò"<This block of commented-out lines of code should be removed.(ßê‰À8Ó‘Šëì.
+F
+java:S1148à
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó‘Šëì.
+l
+java:S1192½"IDefine a constant instead of duplicating this literal "imageId2" 7 times.(òÊ¶Éøÿÿÿÿ8“—Ù‘ë.
+‹
+java:S1845Ê"hRename field "taxvalue" to prevent any misunderstanding/clash with field "taxValue" defined on line 182.(³íğ€ûÿÿÿÿ8“—Ù‘ë.
+V
+java:S1874—"8Remove this use of "SSLSocketFactory"; it is deprecated.(‰šÀö8Ó‘Šëì.
+l
+java:S1128n"ORemove this unused import 'io.fabric.sdk.android.services.network.HttpRequest'.(†èÙø8“—Ù‘ë.
+K
+java:S1604ª"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ8Ó‘Šëì.
+D
+java:S1172Ï"&Remove these unused method parameters.(ƒ‹Î÷8Ó‘Šëì.
+†
+java:S1128’"cRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.ProductDetails'.(¡şé€øÿÿÿÿ8“—Ù‘ë.
+K
+java:S1905€"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ó‘Šëì.
+k
+java:S1192ã	"HDefine a constant instead of duplicating this literal "Url..." 10 times.(òì£Ğùÿÿÿÿ8Ó‘Šëì.
+Y	java:S125¤"<This block of commented-out lines of code should be removed.(¯ûôï8ëÑíêì.
+E
+java:S1604ˆ"(Make this anonymous inner class a lambda(ç’ƒL8Ó‘Šëì.
+F	java:S108¢")Either remove or fill this block of code.(”ı¾8Ó‘Šëì.
+l
+java:S1192™"IDefine a constant instead of duplicating this literal "https://" 5 times.(î·…Îùÿÿÿÿ8Ï³§ÚŒ0
+m
+java:S1192‘"JDefine a constant instead of duplicating this literal "image/png" 5 times.(Áàşçüÿÿÿÿ8Ï³§ÚŒ0
+q
+java:S1192‘"NDefine a constant instead of duplicating this literal "imagename.jpg" 3 times.(Áàşçüÿÿÿÿ8Ï³§ÚŒ0
+~
+java:S1192´"`Define a constant instead of duplicating this literal "marketplace/saveImageMaster.php" 3 times.(¯”á€8Ï³§ÚŒ0
+j
+java:S1192Š"GDefine a constant instead of duplicating this literal "simple" 4 times.(ß²Ø™øÿÿÿÿ8Ï³§ÚŒ0
+r
+java:S1192ø"ODefine a constant instead of duplicating this literal "entry[types][]" 3 times.(²˜†ıÿÿÿÿ8Ï³§ÚŒ0
+^	java:S107Ÿ"<Method has 9 parameters, which is greater than 7 authorized.(¿î²‘üÿÿÿÿ8Ï³§ÚŒ0
+Z	java:S107‘"=Method has 12 parameters, which is greater than 7 authorized.(şÒ®8Ï³§ÚŒ0
+s	java:S117û	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¼È†øÿÿÿÿ8Ï³§ÚŒ0
+n	java:S117ü	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ°î±8Ï³§ÚŒ0
+t
+java:S1128 "VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.SKU_URL'.(¯±¢™8Ï³§ÚŒ0
+x
+java:S1128"ZRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.login.model.LoginResponse'.(–ĞÒ‹8Ï³§ÚŒ0
+Q
+java:S1172 ".Remove this unused method parameter "instock".(ÇÏÀüÿÿÿÿÿ8Ï³§ÚŒ0
+u
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¿î²‘üÿÿÿÿ8Ï³§ÚŒ0
+D
+java:S1172‘"&Remove these unused method parameters.(şÒ®8Ï³§ÚŒ0
+p
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(şÒ®8Ï³§ÚŒ0
+[
+java:S1117—"8Rename "url" which hides the field declared at line 240.(ú‹Ğ“ùÿÿÿÿ8Ï³§ÚŒ0
+V
+java:S1117"8Rename "url" which hides the field declared at line 240.(™†÷ë8Ï³§ÚŒ0
+M
+java:S1172±"0Remove this unused method parameter "productId".(³•P8Ï³§ÚŒ0
+V
+java:S1117´"8Rename "url" which hides the field declared at line 240.(¯”á€8Ï³§ÚŒ0
+N
+java:S1172¨"0Remove this unused method parameter "productId".(§¾õØ8Ï³§ÚŒ0
+V
+java:S1117«"8Rename "url" which hides the field declared at line 240.(¯”á€8Ï³§ÚŒ0
+S
+java:S1172¡"0Remove this unused method parameter "productId".(©ôì®ıÿÿÿÿ8Ï³§ÚŒ0
+V
+java:S1117¤"8Rename "url" which hides the field declared at line 240.(¯”á€8Ï³§ÚŒ0
+J
+java:S1481ó"-Remove this unused "priceVal" local variable.(©‘öz8Ï³§ÚŒ0
+Q
+java:S1481ô".Remove this unused "weightVal" local variable.(ÊÂâñşÿÿÿÿ8Ï³§ÚŒ0
+P
+java:S1481œ"-Remove this unused "priceVal" local variable.(ªÇÕÄøÿÿÿÿ8Ï³§ÚŒ0
+J
+java:S1481–",Remove this unused "shopUrl" local variable.(¦ØÚî8Ï³§ÚŒ0
+J
+java:S1481ş",Remove this unused "shopUrl" local variable.(¦ØÚî8Ï³§ÚŒ0
+J
+java:S1481³",Remove this unused "shopUrl" local variable.(¦ØÚî8Ï³§ÚŒ0
+J
+java:S1481ª",Remove this unused "shopUrl" local variable.(¦ØÚî8Ï³§ÚŒ0
+J
+java:S1481£",Remove this unused "shopUrl" local variable.(¦ØÚî8Ï³§ÚŒ0
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(ÒÃä¨8Ï³§ÚŒ0
+^	java:S125"<This block of commented-out lines of code should be removed.(‚úÒşÿÿÿÿ8Ï³§ÚŒ0
+Y	java:S125°"<This block of commented-out lines of code should be removed.(¨Í¤Ù8Ï³§ÚŒ0
+Y	java:S125£"<This block of commented-out lines of code should be removed.(¨Í¤Ù8Ï³§ÚŒ0
+^	java:S125•"<This block of commented-out lines of code should be removed.(š—«üÿÿÿÿ8Ï³§ÚŒ0
+^	java:S125€"<This block of commented-out lines of code should be removed.(²…øÿÿÿÿ8Ï³§ÚŒ0

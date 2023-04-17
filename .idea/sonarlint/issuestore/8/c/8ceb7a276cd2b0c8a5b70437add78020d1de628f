@@ -1,0 +1,8 @@
+
+Dsquid:S1170"!Make this final field static too.(¹Áõ—ıÿÿÿÿ8£ŠÈï-
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8˜şâïï-
+Dsquid:S1168J"&Return an empty array instead of null.(¥¹ï8£ŠÈï-
+jsquid:S00112z"FDefine and throw a dedicated exception instead of using a generic one.(›Œ¦ùÿÿÿÿ8£ŠÈï-
+Dsquid:S1170"!Make this final field static too.(®âÆ¥ıÿÿÿÿ8£ŠÈï-
+Fsquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÙÚ‹Èï-
+osquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(³ÇÈÏûÿÿÿÿ8ä”Åğï-

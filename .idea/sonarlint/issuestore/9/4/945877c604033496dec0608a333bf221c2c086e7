@@ -1,0 +1,11 @@
+
+fsquid:S2674"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ
+:squid:S1148%"#Use a logger to log this exception.(Ç’Çê
+fsquid:S26741"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ
+rsquid:S14883"[Immediately return this expression instead of assigning it to the temporary variable "tax".(’Æô
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£’¤÷
+Bsquid:S1168:"+Return an empty collection instead of null.(¥¹ï
+qsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "tax".(èÅ‰F
+:squid:S11489"#Use a logger to log this exception.(Ç’Çê
+Bsquid:S1168&"+Return an empty collection instead of null.(¥¹ï
+ksquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ×ëûÿÿÿÿ

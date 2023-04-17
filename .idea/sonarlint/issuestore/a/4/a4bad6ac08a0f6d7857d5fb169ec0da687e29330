@@ -1,0 +1,18 @@
+
+™
+java:S1319*"~The type of the "udharCustomerModels" object should be an interface such as "List" rather than the implementation "ArrayList".(‡ÿ’‰ûÿÿÿÿ
+}
+java:S14884"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'android.graphics.Color'.(øãíòþÿÿÿÿ
+x
+java:S1128"bRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.DetailCollection'.(¶Û¬ß
+w
+java:S1450"\Remove the "clickListener" field and declare it as a local variable in the relevant methods.(àÈÙ¹ýÿÿÿÿ
+q	java:S116U"WRename this field "increment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôëÝ–øÿÿÿÿ
+s	java:S116V"YRename this field "pending_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÄ æÿÿÿÿÿ
+p	java:S116W"VRename this field "paid_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô ­öþÿÿÿÿ
+Q
+java:S2696k"6Make the enclosing method "static" or remove this set.(¿º­†ÿÿÿÿÿ
+L
+java:S1068"1Remove this unused "clickListener" private field.(àÈÙ¹ýÿÿÿÿ

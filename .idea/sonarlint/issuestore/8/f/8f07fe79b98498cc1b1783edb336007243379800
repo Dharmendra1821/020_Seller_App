@@ -1,0 +1,24 @@
+
+E
+java:S1604d"(Make this anonymous inner class a lambda(ς½Η8Λυκοª/
+]	java:S125x"<This block of commented-out lines of code should be removed.(ΕΡ¶Ύϋÿÿÿÿ8Λυκοª/
+W
+java:S1659-"5Declare "proceedToProductsButton" on a separate line.(Θφ†ωÿÿÿÿ8Λυκοª/
+m	java:S1161"QRename this field "Amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ΰ…κ8Λυκοª/
+J
+java:S1125g"(Remove the literal "true" boolean value.(ΝΗ‹ΰÿÿÿÿÿ8Λυκοª/
+E	java:S108l")Either remove or fill this block of code.(Δι†8Λυκοª/
+^	java:S125"<This block of commented-out lines of code should be removed.(Ύ¶φόÿÿÿÿ8Λυκοª/
+p	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ ΄‘ωÿÿÿÿ8Λυκοª/
+v	java:S116/"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½΅Ή—ÿÿÿÿÿ8Λυκοª/
+‰
+java:S1104+"gMake CustomerAddressLinearLayout a static final constant or non-public and provide accessors if needed.(ωΝΈόÿÿÿÿ8Λυκοª/
+^	java:S125”"<This block of commented-out lines of code should be removed.(Ύ¶φόÿÿÿÿ8Λυκοª/
+\
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(΄π€π8Λυκοª/
+c
+java:S1444+"AMake this "public static CustomerAddressLinearLayout" field final(ωΝΈόÿÿÿÿ8Λυκοª/
+
+java:S3008+"fRename this field "CustomerAddressLinearLayout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ωΝΈόÿÿÿÿ8Λυκοª/
+g
+java:S1192E"KDefine a constant instead of duplicating this literal "CustomerId" 5 times.(¶΄μ\8Λυκοª/

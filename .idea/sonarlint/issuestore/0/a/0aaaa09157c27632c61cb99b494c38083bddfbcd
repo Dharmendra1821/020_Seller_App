@@ -1,0 +1,112 @@
+
+F	java:S108Ï")Either remove or fill this block of code.(åò¥Õ8ã†£ÿ/
+k
+java:S2153~"IRemove the boxing to "Integer"; The argument is already of the same type.(§ìéîÿÿÿÿÿ8Ì¯¬¾ù/
+a
+java:S1117†">Rename "adminToken" which hides the field declared at line 73.(¤£Ìİÿÿÿÿÿ8ã†£ÿ/
+a
+java:S1117 ">Rename "adminToken" which hides the field declared at line 73.(¶òÏáúÿÿÿÿ8Â‡…£ÿ/
+h
+java:S1117‹"ERename "sharedPreferences" which hides the field declared at line 61.(çòØ«ıÿÿÿÿ8ã†£ÿ/
+F	java:S108Î")Either remove or fill this block of code.(ıÚµ–8ã†£ÿ/
+n
+java:S1301™"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8´â¢£ÿ/
+j
+java:S1192_"NDefine a constant instead of duplicating this literal "customerToken" 5 times.(±³%8şÂÙñı.
+J
+java:S1481¤",Remove this unused "shopUrl" local variable.(¦ØÚî8ñ‰Ã ÿ/
+h
+java:S1192^"KDefine a constant instead of duplicating this literal "StandAlone" 8 times.(Î´ı·8şÂÙñı.
+k
+java:S2153É"HRemove the boxing to "Double"; The argument is already of the same type.(ûØÉµûÿÿÿÿ8şÂÙñı.
+P
+java:S1481©"2Remove this unused "shippedStreet" local variable.(„‘­ç8ã†£ÿ/
+Q
+java:S1481ì".Remove this unused "custToken" local variable.(æ¾ øüÿÿÿÿ8ã†£ÿ/
+J
+java:S1481œ",Remove this unused "shopUrl" local variable.(¦ØÚî8ã†£ÿ/
+L
+java:S1659H"*Declare "loginDetails" on a separate line.(çÃÂİùÿÿÿÿ8şÂÙñı.
+^	java:S125º"<This block of commented-out lines of code should be removed.(Æ‹£æøÿÿÿÿ8ã†£ÿ/
+F
+java:S1659E")Declare "taxTextView" on a separate line.(Âà³Æ8şÂÙñı.
+m
+java:S1192t"KDefine a constant instead of duplicating this literal "CustomerId" 4 times.(öƒ£¬ıÿÿÿÿ8şÂÙñı.
+e
+java:S1117|"CRename "customerDetails" which hides the field declared at line 76.(á—Ÿúÿÿÿÿ8şÂÙñı.
+J
+java:S1481ñ",Remove this unused "shopUrl" local variable.(¦ØÚî8ã†£ÿ/
+u
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ËË’±úÿÿÿÿ8şÂÙñı.
+Y	java:S125—"<This block of commented-out lines of code should be removed.(×Ê±†8ã†£ÿ/
+W
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8şÂÙñı.
+D	java:S131™""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8´â¢£ÿ/
+J
+java:S1481¤",Remove this unused "shopUrl" local variable.(¦ØÚî8ã†£ÿ/
+R
+java:S1068O"6Remove this unused "cartProductAdapter" private field.(‡µ8şÂÙñı.
+}	java:S116D"\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†šÃ»ıÿÿÿÿ8şÂÙñı.
+A
+java:S1148Ú"#Use a logger to log this exception.(Ç’Çê8ã†£ÿ/
+¤
+java:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹ûÓ–şÿÿÿÿ8ã†£ÿ/
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(×Ê±†8ã†£ÿ/
+^	java:S125÷"<This block of commented-out lines of code should be removed.(¥ı¥ûÿÿÿÿ8ã†£ÿ/
+Y	java:S125Ì"<This block of commented-out lines of code should be removed.(ÈÙèŠ8ã†£ÿ/
+Q
+java:S1659D"/Declare "CustomerAddressId" on a separate line.(†šÃ»ıÿÿÿÿ8şÂÙñı.
+‡
+java:S1128."eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerProductCart'.(é¬Óüøÿÿÿÿ8ış³¾ù/
+t	java:S116K"SRename this field "SellerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öé÷ïşÿÿÿÿ8şÂÙñı.
+s
+java:S1192Ô"VDefine a constant instead of duplicating this literal "Internal server error" 3 times.(¬ˆ­8şÂÙñı.
+F	java:S108Ğ")Either remove or fill this block of code.(§•Âè8ã†£ÿ/
+g
+java:S1192¤"IDefine a constant instead of duplicating this literal "shop_url" 5 times.(¦ØÚî8şÂÙñı.
+R
+java:S1481 "/Remove this unused "adminToken" local variable.(¶òÏáúÿÿÿÿ8ã†£ÿ/
+^	java:S125¥"<This block of commented-out lines of code should be removed.(¹øÙ¾ûÿÿÿÿ8ã†£ÿ/
+M
+java:S1481Ë"0Remove this unused "shippedRate" local variable.(èœD8ã†£ÿ/
+M
+java:S1481É"*Remove this unused "price" local variable.(ûØÉµûÿÿÿÿ8şÂÙñı.
+n
+java:S1192u"RDefine a constant instead of duplicating this literal "CustomerAddressId" 3 times.(§ÁÙs8şÂÙñı.
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(–ô8ï¾Ğ ÿ/
+t	java:S116G"XRename this field "ProductCartId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¼œ’8şÂÙñı.
+o
+java:S1192Ò"LDefine a constant instead of duplicating this literal "Bad Request" 3 times.(…¢¯ñÿÿÿÿÿ8şÂÙñı.
+R
+java:S1659E"5Declare "shippingChargesTextView" on a separate line.(Âà³Æ8şÂÙñı.
+^	java:S125Ê"<This block of commented-out lines of code should be removed.(şÖñ¾úÿÿÿÿ8şÂÙñı.
+r
+java:S1192Ö"UDefine a constant instead of duplicating this literal "Something went wrong" 7 times.(×“Ã8şÂÙñı.
+M
+java:S1659J"0Declare "newCustomerDetails" on a separate line.(ÉóÊ™8şÂÙñı.
+f
+java:S1117ğ"CRename "customerDetails" which hides the field declared at line 76.(¹É·üüÿÿÿÿ8ã†£ÿ/
+}
+java:S1450O"aRemove the "cartProductAdapter" field and declare it as a local variable in the relevant methods.(‡µ8şÂÙñı.
+m
+java:S1192`"KDefine a constant instead of duplicating this literal "adminToken" 4 times.(Ëæî‰üÿÿÿÿ8şÂÙñı.
+A
+java:S1148á"#Use a logger to log this exception.(Ç’Çê8şÂÙñı.
+k
+java:S1192¨"HDefine a constant instead of duplicating this literal "Bearer " 3 times.(¿Å‡²şÿÿÿÿ8şÂÙñı.
+‰
+java:S1128/"lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerProductCartRequest'.(Ü†Ôê8†ö´¾ù/
+H
+java:S1659E"+Declare "totalTextView" on a separate line.(Âà³Æ8şÂÙñı.
+F	java:S108Ñ")Either remove or fill this block of code.(å¥‡8Ìî„£ÿ/
+R
+java:S1481ë"/Remove this unused "adminToken" local variable.(¶òÏáúÿÿÿÿ8ã†£ÿ/
+\
+java:S1155¸">Use isEmpty() to check whether the collection is empty or not.(¦¤ÏÄ8ã†£ÿ/
+F	java:S108")Either remove or fill this block of code.(”ı¾8şÂÙñı.
+v	java:S116D"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†šÃ»ıÿÿÿÿ8şÂÙñı.
+^	java:S125æ"<This block of commented-out lines of code should be removed.(¼åò¡üÿÿÿÿ8ã†£ÿ/
+p
+java:S1192µ"MDefine a constant instead of duplicating this literal "Product JSON" 3 times.(£áşŒùÿÿÿÿ8şÂÙñı.
+a
+java:S1117ë">Rename "adminToken" which hides the field declared at line 73.(¶òÏáúÿÿÿÿ8ã†£ÿ/

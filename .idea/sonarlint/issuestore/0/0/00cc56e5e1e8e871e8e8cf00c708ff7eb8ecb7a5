@@ -1,0 +1,7 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8÷™°üå-
+squid:S1319"qThe type of the "images" object should be an interface such as "List" rather than the implementation "ArrayList".(¯ó¾^8Ä¼°üå-
+squid:S1319"qThe type of the "images" object should be an interface such as "List" rather than the implementation "ArrayList".(®ıŠ8 ô¯üå-
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(úê×è8Ä¼°üå-
+rsquid:UselessImportCheck"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8Ø†ùå-
+‡"squid:ClassVariableVisibilityCheck"RMake images a static final constant or non-public and provide accessors if needed.(®ıŠ8Éÿˆúå-

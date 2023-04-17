@@ -1,0 +1,8 @@
+
+squid:S1319"pThe type of the "types" object should be an interface such as "List" rather than the implementation "ArrayList".(Şá8÷ÖĞšé-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´®ÿÿÿÿÿ
+msquid:S00116
+"URename this field "media_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´şä”
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‡“šóşÿÿÿÿ8÷ÖĞšé-
+ksquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èô²©ÿÿÿÿÿ
+nsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èô²©ÿÿÿÿÿ

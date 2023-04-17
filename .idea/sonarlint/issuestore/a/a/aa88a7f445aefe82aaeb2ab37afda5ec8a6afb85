@@ -1,0 +1,40 @@
+
+K
+java:S1444)".Make this "public static fragment" field final(¢ø÷õ8íÛ„¹í.
+]	java:S125q"<This block of commented-out lines of code should be removed.(ıîæÏøÿÿÿÿ8íÛ„¹í.
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(ëç§Äûÿÿÿÿ8íÛ„¹í.
+]	java:S125c"<This block of commented-out lines of code should be removed.(Ñ§€‘ûÿÿÿÿ8íÛ„¹í.
+S
+java:S2696>"6Make the enclosing method "static" or remove this set.(·¡ë8íÛ„¹í.
+z	java:S116-"YRename this field "REQUEST_CAMERA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ô°Ïùÿÿÿÿ8íÛ„¹í.
+K
+java:S1905“"(Remove this unnecessary cast to "float".(Å«Ğ¿øÿÿÿÿ8íÛ„¹í.
+X	java:S125U"<This block of commented-out lines of code should be removed.(ÛÚ«‡8íÛ„¹í.
+q
+java:S1104)"TMake fragment a static final constant or non-public and provide accessors if needed.(¢ø÷õ8íÛ„¹í.
+F
+java:S1905”"(Remove this unnecessary cast to "float".(šóÂ¨8íÛ„¹í.
+N
+java:S1172ˆ"+Remove this unused method parameter "data".(¸¯Èüÿÿÿÿ8íÛ„¹í.
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(• Ú¹8íÛ„¹í.
+K
+java:S1905•"(Remove this unnecessary cast to "float".(ËÇŞªÿÿÿÿÿ8íÛ„¹í.
+s	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü½«øÿÿÿÿ8íÛ„¹í.
+\
+java:S1144ˆ"9Remove this unused private "onCaptureImageResult" method.(¸¯Èüÿÿÿÿ8íÛ„¹í.
+H
+java:S1659+"&Declare "advanced" on a separate line.(„µ¤õÿÿÿÿÿ8íÛ„¹í.
+F
+java:S1905’"(Remove this unnecessary cast to "float".(ø™˜è8íÛ„¹í.
+X
+java:S2696;"6Make the enclosing method "static" or remove this set.(ºÈŸÉûÿÿÿÿ8íÛ„¹í.
+^	java:S125å"<This block of commented-out lines of code should be removed.(ßİàôÿÿÿÿÿ8íÛ„¹í.
+L
+java:S1066o"/Merge this if statement with the enclosing one.(Ë‰¥»8íÛ„¹í.
+V
+java:S1172:"9Remove this unused method parameter "savedInstanceState".(«ÃÀ÷8íÛ„¹í.
+E
+java:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8íÛ„¹í.
+v	java:S116+"URename this field "save_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„µ¤õÿÿÿÿÿ8íÛ„¹í.
+s	java:S116,"WRename this field "image_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ãïÆ8íÛ„¹í.
+^	java:S125‰"<This block of commented-out lines of code should be removed.(ıîæÏøÿÿÿÿ8íÛ„¹í.

@@ -1,0 +1,35 @@
+
+—
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+w
+java:S1128""aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.SMSContactModel'.(´çüË
+‹
+java:S13192"uThe type of the "array_sort" object should be an interface such as "List" rather than the implementation "ArrayList".(ç™¢
+l
+java:S11042"VMake array_sort a static final constant or non-public and provide accessors if needed.(ç™¢
+k
+java:S30082"URename this field "array_sort" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç™¢
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(ôµÆ¯ıÿÿÿÿ
+„
+java:S1128"iRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.AddNewProductModel'.(Ú€‰åûÿÿÿÿ
+l	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(âá¹Ûÿÿÿÿÿ
+F
+java:S14442"0Make this "public static array_sort" field final(ç™¢
+J
+java:S1066h"/Merge this if statement with the enclosing one.(ìï“¡şÿÿÿÿ
+
+java:S1128!"dRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.SMSContactListData'.(àÈÓ£øÿÿÿÿ
+|
+java:S1450'"aRemove the "closeClickListener" field and declare it as a local variable in the relevant methods.(ıÆğ·ıÿÿÿÿ
+Q
+java:S1068'"6Remove this unused "closeClickListener" private field.(ıÆğ·ıÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+;
+java:S2386Z"%Make member "array_sort" "protected".(£³¸²
+L
+java:S2696Z"6Make the enclosing method "static" or remove this set.(£³¸²
+…
+java:S1128"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.SMSContactListAdapter'.(¯ì Ÿùÿÿÿÿ
+o	java:S1161"URename this field "sms_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÆÀİşÿÿÿÿ

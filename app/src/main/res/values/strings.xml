@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">QShop</string>
+    <string name="title_activity_seller_dashboard">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--Below text is used for "if" condition also. So please dont change the name of string -->
+    <string name="Customer_Address_not_found">Address is not available for selected Customer</string>
+
+    <string name="Pdetails"> Be the first to Review this product </string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="radio_M">M</string>
+    <string name="radio_S">S</string>
+
+
+    <string name="radio_L">L</string>
+    <string name="radio_XL">XL</string>
+    <string name="intro">Capture a picture to crop!</string>
+    <string name="picture">Picture</string>
+
+    <string name="capture">Launch Camera</string>
+
+    <string-array name="product_names">
+
+
+        <item>rakesh</item>
+
+    </string-array>
+
+
+    <string-array name="spinner_names">
+        <item> Black </item>
+        <item> RED </item>
+        <item> White </item>
+        <item> Blue </item>
+
+    </string-array>
+    <string-array name="Names">
+        <item>Shirt</item>
+        <item>jeans</item>
+        <item>T-shirt</item>
+        <item>Trousers</item>
+    </string-array>
+    <string-array name="quantity_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10+</item>
+    </string-array>
+</resources>

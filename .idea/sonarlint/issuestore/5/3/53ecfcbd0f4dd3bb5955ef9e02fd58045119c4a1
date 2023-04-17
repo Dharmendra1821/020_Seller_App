@@ -1,0 +1,30 @@
+
+O
+java:S1481e"-Remove this unused "imageUrl" local variable.(û¤Æìüÿÿÿÿ8Òı°æì.
+>
+java:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+
+java:S1128"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.ComplaintsAdapter'.(ÓÑªûÿÿÿÿ
+D
+java:S1905ˆ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+>	java:S1088")Either remove or fill this block of code.(”ı¾
+J
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ
+C
+java:S1604Y"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ
+F
+java:S1144…"0Remove this unused private "checkParams" method.(©¸ìG
+l
+java:S1128$"VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.SKU_URL'.(¯±¢™
+w
+java:S1128"aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ComplaintsModel'.(»ã”í
+=
+java:S1604r"(Make this anonymous inner class a lambda(²» g
+V	java:S125g"<This block of commented-out lines of code should be removed.(ÚøÎìøÿÿÿÿ
+s
+java:S1128#"WRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.BASE_URL'.(Œ°Á98Úº ªş/
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Q	java:S125u"<This block of commented-out lines of code should be removed.(ßê‰À

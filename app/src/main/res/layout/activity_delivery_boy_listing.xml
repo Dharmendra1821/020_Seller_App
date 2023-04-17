@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8f8fa"
+    android:orientation="vertical"
+    tools:context=".add_new_product.activities.DeliveryBoyListingActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp">
+
+        <!-- ListView -->
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/delivery_boy_list_recyclerview"
+            android:layout_above="@id/loadItemsLayout_recyclerView"
+            android:layout_margin="10dp">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+        <!-- include progress layout that will be displayed while loading more data -->
+        <!-- initially it is hidden -->
+
+        <include
+            android:id="@+id/loadItemsLayout_recyclerView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:visibility="gone"
+            layout="@layout/progress_layout"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>

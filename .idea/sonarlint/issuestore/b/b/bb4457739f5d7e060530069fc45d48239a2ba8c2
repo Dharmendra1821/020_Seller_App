@@ -1,0 +1,96 @@
+
+f
+java:S1192U"IDefine a constant instead of duplicating this literal "shop_url" 6 times.(¦ØÚî8•´ÜŠÁ/
+i
+java:S1192¥"FDefine a constant instead of duplicating this literal "utf-8" 6 times.(§ßŞÕúÿÿÿÿ8•´ÜŠÁ/
+y
+java:S1192g"WDefine a constant instead of duplicating this literal "Verifying email......." 3 times.(¶ûÈ½üÿÿÿÿ8æ‚‹Á/
+d
+java:S1192r"GDefine a constant instead of duplicating this literal "status" 3 times.(©©­ı8æ‚‹Á/
+C
+java:S1659-"&Declare "shop_url" on a separate line.(Ù¼Úö8´³ÕòÀ/
+Y	java:S125’"<This block of commented-out lines of code should be removed.(ßê‰À8Ñã¯ñÀ/
+M
+java:S1144•"0Remove this unused private "checkParams" method.(©¸ìG8³å²‹Á/
+¦
+java:S1192§"‚Define a constant instead of duplicating this literal "Unsupported Encoding while trying to get the bytes of %s using %s" 3 times.(Ùğôøûÿÿÿÿ8æ‚‹Á/
+H
+java:S1659,"+Declare "addSellerInfo" on a separate line.(Ÿ„™8ÆÄ‘ˆÁ/
+D
+java:S1168§"&Return an empty array instead of null.(¥¹ï8ÿèŠÁ/
+Y	java:S125û"<This block of commented-out lines of code should be removed.(ßê‰À8³å²‹Á/
+F	java:S108ˆ")Either remove or fill this block of code.(”ı¾8Ñã¯ñÀ/
+k
+java:S1192n"IDefine a constant instead of duplicating this literal "Response" 3 times.(ËÖ‡©ùÿÿÿÿ8æ‚‹Á/
+F
+java:S1659."*Declare "lastNameEdit" on a separate line.(Ø·ü{8ÀâšˆÁ/
+E
+java:S1148b"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ñã¯ñÀ/
+F	java:S108ñ")Either remove or fill this block of code.(”ı¾8³å²‹Á/
+F
+java:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³å²‹Á/
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(ßê‰À8ÿèŠÁ/
+Œ
+java:S1128 "jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.MainDashboardActivity'.(Şèúÿÿÿÿ8¬Š±ñÀ/
+?	java:S131¾""Add a default case to this switch.(ºÖ8¯ñµñÀ/
+K
+java:S1905¯"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ñã¯ñÀ/
+K
+java:S1604â"(Make this anonymous inner class a lambda(¥ŠöÀüÿÿÿÿ8³å²‹Á/
+D
+java:S1659*"'Declare "submitBtn" on a separate line.(îÓº¥8¤­ĞˆÁ/
+C
+java:S1659-"&Declare "lastName" on a separate line.(Ù¼Úö8°İññÀ/
+D
+java:S1659."(Declare "mobileEdit" on a separate line.(Ø·ü{8ÀâšˆÁ/
+i
+java:S1301¾"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8¯ñµñÀ/
+P
+java:S1172°"2Remove this unused method parameter "whichButton".(ƒ‹Î÷8œÉ¥ŒÁ/
+E
+java:S1604"(Make this anonymous inner class a lambda(²» g8Ñã¯ñÀ/
+M
+java:S1144¬"0Remove this unused private "checkParams" method.(©¸ìG8Ñã¯ñÀ/
+E
+java:S1604ø"(Make this anonymous inner class a lambda(²» g8³å²‹Á/
+E
+java:S1659-"(Declare "shop_title" on a separate line.(Ù¼Úö8¸ÜÕòÀ/
+e
+java:S1192`"HDefine a constant instead of duplicating this literal "request" 4 times.(Ø†İÄ8æ‚‹Á/
+F
+java:S1148ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•´ÜŠÁ/
+ƒ
+java:S1192"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 3 times.(Š¥Ç¾ıÿÿÿÿ8æ‚‹Á/
+K
+java:S1604ù"(Make this anonymous inner class a lambda(¥ŠöÀüÿÿÿÿ8•´ÜŠÁ/
+E
+java:S1604"(Make this anonymous inner class a lambda(²» g8ÿèŠÁ/
+A
+java:S1659-"$Declare "mobile" on a separate line.(Ù¼Úö8°İññÀ/
+K
+java:S1905˜"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8³å²‹Á/
+M
+java:S1144«"0Remove this unused private "checkParams" method.(©¸ìG8ÿèŠÁ/
+K
+java:S1905®"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ÿèŠÁ/
+q
+java:S1192f"ODefine a constant instead of duplicating this literal "Please wait..." 3 times.(÷Šşİøÿÿÿÿ8æ‚‹Á/
+E
+java:S1659.")Declare "shopUrlEdit" on a separate line.(Ø·ü{8ÀâšˆÁ/
+G
+java:S1659."+Declare "shopTitleEdit" on a separate line.(Ø·ü{8ÀâšˆÁ/
+D
+java:S1168¨"&Return an empty array instead of null.(¥¹ï8Ñã¯ñÀ/
+D
+java:S1168‘"&Return an empty array instead of null.(¥¹ï8³å²‹Á/
+f
+java:S1192V"IDefine a constant instead of duplicating this literal "https://" 3 times.(Í‹Ğ¤8æ‚‹Á/
+J
+java:S1604k"(Make this anonymous inner class a lambda(¥ŠöÀüÿÿÿÿ8Ñã¯ñÀ/
+j
+java:S1192s"HDefine a constant instead of duplicating this literal "success" 3 times.(˜ƒ‡¸øÿÿÿÿ8æ‚‹Á/
+o	java:S116-"SRename this field "shop_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼Úö8´³ÕòÀ/
+q	java:S116-"URename this field "shop_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼Úö8¸ÜÕòÀ/
+i
+java:S1192Z"GDefine a constant instead of duplicating this literal "Url..." 6 times.(òì£Ğùÿÿÿÿ8•´ÜŠÁ/
+F	java:S108‡")Either remove or fill this block of code.(”ı¾8ÿèŠÁ/

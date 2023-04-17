@@ -1,0 +1,9 @@
+
+wsquid:S00116"YRename this field "customer_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ùO8£²—ğ-
+usquid:S00116"VRename this field "admin_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ûå¹8ñ…³—ğ-
+msquid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö®€®8»¼³—ğ-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨•È·8»¼³—ğ-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷òó‹ıÿÿÿÿ8»¼³—ğ-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Èû…ûÿÿÿÿ8»¼³—ğ-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨•È·8»¼³—ğ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Èû…ûÿÿÿÿ8»¼³—ğ-

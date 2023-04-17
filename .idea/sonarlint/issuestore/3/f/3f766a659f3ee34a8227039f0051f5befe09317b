@@ -1,0 +1,56 @@
+
+ssquid:S00100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¿·÷ùÿÿÿÿ8±š´²ã-
+tsquid:S00116!"URename this field "stock_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(• šá8ï™Øòñ-
+msquid:S00100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎúÆ8Ê“£é-
+psquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ†Äƒ8Ê“£é-
+osquid:S00117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Íüf8°ò³¾è-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÀ…8÷ˆô°ã-
+rsquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÒÙ€ùÿÿÿÿ8ïÍØòñ-
+rsquid:S00100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à§ø‚ÿÿÿÿÿ8°ò³¾è-
+™squid:S1319å"uThe type of the "tierPrices" object should be an interface such as "List" rather than the implementation "ArrayList".(Ñ‰æªûÿÿÿÿ8Ü¡ù°ã-
+ysquid:S00116@"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÅÛÏøÿÿÿÿ8 ò»¿è-
+squid:S1319é"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£ÜêŞ8Ü¡ù°ã-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¾¾®øÿÿÿÿ8ş¤…¯ô-
+rsquid:S00116"SRename this field "hsn_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í©Üš8ğàˆ°ô-
+osquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ëN8ïÍØòñ-
+xsquid:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ó8÷ˆô°ã-
+Ÿsquid:S1319‹"€The type of the "media_gallery_entries" object should be an interface such as "List" rather than the implementation "ArrayList".(ßäj8±š´²ã-
+psquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßäj8±š´²ã-
+š"squid:ClassVariableVisibilityCheckK"eMake quantity_and_stock_status a static final constant or non-public and provide accessors if needed.(—ëº8Øï¢é-
+squid:S00116ƒ"`Rename this field "media_gallery_entries" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÑİI8÷ˆô°ã-
+zsquid:S00116u"VRename this field "small_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À®ı½ùÿÿÿÿ8…¹²¾è-
+ƒsquid:S00116K"dRename this field "quantity_and_stock_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ëº8Øï¢é-
+psquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ëÛ«8°ò³¾è-
+}squid:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(æŸ×ÿÿÿÿÿ8÷ˆô°ã-
+psquid:S00117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùóÙÏ8ëËóç-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¾¾®øÿÿÿÿ8ş¤…¯ô-
+msquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßäj8±š´²ã-
+msquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ†Äƒ8Ê“£é-
+”squid:S1319‡"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‘¿·÷ùÿÿÿÿ8±š´²ã-
+šsquid:S1319í"{The type of the "customAttributes" object should be an interface such as "List" rather than the implementation "ArrayList".(´ÀúÉ8Ü¡ù°ã-
+”squid:S1319Ù"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’İ²øÿÿÿÿ8Ü¡ù°ã-
+msquid:S00100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷É©…8°ò³¾è-
+squid:S00116A"]Rename this field "product_has_weight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°„ÿ³ùÿÿÿÿ8Å½×é-
+{squid:S00116"WRename this field "tax_class_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á²Ùìøÿÿÿÿ8¯è„¯ô-
+lsquid:S00100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ€$8µ§¼¿è-
+“squid:S1319y"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(éß˜Áùÿÿÿÿ8ëËóç-
+psquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô™Éä8ğò×é-
+msquid:S00100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùóÙÏ8ëËóç-
+msquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô™Éä8ğò×é-
+‘squid:S1319İ"rThe type of the "options" object should be an interface such as "List" rather than the implementation "ArrayList".(‘Ï°Ø8Ü¡ù°ã-
+vsquid:S00116w"WRename this field "swatch_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ’Ãã8€º³¾è-
+wsquid:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÑİI8÷ˆô°ã-
+”squid:S1319á"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¼€Å„ıÿÿÿÿ8Ü¡ù°ã-
+msquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡›ğÙ8ğò×é-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èï’ûÿÿÿÿ8ş¤…¯ô-
+osquid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ€$8µ§¼¿è-
+lsquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ëN8ïÍØòñ-
+rsquid:S00100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó«¢©ûÿÿÿÿ8µ§¼¿è-
+rsquid:S00100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éß˜Áùÿÿÿÿ8ëËóç-
+msquid:S00100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ëÛ«8°ò³¾è-
+wsquid:S00116"WRename this field "category_ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÎÜ°8ëËóç-
+•squid:S1319}"wThe type of the "category_ids" object should be an interface such as "List" rather than the implementation "ArrayList".(ùóÙÏ8ëËóç-
+lsquid:S00100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Íüf8°ò³¾è-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê©‚Øúÿÿÿÿ8ß‰°ô-
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÇ>8ß‰°ô-
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÇ>8ß‰°ô-

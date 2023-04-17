@@ -1,0 +1,75 @@
+
+f
+java:S1192b"IDefine a constant instead of duplicating this literal "shop_url" 3 times.(¦ØÚî8Ê¬Ûªû/
+~	java:S1165"]Rename this field "BillAmountTextView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸³°Ñúÿÿÿÿ8Ê¬Ûªû/
+?	java:S131ª""Add a default case to this switch.(ºÖ8Ê¬Ûªû/
+f
+java:S2153Ò"HRemove the boxing to "Double"; The argument is already of the same type.(„¡¼8Ê¬Ûªû/
+t	java:S116Å"WRename this field "qty_textview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¨èı8Ê¬Ûªû/
+J
+java:S1172ù",Remove this unused method parameter "which".(¦Œœ¢8Ê¬Ûªû/
+V
+java:S1128"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8Ê¬Ûªû/
+K
+java:S1659½".Declare "editCartImagview" on a separate line.(³òœN8Ê¬Ûªû/
+X	java:S125—"<This block of commented-out lines of code should be removed.(²“8Ê¬Ûªû/
+A
+java:S1148¤"#Use a logger to log this exception.(Ç’Çê8Ê¬Ûªû/
+f
+java:S2153Ö"HRemove the boxing to "Double"; The argument is already of the same type.(¡¬ˆ‹8Ê¬Ûªû/
+X	java:S125y"<This block of commented-out lines of code should be removed.(½ĞÀ¥8Ê¬Ûªû/
+X
+java:S1659¼"5Declare "productsSubNameTextView" on a separate line.(Ùë›»ùÿÿÿÿ8Ê¬Ûªû/
+V
+java:S1659¼"3Declare "incrementCartTextView" on a separate line.(Ùë›»ùÿÿÿÿ8Ê¬Ûªû/
+m
+java:S1192V"KDefine a constant instead of duplicating this literal "StandAlone" 7 times.(ÕâÀûÿÿÿÿ8Ê¬Ûªû/
+F	java:S108¦")Either remove or fill this block of code.(”ı¾8Ê¬Ûªû/
+D
+java:S1172ò"&Remove these unused method parameters.(ƒ‹Î÷8Ê¬Ûªû/
+N
+java:S1659½"1Declare "removeCartImageView" on a separate line.(³òœN8Ê¬Ûªû/
+Y	java:S125Ò"<This block of commented-out lines of code should be removed.(ª³ôå8Ê¬Ûªû/
+X	java:S125"<This block of commented-out lines of code should be removed.(²“8Ê¬Ûªû/
+{	java:S1166"ZRename this field "Shippingcharges" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Çˆïùÿÿÿÿ8Ê¬Ûªû/
+W
+java:S16595"5Declare "shippingChargesTextView" on a separate line.(¸³°Ñúÿÿÿÿ8Ê¬Ûªû/
+Q
+java:S1481é".Remove this unused "userToken" local variable.(Í†Œÿÿÿÿÿ8Şóûˆ0
+V
+java:S1659¼"3Declare "decrementCartTextView" on a separate line.(Ùë›»ùÿÿÿÿ8Ê¬Ûªû/
+^	java:S125‘"<This block of commented-out lines of code should be removed.(ÎçÈùùÿÿÿÿ8Ê¬Ûªû/
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(Å¢†áıÿÿÿÿ8Ê¬Ûªû/
+^	java:S125ç"<This block of commented-out lines of code should be removed.(İš±œşÿÿÿÿ8Ò‚í ÿ/
+N
+java:S1481æ"0Remove this unused "subTotalVal" local variable.(°Îş8Ò‚í ÿ/
+p	java:S100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´œ¦‡úÿÿÿÿ8Ê¬Ûªû/
+f
+java:S2153ã"HRemove the boxing to "Double"; The argument is already of the same type.(„¡¼8Ê¬Ûªû/
+Y
+java:S1659¼"6Declare "selectedQuantityTextView" on a separate line.(Ùë›»ùÿÿÿÿ8Ê¬Ûªû/
+Y
+java:S1117Ô";Rename "product" which hides the field declared at line 62.(ÛÑå÷8Ê¬Ûªû/
+r
+java:S1192™"UDefine a constant instead of duplicating this literal "Something went wrong" 4 times.(ø…´y8Ê¬Ûªû/
+]	java:S125w"<This block of commented-out lines of code should be removed.(Üêíûÿÿÿÿ8Ê¬Ûªû/
+M
+java:S16595"+Declare "TotalTextView" on a separate line.(¸³°Ñúÿÿÿÿ8Ê¬Ûªû/
+k
+java:S2153l"IRemove the boxing to "Integer"; The argument is already of the same type.(ê¬ ³úÿÿÿÿ8Ê¬Ûªû/
+€
+java:S1128*"dRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.NewProductResponse'.( ÃÇ68Ê¬Ûªû/
+^	java:S125Ô"<This block of commented-out lines of code should be removed.(–¤Ş¯ıÿÿÿÿ8Ê¬Ûªû/
+]
+java:S1117^";Rename "product" which hides the field declared at line 62.(–ÄÖŒÿÿÿÿÿ8Ê¬Ûªû/
+i
+java:S1301ª"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8Ê¬Ûªû/
+Y	java:S125»"<This block of commented-out lines of code should be removed.(†ö£ú8Ê¬Ûªû/
+Y	java:S125Ÿ"<This block of commented-out lines of code should be removed.(Ê¡µë8Ê¬Ûªû/
+]	java:S107E"AConstructor has 9 parameters, which is greater than 7 authorized.(ÅêÒâ8Ê¬Ûªû/
+y	java:S1165"XRename this field "TotalTextView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸³°Ñúÿÿÿÿ8Ê¬Ûªû/
+I
+java:S1481b",Remove this unused "shopUrl" local variable.(¦ØÚî8Şóûˆ0
+^	java:S125å"<This block of commented-out lines of code should be removed.(–¤Ş¯ıÿÿÿÿ8Ê¬Ûªû/
+N
+java:S1659¼"+Declare "rupeeTextView" on a separate line.(Ùë›»ùÿÿÿÿ8Ê¬Ûªû/

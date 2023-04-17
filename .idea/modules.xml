@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopping-mpos-seller-delivery-boy-point-integration.iml" filepath="$PROJECT_DIR$/shopping-mpos-seller-delivery-boy-point-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shopping-mpos-seller-delivery-boy-point-integration.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shopping-mpos-seller-delivery-boy-point-integration.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shopping-mpos-seller-delivery-boy-point-integration.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shopping-mpos-seller-delivery-boy-point-integration.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shopping-mpos-seller-delivery-boy-point-integration.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shopping-mpos-seller-delivery-boy-point-integration.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/shopping-mpos-seller-delivery-boy-point-integration.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/shopping-mpos-seller-delivery-boy-point-integration.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

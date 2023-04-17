@@ -1,0 +1,35 @@
+
+X
+java:S1141•"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¤”šæì.
+E	java:S108c")Either remove or fill this block of code.(”ı¾8¤”šæì.
+E	java:S108I")Either remove or fill this block of code.(”ı¾8¤”šæì.
+K
+java:S1905Ñ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¤”šæì.
+E
+java:S1604±"(Make this anonymous inner class a lambda(²» g8¤”šæì.
+Q
+java:S1481Œ".Remove this unused "jsonArray" local variable.(ŒÖ•ñùÿÿÿÿ8¤”šæì.
+F
+java:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¤”šæì.
+Y	java:S125“"<This block of commented-out lines of code should be removed.(›óşâ8¤”šæì.
+X	java:S125~"<This block of commented-out lines of code should be removed.(ê˜€8¤”šæì.
+s	java:S116'"XRename this field "shipping_rate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÚ‘38¤”šæì.
+F
+java:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¤”šæì.
+t
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨Œşÿÿÿÿ8¤”šæì.
+J
+java:S1481‹",Remove this unused "request" local variable.(ËíÊ¿8¤”šæì.
+K
+java:S1604Ÿ"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8¤”šæì.
+D
+java:S1168Ë"&Return an empty array instead of null.(¥¹ï8¤”šæì.
+p
+java:S11929"NDefine a constant instead of duplicating this literal "shipping_rate" 5 times.(×÷Èëùÿÿÿÿ8¤”šæì.
+G
+java:S1659'"+Declare "shipping_upto" on a separate line.(ŸÚ‘38¤”šæì.
+M
+java:S1144Î"0Remove this unused private "checkParams" method.(©¸ìG8¤”šæì.
+s	java:S116'"XRename this field "shipping_upto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÚ‘38¤”šæì.
+p
+java:S1192E"NDefine a constant instead of duplicating this literal "shipping_upto" 4 times.(ªáˆûùÿÿÿÿ8¤”šæì.

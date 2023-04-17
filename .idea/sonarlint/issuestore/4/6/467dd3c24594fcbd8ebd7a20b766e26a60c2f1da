@@ -1,0 +1,12 @@
+
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8Ï–™Æª/
+N
+java:S1659&"1Declare "viewDashboardButton" on a separate line.(ï‘¯‚8Ï–™Æª/
+t
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨Œşÿÿÿÿ8Ï–™Æª/
+e
+java:S1117B"CRename "customerDetails" which hides the field declared at line 39.(¹É·üüÿÿÿÿ8Ï–™Æª/
+h
+java:S1117‘"ERename "sharedPreferences" which hides the field declared at line 41.(çòØ«ıÿÿÿÿ8Ï–™Æª/
+Y	java:S125¤"<This block of commented-out lines of code should be removed.(×Ê±†8Ï–™Æª/

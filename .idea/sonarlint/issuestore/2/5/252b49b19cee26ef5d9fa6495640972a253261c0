@@ -1,0 +1,35 @@
+
+T
+java:S1128"7Remove this unused import 'android.view.WindowManager'.(Ü³‹Å8ñ „¹í.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ñ „¹í.
+O
+java:S1481O"2Remove this unused "bitmapPicture" local variable.(‘¦»8ñ „¹í.
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8ñ „¹í.
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8ñ „¹í.
+S
+java:S2696&"6Make the enclosing method "static" or remove this set.(÷ş–ß8ñ „¹í.
+S
+java:S2696$"6Make the enclosing method "static" or remove this set.(Œüüé8ñ „¹í.
+y
+java:S1450!"WRemove the "mPreview" field and declare it as a local variable in the relevant methods.(³°»óúÿÿÿÿ8ñ „¹í.
+S
+java:S1128"1Remove this unused import 'android.view.Surface'.(»â•›ÿÿÿÿÿ8ñ „¹í.
+q
+java:S1104"TMake fragment a static final constant or non-public and provide accessors if needed.(¢ø÷õ8ñ „¹í.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ñ „¹í.
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ñ „¹í.
+K
+java:S1444".Make this "public static fragment" field final(¢ø÷õ8ñ „¹í.
+S
+java:S1128	"1Remove this unused import 'android.view.Display'.(ä¾Öøøÿÿÿÿ8ñ „¹í.
+q
+java:S1104J"TMake mPicture a static final constant or non-public and provide accessors if needed.(‚òúó8ñ „¹í.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ñ „¹í.
+V
+java:S1172#"9Remove this unused method parameter "savedInstanceState".(«ÃÀ÷8ñ „¹í.

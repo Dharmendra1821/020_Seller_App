@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginBottom="5dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="5dp"
+        app:cardCornerRadius="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/out_of_stock"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="10dp"
+                android:visibility="gone"
+                android:src="@drawable/out_of_stock"/>
+
+
+            <ImageView
+                android:id="@+id/productImageView"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="10dp"
+                android:src="@drawable/download"/>
+
+            <androidx.legacy.widget.Space
+                android:layout_width="10dp"
+                android:layout_height="0dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <TextView android:id="@+id/productNameTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ellipsize="end"
+                        android:maxEms="5"
+                        android:maxLines="1"
+                        android:singleLine="true"
+                        android:text="Mustard Oil"
+                        android:textStyle="bold"/>
+
+                    <androidx.legacy.widget.Space
+                        android:layout_width="30dp"
+                        android:layout_height="0dp" />
+
+                    <CheckBox android:id="@+id/selectProductCheckBox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone"
+                        android:buttonTint="@color/colorPrimary"
+                        />
+
+
+                    <Button
+                        android:id="@+id/share_product"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/add_cart_background"
+                        android:textColor="@color/colorWhite"
+                        android:text="Share"
+                        android:visibility="gone"
+                        android:textAllCaps="false"
+                        android:layout_marginTop="5dp"/>
+                    <Button
+                        android:id="@+id/addcart_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_marginRight="5dp"
+                        android:textSize="12dp"
+                        android:background="@drawable/add_cart_background"
+                        android:textColor="@color/colorWhite"
+                        android:layout_marginTop="5dp"
+                        android:padding="-5dp"
+                        android:visibility="gone"
+                        android:textAllCaps="false"
+                        android:text="Add to Cart"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textlink"
+                        android:textStyle="bold"
+                        android:textSize="13dp"
+                        android:layout_marginRight="5dp"
+                        android:visibility="gone"/>
+
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView android:id="@+id/productsSubNameTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:maxEms="5"
+                        android:maxLines="1"
+                        android:singleLine="true"
+                        android:text="Mustard Oil 2kg"
+                        android:textColor="@color/button_text_color"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="25dp" />
+
+                <LinearLayout
+                    android:id="@+id/variant_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center"
+                    android:visibility="gone"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/button_text_border1"
+                    android:gravity="center"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Title"
+                        android:textSize="14dp"
+                        android:id="@+id/config_variant_title"
+                        android:textColor="@color/new_btn_color"/>
+
+                    <Spinner
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:spinnerMode="dialog"
+                        android:id="@+id/config_variant"></Spinner>
+
+
+
+                </LinearLayout>
+                <androidx.legacy.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="15dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical">
+
+                    <ImageView android:id="@+id/rupeeImageView"
+                        android:layout_width="15dp"
+                        android:layout_height="20dp"
+                        android:alpha=".70"
+                        android:src="@drawable/ic_rupee_indian"/>
+
+                    <TextView
+                        android:layout_toRightOf="@+id/ruppeeImageView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="250"
+                        android:layout_marginLeft="15dp"
+                        android:id="@+id/rupeeTextView"
+                        android:textSize="16dp"/>
+                    </RelativeLayout>
+                    
+                    <androidx.legacy.widget.Space
+                        android:layout_width="50dp"
+                        android:layout_height="0dp" />
+                    
+                    <RelativeLayout
+                        android:id="@+id/addtocart_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone"
+                        >
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="end"
+                            android:layout_marginRight="10dp">
+
+                            <TextView
+                                android:id="@+id/decrementTextView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5dp"
+                                android:layout_marginTop="5dp"
+                                android:background="@drawable/ic_remove_circle_outline_black_24dp"
+                                android:gravity="center_vertical" />
+
+                            <EditText android:id="@+id/quantityEditText"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0"
+                                android:enabled="false"
+                                android:textColor="@color/colorBlack"
+                                android:layout_marginLeft="5dp"
+                                android:layout_gravity="center_vertical"
+                                android:background="@drawable/edit_text_border"
+                                android:layout_toRightOf="@+id/decrementTextView"/>
+
+
+                            <TextView android:id="@+id/incrementTextView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginLeft="5dp"
+                                android:background="@drawable/ic_add_circle_outline_black_24dp"
+                                android:layout_toRightOf="@+id/quantityEditText"
+                                />
+                        </LinearLayout>
+
+                        
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

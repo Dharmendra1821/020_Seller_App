@@ -1,0 +1,10 @@
+
+\"squid:SwitchLastCaseIsDefaultCheckG""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8â’Ãüÿ-
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(µÏËÀûÿÿÿÿ8â’Ãüÿ-
+csquid:UnusedPrivateMethod©"1Remove this unused private "showSystemUI" method.(Ïİéûÿÿÿÿ8â’Ãüÿ-
+bsquid:S1192)"KDefine a constant instead of duplicating this literal "product_id" 5 times.(ô‰¬„
+`squid:S1192+"IDefine a constant instead of duplicating this literal "value_id" 5 times.(ÿÈÕ—
+_squid:S1192*"IDefine a constant instead of duplicating this literal "position" 5 times.(ƒÕÏY
+asquid:S3398u">Move this method into the anonymous class declared at line 66.(¿Ğğåşÿÿÿÿ8úçÃüÿ-
+jsquid:S1192,"LDefine a constant instead of duplicating this literal "product_sku" 5 times.(ù¡•8â’Ãüÿ-
+Fsquid:S1604B"(Make this anonymous inner class a lambda(êæ¥©8â’Ãüÿ-

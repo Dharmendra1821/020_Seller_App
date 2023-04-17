@@ -1,0 +1,22 @@
+
+E	java:S108G")Either remove or fill this block of code.(”ı¾8È¸­¶Á/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¢‡±¶Á/
+X	java:S125O"<This block of commented-out lines of code should be removed.(ßê‰À8È¸­¶Á/
+Q
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8¢‡±¶Á/
+L
+java:S1144^"0Remove this unused private "checkParams" method.(©¸ìG8È¸­¶Á/
+R
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8¢‡±¶Á/
+J
+java:S1604>"(Make this anonymous inner class a lambda(‹÷Áèùÿÿÿÿ8È¸­¶Á/
+J	java:S108C")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ8¢‡±¶Á/
+D
+java:S1604L"(Make this anonymous inner class a lambda(²» g8È¸­¶Á/
+–
+java:S1128"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.community.model.CommunitySellerListModel'.(ÏÛ¥òşÿÿÿÿ8¢‡±¶Á/
+J
+java:S1905a"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8È¸­¶Á/
+O
+java:S1481+"-Remove this unused "sellerId" local variable.(¢°…ùÿÿÿÿ8ù‹ô¶Á/

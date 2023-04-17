@@ -1,0 +1,30 @@
+
+>
+java:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148¶"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'android.app.ProgressDialog'.(¶ÍÔÓ
+?
+java:S1659("$Declare "pdfBtn" on a separate line.(Ğ§­ßÿÿÿÿÿ
+>
+java:S1659("#Declare "fbBtn" on a separate line.(Ğ§­ßÿÿÿÿÿ
+C
+java:S1659("(Declare "share_next" on a separate line.(Ğ§­ßÿÿÿÿÿ
+o	java:S116("URename this field "share_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ§­ßÿÿÿÿÿ
+>	java:S108>")Either remove or fill this block of code.(”ı¾
+<	java:S131c""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+F
+java:S1659–"*Declare "convertWidth" on a separate line.(æ±õ·úÿÿÿÿ
+O
+java:S1117"8Rename "page" which hides the field declared at line 42.(¯Ôªì
+V
+java:S1117¦":Rename "bitmap" which hides the field declared at line 43.(ü£«øÿÿÿÿ
+@
+java:S1481€")Remove this unused "info" local variable.(¨ºš’
+H
+java:S1481",Remove this unused "display" local variable.(ÿïÎÿúÿÿÿÿ
+C
+java:S1481¬",Remove this unused "shopUrl" local variable.(¦ØÚî
+W	java:S125˜"<This block of commented-out lines of code should be removed.(Úºî‚üÿÿÿÿ
+R	java:S125²"<This block of commented-out lines of code should be removed.(‘Ÿîâ

@@ -1,0 +1,24 @@
+
+†
+java:S1128"iRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.SellerInvoiceAdapter'.(Åóø–8òËïêÀ/
+S
+java:S2696X"6Make the enclosing method "static" or remove this set.(¨‹ø¥8æ¸îêÀ/
+N
+java:S1068"1Remove this unused "clickListener" private field.(õŒ‰±8—ßµìÀ/
+y
+java:S1450"\Remove the "clickListener" field and declare it as a local variable in the relevant methods.(õŒ‰±8—ßµìÀ/
+˜
+java:S1319!"vThe type of the "imageModels" object should be an interface such as "List" rather than the implementation "ArrayList".(ˆÁşÿÿÿÿÿ8æ¸îêÀ/
+]	java:S125;"<This block of commented-out lines of code should be removed.(°Ä®šùÿÿÿÿ8—ßµìÀ/
+Z
+java:S1128">Remove this unused import 'android.content.SharedPreferences'.(íÎÉr8ø†ùêÀ/
+†
+java:S1128"dRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.SellerInvoiceModel'.(‚©‡ñÿÿÿÿÿ8üö÷êÀ/
+P
+java:S1128"4Remove this unused import 'android.widget.CheckBox'.(Ùáb8œĞõêÀ/
+
+java:S1488*"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(¸Ê×¼8æ¸îêÀ/
+X	java:S1259"<This block of commented-out lines of code should be removed.(“´«8—ßµìÀ/
+V
+java:S1128
+"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8œĞõêÀ/

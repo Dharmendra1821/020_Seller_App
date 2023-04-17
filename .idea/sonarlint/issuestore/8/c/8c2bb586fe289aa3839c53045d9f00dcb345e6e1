@@ -1,0 +1,30 @@
+
+O
+java:S1481L"-Remove this unused "fragment" local variable.(ŸÇ÷ºùÿÿÿÿ8–ËÁ»Á/
+T
+java:S1144ƒ"1Remove this unused private "loadFragment" method.(¿Ğğåşÿÿÿÿ8–ËÁ»Á/
+T
+java:S1144§"1Remove this unused private "showSystemUI" method.(Ïİéûÿÿÿÿ8–ËÁ»Á/
+P
+java:S1128"4Remove this unused import 'android.graphics.Bitmap'.(¾ì8–ËÁ»Á/
+
+java:S1128"kRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.fragment.AddCameraFragment'.(×àù½ıÿÿÿÿ8–ËÁ»Á/
+‡
+java:S1128"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_product.fragments.CameraFragment'.(µîí£şÿÿÿÿ8–ËÁ»Á/
+—
+java:S1128"uRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.EditProductListActivity'.(õæÚÍşÿÿÿÿ8–ËÁ»Á/
+e
+java:S11929"IDefine a constant instead of duplicating this literal "position" 5 times.(ƒÕÏY8–ËÁ»Á/
+Š
+java:S1128"hRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_product.fragments.NewCameraFragment'.(¤ÿÌŠıÿÿÿÿ8–ËÁ»Á/
+ƒ
+java:S1128"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_product.fragments.GalleryFragment'.(‚¿œ¿8–ËÁ»Á/
+E
+java:S1604H"(Make this anonymous inner class a lambda(êæ¥©8–ËÁ»Á/
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8–ËÁ»Á/
+‡
+java:S1128"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_product.fragments.QfixlibraryFragment'.(û¿ìÖ8–ËÁ»Á/
+‘
+java:S1128"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListActivity'.( ÏßÜ8–ËÁ»Á/
+C	java:S131M""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8–ËÁ»Á/

@@ -1,0 +1,51 @@
+
+‰
+java:S1128("lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.SellerDashboardActivity'.(Ò©¥8Â—Ó–ô.
+u
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ûŸ”ÿÿÿÿÿ8Â—Ó–ô.
+h
+java:S1192@"KDefine a constant instead of duplicating this literal "StandAlone" 3 times.(Î´ı·8Â—Ó–ô.
+A
+java:S1148—"#Use a logger to log this exception.(Ç’Çê8Â—Ó–ô.
+J
+java:S1481",Remove this unused "shopUrl" local variable.(¦ØÚî8‰”ù/
+D
+java:S16595""Declare "code" on a separate line.(¸ª”şÿÿÿÿ8Â—Ó–ô.
+L
+java:S16591"*Declare "cityEditText" on a separate line.(¯õ¥Àÿÿÿÿÿ8Â—Ó–ô.
+g
+java:S2153Ê"IRemove the boxing to "Integer"; The argument is already of the same type.(Š’ÿ8Æ—¡Òû/
+P
+java:S16591".Declare "address2EditText" on a separate line.(¯õ¥Àÿÿÿÿÿ8Â—Ó–ô.
+g
+java:S3358Ì"DExtract this nested ternary operation into an independent statement.(Ú´²Õûÿÿÿÿ8Â—Ó–ô.
+l
+java:S2153•"IRemove the boxing to "Integer"; The argument is already of the same type.(Å¹ô¡úÿÿÿÿ8Æ—¡Òû/
+¤
+java:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒØü ûÿÿÿÿ8Â—Ó–ô.
+J
+java:S1481•"'Remove this unused "id" local variable.(Å¹ô¡úÿÿÿÿ8·—¥Òû/
+A
+java:S1148Ì"#Use a logger to log this exception.(Ç’Çê8Â—Ó–ô.
+V
+java:S1117§"8Rename "gson" which hides the field declared at line 57.(şëŒ8Â—Ó–ô.
+I
+java:S16595"'Declare "region_id" on a separate line.(¸ª”şÿÿÿÿ8Â—Ó–ô.
+Q
+java:S16591"/Declare "telephoneEditText" on a separate line.(¯õ¥Àÿÿÿÿÿ8Â—Ó–ô.
+b
+java:S3358Î"DExtract this nested ternary operation into an independent statement.(ÕÏˆ¼8Â—Ó–ô.
+b
+java:S3358Ñ"DExtract this nested ternary operation into an independent statement.(¾–ÇÅ8Â—Ó–ô.
+g
+java:S3358Í"DExtract this nested ternary operation into an independent statement.(ïø§Ìûÿÿÿÿ8Â—Ó–ô.
+U
+java:S1128"3Remove this unused import 'android.widget.Spinner'.(¸£ÃØüÿÿÿÿ8Â—Ó–ô.
+£
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8Â—Ó–ô.
+Y	java:S125Ñ"<This block of commented-out lines of code should be removed.(Ôö§ó8Â—Ó–ô.
+O
+java:S16591"-Declare "pincodeEditText" on a separate line.(¯õ¥Àÿÿÿÿÿ8Â—Ó–ô.
+u	java:S1165"TRename this field "region_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ª”şÿÿÿÿ8Â—Ó–ô.
+v
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(š¹£v8Â—Ó–ô.

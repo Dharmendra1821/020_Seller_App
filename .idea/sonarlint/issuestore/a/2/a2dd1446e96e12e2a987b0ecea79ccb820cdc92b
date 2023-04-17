@@ -1,0 +1,23 @@
+
+K
+java:S1659M")Declare "sellerEmail" on a separate line.(ì¾ûôüÿÿÿÿ8ŒğÙ´Á/
+ƒ
+java:S1128"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.community.model.ImageModel'.(Ë÷‡ª8×Ğú´Á/
+Q
+java:S2696a"6Make the enclosing method "static" or remove this set.(ÅÆßÊüÿÿÿÿ
+›
+java:S1319""„The type of the "communitySellerListModels" object should be an interface such as "List" rather than the implementation "ArrayList".(’Œíæ
+M
+java:S1659M"+Declare "sellerContact" on a separate line.(ì¾ûôüÿÿÿÿ8ŒğÙ´Á/
+R
+java:S1128"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë8çÖÖ´Á/
+W
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8ŒğÙ´Á/
+J
+java:S1659N"(Declare "productBtn" on a separate line.(½•Ïûÿÿÿÿ8É÷Ú´Á/
+H
+java:S1659M"&Declare "shopName" on a separate line.(ì¾ûôüÿÿÿÿ8ŒğÙ´Á/
+F
+java:S1659M"$Declare "status" on a separate line.(ì¾ûôüÿÿÿÿ8ŒğÙ´Á/
+x
+java:S1488+"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ŞçüÕ

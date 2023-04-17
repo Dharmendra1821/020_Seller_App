@@ -1,0 +1,108 @@
+
+isquid:S1192u"KDefine a constant instead of duplicating this literal "StandAlone" 7 times.(Î´ı·8·ó°üÿ-
+{squid:S00116\"WRename this field "sub_imageurl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÏ¼ÿÿÿÿÿ8Ò„Åœİ-
+osquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8·ó°üÿ-
+jsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ßê‰À8·ó°üÿ-
+qsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ÿ˜şë8·ó°üÿ-
+jsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(¼§ÖÑ8·ó°üÿ-
+qsquid:S1192ˆ"MDefine a constant instead of duplicating this literal "&categoryId=" 3 times.(Ñ±ÁÊüÿÿÿÿ8·ó°üÿ-
+vsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÂƒÈúÿÿÿÿ8·ó°üÿ-
+hsquid:S1192º"IDefine a constant instead of duplicating this literal "value_id" 4 times.(¼”øı8·ó°üÿ-
+fsquid:S1192ü"GDefine a constant instead of duplicating this literal "Accept" 5 times.(‰¼¢‹8·ó°üÿ-
+Lsquid:S1604Ç"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8·ó°üÿ-
+Lsquid:S1604ë"(Make this anonymous inner class a lambda(ªàêÏûÿÿÿÿ8·ó°üÿ-
+qsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¡†’8‹¡°üÿ-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Êûô8·ó°üÿ-
+Lsquid:S1604¥"(Make this anonymous inner class a lambda(ªàêÏûÿÿÿÿ8·ó°üÿ-
+\squid:UnusedPrivateMethod‡"0Remove this unused private "checkParams" method.(©¸ìG8·ó°üÿ-
+usquid:S00116V"VRename this field "sub_spinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İò8‹¡°üÿ-
+Lsquid:S1604×"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8·ó°üÿ-
+vsquid:S00116]"WRename this field "sub_parentid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼í©¾8‹¡°üÿ-
+jsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(­Îá¾8·ó°üÿ-
+fsquid:S1192’"GDefine a constant instead of duplicating this literal "cat_id" 8 times.(¨‘í8·ó°üÿ-
+isquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(æúˆì8·ó°üÿ-
+\squid:UnusedPrivateMethod¹"0Remove this unused private "checkParams" method.(©¸ìG8·ó°üÿ-
+qsquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÚŠı°8·ó°üÿ-
+rsquid:S1192µ"NDefine a constant instead of duplicating this literal "media_gallery" 4 times.(ñÂƒÈúÿÿÿÿ8‹¡°üÿ-
+jsquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(­Îá¾8·ó°üÿ-
+osquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(ˆŠÖ“øÿÿÿÿ8·ó°üÿ-
+Lsquid:S1905Š"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8·ó°üÿ-
+jsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(­Îá¾8·ó°üÿ-
+Qsquid:S1659O".Declare "visibleItemCount" on a separate line.(üÆö›ıÿÿÿÿ8·ó°üÿ-
+\squid:UnusedPrivateMethodò"0Remove this unused private "checkParams" method.(©¸ìG8·ó°üÿ-
+}squid:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡§£ûÿÿÿÿ8·ó°üÿ-
+msquid:S1192¤"IDefine a constant instead of duplicating this literal "https://" 5 times.(áÍ‰Àûÿÿÿÿ8‹¡°üÿ-
+—squid:S1192œ"sDefine a constant instead of duplicating this literal "customapi/getStandaloneProductBySellerId?sellerId=" 4 times.(ññƒÃÿÿÿÿÿ8·ó°üÿ-
+ksquid:S1192§"GDefine a constant instead of duplicating this literal "Url..." 5 times.(òì£Ğùÿÿÿÿ8·ó°üÿ-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ì¼ÇÂüÿÿÿÿ8·ó°üÿ-
+jsquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(÷Ø‡³8·ó°üÿ-
+jsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(­Îá¾8·ó°üÿ-
+jsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ßê‰À8·ó°üÿ-
+Lsquid:S1604¬"(Make this anonymous inner class a lambda(ªàêÏûÿÿÿÿ8·ó°üÿ-
+qsquid:MaximumInheritanceDepth4"<This class has 6 parents which is greater than 5 authorized.(ü‚„¤ÿÿÿÿÿ8·ó°üÿ-
+jsquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(€Åé8·ó°üÿ-
+jsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(ßê‰À8·ó°üÿ-
+Lsquid:S1604ş"(Make this anonymous inner class a lambda(ªàêÏûÿÿÿÿ8·ó°üÿ-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­Îá¾8·ó°üÿ-
+ksquid:S1192¶"GDefine a constant instead of duplicating this literal "images" 4 times.(ÌîÌ¹úÿÿÿÿ8‹¡°üÿ-
+Gsquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ó°üÿ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÂƒÈúÿÿÿÿ8·ó°üÿ-
+Lsquid:S1905¼"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8·ó°üÿ-
+lsquid:S1192´"MDefine a constant instead of duplicating this literal "productImage" 4 times.(ĞÍåõ8 ³©İ-
+nsquid:S1192¼"JDefine a constant instead of duplicating this literal "entity_id" 4 times.(¹“µğøÿÿÿÿ8·ó°üÿ-
+psquid:S1192ü"QDefine a constant instead of duplicating this literal "application/json" 5 times.(‰¼¢‹8·ó°üÿ-
+Lsquid:S1604ì"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8·ó°üÿ-
+rsquid:S00116D"SRename this field "value_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş±‹˜8·ó°üÿ-
+nsquid:S1192³"JDefine a constant instead of duplicating this literal "productId" 4 times.(áæ¡ëşÿÿÿÿ8‹¡°üÿ-
+jsquid:S1192œ"KDefine a constant instead of duplicating this literal "sub_cat_id" 6 times.(îõ¯¸8·ó°üÿ-
+osquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8‹¡°üÿ-
+Lsquid:S1905å"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8·ó°üÿ-
+Lsquid:S1604²"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8·ó°üÿ-
+esquid:S1192²"MDefine a constant instead of duplicating this literal "productPrice" 4 times.(÷‹˜Ó
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(ˆŠÖ“øÿÿÿÿ8·ó°üÿ-
+Ssquid:S1066ä"/Merge this if statement with the enclosing one.(±÷»üùÿÿÿÿ8·ó°üÿ-
+\squid:UnusedPrivateMethodâ"0Remove this unused private "checkParams" method.(©¸ìG8·ó°üÿ-
+vsquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÂƒÈúÿÿÿÿ8·ó°üÿ-
+qsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áô‰æ8·ó°üÿ-
+}squid:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8·ó°üÿ-
+ssquid:S1192¢"ODefine a constant instead of duplicating this literal "Please wait..." 4 times.(÷Šşİøÿÿÿÿ8·ó°üÿ-
+qsquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(—ıç×8·ó°üÿ-
+psquid:S1192ˆ"LDefine a constant instead of duplicating this literal "&pageIndex=" 3 times.(Ñ±ÁÊüÿÿÿÿ8·ó°üÿ-
+vsquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÂƒÈúÿÿÿÿ8·ó°üÿ-
+Gsquid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ó°üÿ-
+Gsquid:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ó°üÿ-
+vsquid:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ì ¹ëûÿÿÿÿ8·ó°üÿ-
+nsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ÊÖñˆşÿÿÿÿ8·ó°üÿ-
+jsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(öØ¥8·ó°üÿ-
+}squid:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8·ó°üÿ-
+Isquid:S00108ÿ")Either remove or fill this block of code.(”ı¾8·ó°üÿ-
+hsquid:S1192£"IDefine a constant instead of duplicating this literal "shop_url" 5 times.(¦ØÚî8·ó°üÿ-
+Nsquid:S1659>"+Declare "subcategories" on a separate line.(¤†›×ÿÿÿÿÿ8·ó°üÿ-
+|squid:S00116U"XRename this field "search_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¼à±úÿÿÿÿ8·ó°üÿ-
+}squid:S00116["YRename this field "sub_categoryid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×²Úšüÿÿÿÿ8·ó°üÿ-
+Gsquid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ó°üÿ-
+}squid:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8·ó°üÿ-
+ysquid:S1450K"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(”ü®‡ùÿÿÿÿ8·ó°üÿ-
+Lsquid:S1905Ğ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8·ó°üÿ-
+Gsquid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ó°üÿ-
+ksquid:S1192±"LDefine a constant instead of duplicating this literal "productName" 4 times.(åö…„8·ó°üÿ-
+Lsquid:S1604‘"(Make this anonymous inner class a lambda(ªàêÏûÿÿÿÿ8·ó°üÿ-
+}squid:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã±ÀÈûÿÿÿÿ8·ó°üÿ-
+}squid:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8·ó°üÿ-
+msquid:S1192¨"IDefine a constant instead of duplicating this literal "Response" 4 times.(ËÖ‡©ùÿÿÿÿ8·ó°üÿ-
+Lsquid:S1905õ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8·ó°üÿ-
+Ysquid:S1141³"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8·ó°üÿ-
+osquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Ì¼ÇÂüÿÿÿÿ8·ó°üÿ-
+Gsquid:S1659V")Declare "sub_spinner" on a separate line.(İò8·ó°üÿ-
+Osquid:S1659O",Declare "totalItemCount" on a separate line.(üÆö›ıÿÿÿÿ8·ó°üÿ-
+\squid:UnusedPrivateMethodÍ"0Remove this unused private "checkParams" method.(©¸ìG8·ó°üÿ-
+jsquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(ßê‰À8·ó°üÿ-
+vsquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÄÓ²Œûÿÿÿÿ8·ó°üÿ-
+Lsquid:S1604"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8·ó°üÿ-
+jsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(ßê‰À8·ó°üÿ-
+wsquid:S00116^"SRename this field "sub_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÁÍùÿÿÿÿ8‹¡°üÿ-
+}squid:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8·ó°üÿ-
+ysquid:S1192"ZDefine a constant instead of duplicating this literal "Loading Categories......." 3 times.(Ú£şÏ8·ó°üÿ-
+osquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(ò¨ü¶ÿÿÿÿÿ8·ó°üÿ-
+osquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ˆŠÖ“øÿÿÿÿ8·ó°üÿ-
+usquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¨Œşÿÿÿÿ8·ó°üÿ-

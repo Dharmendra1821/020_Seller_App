@@ -1,0 +1,23 @@
+
+rsquid:S00100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œöñçùÿÿÿÿ8ÙÅ†ìß-
+usquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÒ»Öşÿÿÿÿ8ÙÅ†ìß-
+rsquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Íœ®şÿÿÿÿ8ÙÅ†ìß-
+{squid:S00116"WRename this field "tax_class_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜­ùüÿÿÿÿ8¸½Ûëß-
+wsquid:S00116"SRename this field "hsn_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¼Ø—úÿÿÿÿ8—ˆáëß-
+osquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šú:8ÙÅ†ìß-
+vsquid:S00116"RRename this field "url_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌéÛ‘ùÿÿÿÿ8ÏĞÚëß-
+rsquid:UselessImportCheck"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8æ …ùå-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Õâšÿÿÿÿÿ8 ëÍ¢æ-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñµ•ƒ8 ëÍ¢æ-
+lsquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šú:8ÙÅ†ìß-
+rsquid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…³³ùÿÿÿÿ8ÙÅ†ìß-
+msquid:S00100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôİ‰Ò8ÙÅ†ìß-
+psquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôİ‰Ò8ÙÅ†ìß-
+psquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ú¶İ8ÙÅ†ìß-
+rsquid:S00100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÒ»Öşÿÿÿÿ8ÙÅ†ìß-
+€squid:S00116
+"\Rename this field "short_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ°²ùÿÿÿÿ8´´Í¢æ-
+xsquid:S00116"TRename this field "bag_brand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜüÚåùÿÿÿÿ8—ˆáëß-
+msquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ú¶İ8ÙÅ†ìß-
+rsquid:S00100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú’ÚŞùÿÿÿÿ8ÙÅ†ìß-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Õâšÿÿÿÿÿ8 ëÍ¢æ-

@@ -1,0 +1,137 @@
+
+Y	java:S125ü"<This block of commented-out lines of code should be removed.(¸úÚ¤8ßÉ–“/
+^	java:S125Ş"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8ßÉ–“/
+o
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(à‹©<8ßÉ–“/
+T
+java:S1659r"2Declare "product_sku_checkbox" on a separate line.(»ë¹‡ÿÿÿÿÿ8 æ““/
+O
+java:S1128+"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¢”Ö„å.
+’
+java:S1128?"pRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.RequestTrialDetailsActivity'.(Îªõ­ÿÿÿÿÿ8¢”Ö„å.
+v
+java:S1192­"SDefine a constant instead of duplicating this literal "&pageSize=10&name=" 4 times.(·æ€°ûÿÿÿÿ8ßÉ–“/
+^	java:S125‡"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ßÉ–“/
+¤
+java:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œƒƒ©ùÿÿÿÿ8ßÉ–“/
+F
+java:S1148ê"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßÉ–“/
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(­Îá¾8ßÉ–“/
+x	java:S116l"]Rename this field "product_visibility" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é°Ş;8¢”Ö„å.
+g
+java:S1117ƒ"DRename "customerDetails" which hides the field declared at line 101.(¹É·üüÿÿÿÿ8¢”Ö„å.
+K
+java:S1905•"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ßÉ–“/
+‘
+java:S1192¬"sDefine a constant instead of duplicating this literal "customapi/getStandaloneProductBySellerId?sellerId=" 6 times.(§æ˜±8ßÉ–“/
+^	java:S125"<This block of commented-out lines of code should be removed.(ü½Š°üÿÿÿÿ8ßÉ–“/
+s
+java:S1128E"VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.SKU_URL'.(¯±¢™8¢”Ö„å.
+F	java:S108í")Either remove or fill this block of code.(”ı¾8ßÉ–“/
+s	java:S116b"RRename this field "add_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ºá«øÿÿÿÿ8¢”Ö„å.
+u
+java:S1192±"RDefine a constant instead of duplicating this literal "&pageSize=10&sku=" 3 times.(ƒ»¾ºøÿÿÿÿ8ÊÙ´‹ù/
+a
+java:S1155³">Use isEmpty() to check whether the collection is empty or not.(ş³ĞÕüÿÿÿÿ8ßÉ–“/
+P
+java:S1659t".Declare "searchProductSku" on a separate line.(Ö÷§¥şÿÿÿÿ8ÎæÊ““/
+^	java:S125à"<This block of commented-out lines of code should be removed.(²€šÒøÿÿÿÿ8ßÉ–“/
+n	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï±’Ê8ßÉ–“/
+i
+java:S1117Î"FRename "addNewProductModel" which hides the field declared at line 95.(¥˜µÄøÿÿÿÿ8ßÉ–“/
+Y	java:S125»"<This block of commented-out lines of code should be removed.(ğ³âï8ßÉ–“/
+g
+java:S1192©"IDefine a constant instead of duplicating this literal "shop_url" 3 times.(¦ØÚî8ßÉ–“/
+^	java:S125…"<This block of commented-out lines of code should be removed.(åÌ „ùÿÿÿÿ8ßÉ–“/
+€	java:S116r"_Rename this field "product_clear_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ë¹‡ÿÿÿÿÿ8ä³Õ”“/
+E
+java:S1604ï"(Make this anonymous inner class a lambda(²» g8ßÉ–“/
+r	java:S116c"WRename this field "category_ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‚Ûs8¢”Ö„å.
+Y	java:S125È"<This block of commented-out lines of code should be removed.(­Îá¾8ßÉ–“/
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(ÊÒ¨’8ä•…¨ş/
+€	java:S116r"_Rename this field "product_sku_checkbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ë¹‡ÿÿÿÿÿ8 æ““/
+Œ
+java:S1128@"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.SMSContactListAdapter'.(¯ì Ÿùÿÿÿÿ8¢”Ö„å.
+—
+java:S1128:"uRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.DatabaseCategoriesModel'.(Î­Éâúÿÿÿÿ8¢”Ö„å.
+‹
+java:S1128="nRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.ComplaintsDetailsActivity'.(ı•§Ä8¢”Ö„å.
+t
+java:S3776w"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¨Œşÿÿÿÿ8ÜÄ¢““/
+K
+java:S1604Å"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ßÉ–“/
+j
+java:S1192¬"LDefine a constant instead of duplicating this literal "&pageIndex=" 6 times.(§æ˜±8µÆÛ”“/
+s	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šæÈÈûÿÿÿÿ8 Áú““/
+J
+java:S1481Ó",Remove this unused "shopUrl" local variable.(¦ØÚî8ÊÙ´‹ù/
+E
+java:S1604´"(Make this anonymous inner class a lambda(²» g8ßÉ–“/
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8ßÉ–“/
+K
+java:S1905Œ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ßÉ–“/
+Y	java:S125ö"<This block of commented-out lines of code should be removed.(ğ³âï8ßÉ–“/
+R
+java:S1066ñ"/Merge this if statement with the enclosing one.(±÷»üùÿÿÿÿ8ßÉ–“/
+^	java:S125ë"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8ßÉ–“/
+M
+java:S1144‰"0Remove this unused private "checkParams" method.(©¸ìG8ßÉ–“/
+M
+java:S1144Î"0Remove this unused private "checkParams" method.(©¸ìG8ßÉ–“/
+j
+java:S1192Ù"GDefine a constant instead of duplicating this literal "status" 3 times.(÷İÒûÿÿÿÿ8ßÉ–“/
+P
+java:S1659h".Declare "visibleItemCount" on a separate line.(üÆö›ıÿÿÿÿ8¢”Ö„å.
+Y	java:S125·"<This block of commented-out lines of code should be removed.(ßê‰À8ßÉ–“/
+M
+java:S1144’"0Remove this unused private "checkParams" method.(©¸ìG8ßÉ–“/
+•
+java:S11289"sRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListAdapter'.(¾ Õšøÿÿÿÿ8ê¿êæì.
+D
+java:S1168"&Return an empty array instead of null.(¥¹ï8ßÉ–“/
+z	java:S116s"^Rename this field "search_filter_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñø³ƒ8øŞ©““/
+T
+java:S1659r"2Declare "product_clear_filter" on a separate line.(»ë¹‡ÿÿÿÿÿ8ä³Õ”“/
+E
+java:S1604ô"(Make this anonymous inner class a lambda(²» g8ßÉ–“/
+i
+java:S1117ˆ"FRename "addNewProductModel" which hides the field declared at line 95.(¥˜µÄøÿÿÿÿ8ßÉ–“/
+‘
+java:S11288"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListActivity'.( ÏßÜ8ê¿êæì.
+s	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šæÈÈûÿÿÿÿ8 Áú““/
+w
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙŠÄü8ßÉ–“/
+u
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ıÔ±³üÿÿÿÿ8ßÉ–“/
+Y	java:S125„"<This block of commented-out lines of code should be removed.(’âæ›8ßÉ–“/
+•
+java:S1128;"xRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.DatabaseSubCategoriesModel'.(­¸€‹8¢”Ö„å.
+F
+java:S1148Ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßÉ–“/
+F
+java:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßÉ–“/
+g
+java:S1192¬"IDefine a constant instead of duplicating this literal "https://" 6 times.(§æ˜±8ßÉ–“/
+|
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8ßÉ–“/
+	java:S116r"`Rename this field "product_name_checkbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ë¹‡ÿÿÿÿÿ8 æ““/
+K
+java:S1604ÿ"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ßÉ–“/
+K
+java:S1905Ñ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ßÉ–“/
+^
+java:S1117æ";Rename "status" which hides the field declared at line 110.(ÆÃ÷ûøÿÿÿÿ8ßÉ–“/
+^	java:S125ş"<This block of commented-out lines of code should be removed.(“¼ˆéùÿÿÿÿ8ßÉ–“/
+N
+java:S1659h",Declare "totalItemCount" on a separate line.(üÆö›ıÿÿÿÿ8¢”Ö„å.
+^	java:S125û"<This block of commented-out lines of code should be removed.(†ÌÛ‰ıÿÿÿÿ8ßÉ–“/
+Y	java:S125ò"<This block of commented-out lines of code should be removed.(ßê‰À8ßÉ–“/
+j
+java:S1192¾"GDefine a constant instead of duplicating this literal "Url..." 4 times.(òì£Ğùÿÿÿÿ8ßÉ–“/
+n	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï±’Ê8ßÉ–“/
+K
+java:S1604ß"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8ßÉ–“/
+|
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8ßÉ–“/
+Y	java:S125÷"<This block of commented-out lines of code should be removed.(ßê‰À8ßÉ–“/

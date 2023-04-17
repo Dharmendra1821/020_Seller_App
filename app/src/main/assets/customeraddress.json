@@ -1,0 +1,45 @@
+[{
+  "CustomerAddressId": 1,
+  "CustomerId": 1,
+  "Address1": "Find me",
+  "Address2": "Near you",
+  "State": "No Where",
+  "ZipCode": "11111",
+  "PhoneNo": "11111111111"
+},
+  {
+    "CustomerAddressId": 2,
+    "CustomerId": 1,
+    "Address1": "Find me1",
+    "Address2": "Near you1",
+    "State": "No Where1",
+    "ZipCode": "22222",
+    "PhoneNo": "2222222222"
+  },
+  {
+    "CustomerAddressId": 3,
+    "CustomerId": 3,
+    "Address1": "Find me3",
+    "Address2": "Near you3",
+    "State": "No Where3",
+    "ZipCode": "33333",
+    "PhoneNo": "3333333333"
+  },
+  {
+    "CustomerAddressId": 4,
+    "CustomerId": 3,
+    "Address1": "Find me4",
+    "Address2": "Near you4",
+    "State": "No Where4",
+    "ZipCode": "44444",
+    "PhoneNo": "4444444444"
+  },
+  {
+    "CustomerAddressId": 5,
+    "CustomerId": 4,
+    "Address1": "Find me5",
+    "Address2": "Near you5",
+    "State": "No Where5",
+    "ZipCode": "55555",
+    "PhoneNo": "55555555555"
+  }]

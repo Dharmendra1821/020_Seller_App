@@ -1,0 +1,11 @@
+
+dsquid:S20954"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÐŒý©øÿÿÿÿ
+bsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ðàŒ
+Qsquid:S1141."5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?squid:S1148D"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+ssquid:HiddenFieldCheck\"ERename "sharedPreferences" which hides the field declared at line 30.(çòØ«ýÿÿÿÿ8àÜòÌ-
+:squid:S11481"#Use a logger to log this exception.(Ç’Çê
+bsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(×Ê±†
+isquid:S1192#"KDefine a constant instead of duplicating this literal "StandAlone" 3 times.(´ æ8ÖÎïÌ-
+bsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(×Ê±†
+bsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(×Ê±†

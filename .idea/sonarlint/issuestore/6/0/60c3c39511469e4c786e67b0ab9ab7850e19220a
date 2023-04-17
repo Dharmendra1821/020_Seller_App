@@ -1,0 +1,112 @@
+
+y
+java:S1104."WMake BADGE_COUNT a static final constant or non-public and provide accessors if needed.(„÷š”ûÿÿÿÿ8Ê›÷Áê.
+r
+java:S1104"UMake DUMMY_URL a static final constant or non-public and provide accessors if needed.(‘Ÿ¿‘8ØéÒÒô/
+z
+java:S1104!"]Make PRODUCT_MEDIA_URL a static final constant or non-public and provide accessors if needed.(“Œ½©8Ê›÷Áê.
+€
+java:S1104""^Make PRODUCT_MEDIA_URL1 a static final constant or non-public and provide accessors if needed.(‰Ä¦ıÿÿÿÿ8Ê›÷Áê.
+U
+java:S1444#"8Make this "public static CATEGORY_MEDIA_URL" field final(¾ŠĞ‘8Ê›÷Áê.
+€
+java:S1104&"^Make QFIX_LIBRARY_IMAGE a static final constant or non-public and provide accessors if needed.(óÆÀ©ıÿÿÿÿ8Ê›÷Áê.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ8Ê›÷Áê.
+{
+java:S3008"YRename this field "QFIX_BASE_URL1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù›÷øÿÿÿÿ8Ê›÷Áê.
+z
+java:S3008"XRename this field "QFIX_BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È­éìøÿÿÿÿ8Ê›÷Áê.
+v
+java:S3008"TRename this field "ADMIN_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™äƒÅşÿÿÿÿ8Ê›÷Áê.
+
+java:S1104"_Make SAMPLE_DOWNLOAD_URL a static final constant or non-public and provide accessors if needed.(ä—’ïÿÿÿÿÿ8Ê›÷Áê.
+y
+java:S3008!"\Rename this field "PRODUCT_MEDIA_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Œ½©8Ê›÷Áê.
+Z
+java:S1444&"8Make this "public static QFIX_LIBRARY_IMAGE" field final(óÆÀ©ıÿÿÿÿ8Ê›÷Áê.
+X	java:S125"<This block of commented-out lines of code should be removed.(üŞ†Š8Ê›÷Áê.
+o
+java:S3008"RRename this field "SKU_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡œİŸ8Ê›÷Áê.
+u
+java:S1104"SMake NEW_URL a static final constant or non-public and provide accessors if needed.(ö¦Ì¤ÿÿÿÿÿ8Ê›÷Áê.
+z
+java:S3008#"]Rename this field "CATEGORY_MEDIA_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ŠĞ‘8Ê›÷Áê.
+S
+java:S1444."1Make this "public static BADGE_COUNT" field final(„÷š”ûÿÿÿÿ8Ê›÷Áê.
+q
+java:S3008"TRename this field "DUMMY_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ÿ¿‘8ØéÒÒô/
+|
+java:S3008+"ZRename this field "BASE_DOMAIN_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êç¨úÿÿÿÿ8Ê›÷Áê.
+p
+java:S1104"SMake SKU_URL a static final constant or non-public and provide accessors if needed.(¡œİŸ8Ê›÷Áê.
+[
+java:S1444$"9Make this "public static CATEGORY_MEDIA_URL1" field final(Åú´øÿÿÿÿ8Ê›÷Áê.
+Z
+java:S1444""8Make this "public static PRODUCT_MEDIA_URL1" field final(‰Ä¦ıÿÿÿÿ8Ê›÷Áê.
+|
+java:S1104"ZMake QFIX_BASE_URL1 a static final constant or non-public and provide accessors if needed.(ù›÷øÿÿÿÿ8Ê›÷Áê.
+P
+java:S1444".Make this "public static BASE_URL" field final(‚ ©Çşÿÿÿÿ8Ê›÷Áê.
+{
+java:S1104"YMake QFIX_BASE_URL a static final constant or non-public and provide accessors if needed.(È­éìøÿÿÿÿ8Ê›÷Áê.
+W
+java:S1444+"5Make this "public static BASE_DOMAIN_URL" field final(Êç¨úÿÿÿÿ8Ê›÷Áê.
+
+java:S3008""]Rename this field "PRODUCT_MEDIA_URL1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ä¦ıÿÿÿÿ8Ê›÷Áê.
+€
+java:S3008$"^Rename this field "CATEGORY_MEDIA_URL1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åú´øÿÿÿÿ8Ê›÷Áê.
+O
+java:S1444"-Make this "public static NEW_URL" field final(ö¦Ì¤ÿÿÿÿÿ8Ê›÷Áê.
+v
+java:S1104"TMake BASE_URL a static final constant or non-public and provide accessors if needed.(‚ ©Çşÿÿÿÿ8Ê›÷Áê.
+
+java:S1104$"_Make CATEGORY_MEDIA_URL1 a static final constant or non-public and provide accessors if needed.(Åú´øÿÿÿÿ8Ê›÷Áê.
+
+java:S3008&"]Rename this field "QFIX_LIBRARY_IMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÆÀ©ıÿÿÿÿ8Ê›÷Áê.
+]	java:S125-"<This block of commented-out lines of code should be removed.(õá¿Ìøÿÿÿÿ8Ê›÷Áê.
+w
+java:S1104"UMake ADMIN_URL a static final constant or non-public and provide accessors if needed.(™äƒÅşÿÿÿÿ8Ê›÷Áê.
+[
+java:S1444"9Make this "public static SAMPLE_DOWNLOAD_URL" field final(ä—’ïÿÿÿÿÿ8Ê›÷Áê.
+K
+java:S1444".Make this "public static TEST_URL" field final(ê‰ø8Ê›÷Áê.
+V
+java:S1444"4Make this "public static QFIX_BASE_URL1" field final(ù›÷øÿÿÿÿ8Ê›÷Áê.
+{
+java:S1104#"^Make CATEGORY_MEDIA_URL a static final constant or non-public and provide accessors if needed.(¾ŠĞ‘8Ê›÷Áê.
+u
+java:S3008"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ ©Çşÿÿÿÿ8Ê›÷Áê.
+€
+java:S3008"^Rename this field "SAMPLE_DOWNLOAD_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—’ïÿÿÿÿÿ8Ê›÷Áê.
+y
+java:S1104,"\Make BASE_DOMAIN_URL1 a static final constant or non-public and provide accessors if needed.(§šÕ¡8Ê›÷Áê.
+p
+java:S3008"SRename this field "TEST_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‰ø8Ê›÷Áê.
+X	java:S125"<This block of commented-out lines of code should be removed.(§ÙÑ´8Ê›÷Áê.
+Q
+java:S1444"/Make this "public static ADMIN_URL" field final(™äƒÅşÿÿÿÿ8Ê›÷Áê.
+W	java:S125("<This block of commented-out lines of code should be removed.(—ƒ’_8Ê›÷Áê.
+q
+java:S1104"TMake TEST_URL a static final constant or non-public and provide accessors if needed.(ê‰ø8Ê›÷Áê.
+L
+java:S1444"/Make this "public static DUMMY_URL" field final(‘Ÿ¿‘8ØéÒÒô/
+}
+java:S1104+"[Make BASE_DOMAIN_URL a static final constant or non-public and provide accessors if needed.(Êç¨úÿÿÿÿ8Ê›÷Áê.
+S
+java:S1444,"6Make this "public static BASE_DOMAIN_URL1" field final(§šÕ¡8Ê›÷Áê.
+x
+java:S3008,"[Rename this field "BASE_DOMAIN_URL1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§šÕ¡8Ê›÷Áê.
+x
+java:S3008."VRename this field "BADGE_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„÷š”ûÿÿÿÿ8Ê›÷Áê.
+U
+java:S1444"3Make this "public static QFIX_BASE_URL" field final(È­éìøÿÿÿÿ8Ê›÷Áê.
+T
+java:S1444!"7Make this "public static PRODUCT_MEDIA_URL" field final(“Œ½©8Ê›÷Áê.
+J
+java:S1444"-Make this "public static SKU_URL" field final(¡œİŸ8Ê›÷Áê.
+]	java:S125"<This block of commented-out lines of code should be removed.(î†Œ›ûÿÿÿÿ8Ê›÷Áê.
+t
+java:S3008"RRename this field "NEW_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¦Ì¤ÿÿÿÿÿ8Ê›÷Áê.
+X	java:S125	"<This block of commented-out lines of code should be removed.(ÒÜñÀ8Ê›÷Áê.
+X	java:S125"<This block of commented-out lines of code should be removed.(Œ÷Ú8×ß€úô/

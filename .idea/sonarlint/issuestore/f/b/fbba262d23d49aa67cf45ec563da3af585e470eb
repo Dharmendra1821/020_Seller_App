@@ -1,0 +1,13 @@
+
+G
+java:S5411*"*Use the primitive boolean expression here.(íÚ¬»8“àåå.
+ˆ
+java:S1128"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.customer.activity.CustomerTabActivity'.(ÿùŞøÿÿÿÿ8“àåå.
+
+java:S1128"_Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.login.activity.WelcomeActivity'.(ïç·üÿÿÿÿ8“àåå.
+£
+java:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œƒƒ©ùÿÿÿÿ8“àåå.
+K
+java:S1659"/Declare "CustomerAddressId" on a separate line.(Û‚©,8“àåå.
+p	java:S116"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,8“àåå.
+w	java:S116"\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,8“àåå.

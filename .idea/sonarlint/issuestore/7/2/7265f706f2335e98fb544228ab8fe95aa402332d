@@ -1,0 +1,6 @@
+
+ysquid:S4165*"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà
+”squid:S1319'"~The type of the "productDetailModels" object should be an interface such as "List" rather than the implementation "ArrayList".(“Êİ
+~squid:S14881"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ
+squid:UselessImportCheck"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.DeliveryBoyList'.(íñ™f8­±õ÷ç-
+†squid:UselessImportCheck"[Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.database.DeliveryDBManager'.(š²É‰8Êëù÷ç-

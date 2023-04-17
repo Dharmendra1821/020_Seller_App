@@ -1,0 +1,36 @@
+
+šsquid:S13191"~The type of the "bundleQuantityValue" object should be an interface such as "List" rather than the implementation "ArrayList".(ëâ‰ùÿÿÿÿ
+3squid:S23862"Make this member "protected".(©ñ&
+Usquid:S14441"9Make this "public static bundleQuantityValue" field final(ëâ‰ùÿÿÿÿ
+osquid:S30083"SRename this field "Quantity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹åå‰ÿÿÿÿÿ
+dsquid:S1192…"GDefine a constant instead of duplicating this literal "bundle" 3 times.(ŸÂƒ‰ùÿÿÿÿ
+usquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+‡squid:S13195"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹í»Ê
+šsquid:S13199"~The type of the "bundleQuantityValue" object should be an interface such as "List" rather than the implementation "ArrayList".(™ï£çÿÿÿÿÿ
+usquid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹åå‰ÿÿÿÿÿ
+?squid:S1659."(Declare "qtyspinner" on a separate line.(õ‰İ
+Ksquid:S1659#"/Declare "editTextContainer" on a separate line.(˜²ü·şÿÿÿÿ
+osquid:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(º³Š8
+@squid:S1185¶"(Remove this method to simply inherit it.(µä´Ü
+osquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(©ñ&
+Gsquid:S1659/"+Declare "layoutParams1" on a separate line.(·ÔÅıÿÿÿÿ
+Jsquid:S14443".Make this "public static Quantity" field final(¹åå‰ÿÿÿÿÿ
+Gsquid:S1659#"+Declare "textContainer" on a separate line.(˜²ü·şÿÿÿÿ
+psquid:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Ë¯¢
+‡"squid:ClassVariableVisibilityCheck3"TMake Quantity a static final constant or non-public and provide accessors if needed.(¹åå‰ÿÿÿÿÿ
+Bsquid:S00108¡")Either remove or fill this block of code.(”ı¾
+hsquid:S30082"RRename this field "HashMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ñ&
+€"squid:ClassVariableVisibilityCheck2"SMake HashMap a static final constant or non-public and provide accessors if needed.(©ñ&
+squid:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+Œsquid:S13193"pThe type of the "Quantity" object should be an interface such as "Map" rather than the implementation "HashMap".(¹åå‰ÿÿÿÿÿ
+’"squid:ClassVariableVisibilityCheck1"_Make bundleQuantityValue a static final constant or non-public and provide accessors if needed.(ëâ‰ùÿÿÿÿ
+…squid:S13192"oThe type of the "HashMap" object should be an interface such as "Map" rather than the implementation "HashMap".(©ñ&
+squid:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+Csquid:S14442"-Make this "public static HashMap" field final(©ñ&
+9squid:S23861"Make this member "protected".(ëâ‰ùÿÿÿÿ
+_squid:HiddenFieldCheck‡"<Rename "position" which hides the field declared at line 41.(Ùãïà
+ƒsquid:S18453"gRename field "Quantity" to prevent any misunderstanding/clash with field "quantity" defined on line 48.(¹åå‰ÿÿÿÿÿ
+vsquid:S00116-"YRename this field "bundle_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦×ÍÖÿÿÿÿÿ
+9squid:S23863"Make this member "protected".(¹åå‰ÿÿÿÿÿ
+Gsquid:S1659/"+Declare "layoutParams2" on a separate line.(·ÔÅıÿÿÿÿ
+Dsquid:S1659""(Declare "movietitle" on a separate line.(²¦´±ÿÿÿÿÿ

@@ -1,0 +1,5 @@
+
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ö¼¸ùÿÿÿÿ8‹€™ï-
+vsquid:S00116	"^Rename this field "base64_encoded_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉµÔ
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş§àÒøÿÿÿÿ8‹€™ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş§àÒøÿÿÿÿ8‹€™ï-

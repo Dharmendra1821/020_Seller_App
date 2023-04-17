@@ -1,0 +1,13 @@
+
+vsquid:S00116"WRename this field "increment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ø¾³8ÿÂ¬ä-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÓÌõ‚ä-
+lsquid:S00100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œã¸8©Ùä-
+psquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡âÕ8©Ùä-
+usquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÚ†ÿÿÿÿÿ8©Ùä-
+msquid:S00100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­îıã8©Ùä-
+msquid:S00100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡âÕ8©Ùä-
+usquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾À¾×ÿÿÿÿÿ8µÆğ¨ä-
+rsquid:S00100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÚ†ÿÿÿÿÿ8©Ùä-
+fsquid:S00107 "BConstructor has 14 parameters, which is greater than 7 authorized.(¾À¾×ÿÿÿÿÿ8µÆğ¨ä-
+tsquid:S00116"URename this field "created_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù“ƒÍ8ÿÂ¬ä-
+usquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾À¾×ÿÿÿÿÿ8µÆğ¨ä-

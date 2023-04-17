@@ -1,0 +1,257 @@
+{
+  "project_info": {
+    "project_number": "758327307808",
+    "firebase_url": "https://burnished-stone-180612.firebaseio.com",
+    "project_id": "burnished-stone-180612",
+    "storage_bucket": "burnished-stone-180612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758327307808:android:d543b86cc656d0f7e1d645",
+        "android_client_info": {
+          "package_name": "com.aepta.eduqfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjEzmBEjysFKcPJkKsIBQDuhrKKoWzp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758327307808-v91lkt0suk16p0aut5jltefoc0ufmvi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qfixinfo.eduqfix",
+                "app_store_id": "1127379233"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758327307808:android:668f6a2794eab27a",
+        "android_client_info": {
+          "package_name": "com.coachcrew.eduqfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjEzmBEjysFKcPJkKsIBQDuhrKKoWzp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758327307808-v91lkt0suk16p0aut5jltefoc0ufmvi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qfixinfo.eduqfix",
+                "app_store_id": "1127379233"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758327307808:android:8a615656c0205c42",
+        "android_client_info": {
+          "package_name": "com.qfixinfo.eduqfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjEzmBEjysFKcPJkKsIBQDuhrKKoWzp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758327307808-v91lkt0suk16p0aut5jltefoc0ufmvi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qfixinfo.eduqfix",
+                "app_store_id": "1127379233"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758327307808:android:35f9751d057749d2",
+        "android_client_info": {
+          "package_name": "com.qfixinfo.eduqfix.qfixPOS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758327307808-dnjgs82md7jc6uub9dag3i5cqhn898lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qfixinfo.eduqfix.qfixPOS",
+            "certificate_hash": "e0934e0d5e40df844251904c23e70de51e0b2fa6"
+          }
+        },
+        {
+          "client_id": "758327307808-7lc7v6a7pbo5qr7sn11r65kn6k9j9148.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qfixinfo.eduqfix.qfixPOS",
+            "certificate_hash": "34f1b401877d322526cd7184b6298c9ead9edbfb"
+          }
+        },
+        {
+          "client_id": "758327307808-r8g7bqsh1ra7k426ioo6u17o3ksihvp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qfixinfo.eduqfix.qfixPOS",
+            "certificate_hash": "a7fd7b24cbfaebc2bf0650e05dd143c9ef182f17"
+          }
+        },
+        {
+          "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjEzmBEjysFKcPJkKsIBQDuhrKKoWzp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758327307808-v91lkt0suk16p0aut5jltefoc0ufmvi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qfixinfo.eduqfix",
+                "app_store_id": "1127379233"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758327307808:android:a817057472950a3c",
+        "android_client_info": {
+          "package_name": "com.wingsapp.eduqfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjEzmBEjysFKcPJkKsIBQDuhrKKoWzp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758327307808-v91lkt0suk16p0aut5jltefoc0ufmvi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qfixinfo.eduqfix",
+                "app_store_id": "1127379233"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758327307808:android:18e5b77b7d604b85e1d645",
+        "android_client_info": {
+          "package_name": "standalone.eduqfix.qfixinfo.com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjEzmBEjysFKcPJkKsIBQDuhrKKoWzp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758327307808-3jko5k3f48661jvvjln6a7o8lru934n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758327307808-v91lkt0suk16p0aut5jltefoc0ufmvi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qfixinfo.eduqfix",
+                "app_store_id": "1127379233"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

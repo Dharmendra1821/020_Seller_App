@@ -1,0 +1,11 @@
+
+ssquid:S00116$"\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,
+Esquid:S1659$"/Declare "CustomerAddressId" on a separate line.(Û‚©,
+nsquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÇ°±ùÿÿÿÿ
+Ksquid:S1604K"(Make this anonymous inner class a lambda(ô…£ƒüÿÿÿÿ8€à¯ýÿ-
+bsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(Ëä¬À
+Asquid:S00108S")Either remove or fill this block of code.(Äé†ˆ
+gsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(Ì¸˜–ùÿÿÿÿ
+nsquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èâ·èþÿÿÿÿ
+lsquid:S00116$"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,
+Ssquid:S2696·"6Make the enclosing method "static" or remove this set.(”šë¡þÿÿÿÿ

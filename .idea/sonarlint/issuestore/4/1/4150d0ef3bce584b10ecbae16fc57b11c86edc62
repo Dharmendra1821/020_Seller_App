@@ -1,0 +1,36 @@
+
+F
+java:S1144 "0Remove this unused private "checkParams" method.(©¸ìG
+R	java:S125"<This block of commented-out lines of code should be removed.(ßê‰À
+k	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş Ñ¾ıÿÿÿÿ
+f	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß±Á€
+k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²šˆ©úÿÿÿÿ
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¥û«üÿÿÿÿ
+?
+java:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+k	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óè¼ğûÿÿÿÿ
+D
+java:S1905£"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+k	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ê ıÿÿÿÿÿ
+M
+java:S1128	"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ
+I
+java:S1481O",Remove this unused "shopUrl" local variable.(¦ØÚî8†ùË©ş/
+C
+java:S1604["(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§…¯è
+s
+java:S1128)"VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.SKU_URL'.(¯±¢™8†ùË©ş/
+|
+java:S1128#"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.OutofStockAdapter'.(èóê³
+X	java:S125P"<This block of commented-out lines of code should be removed.(Í‡§™8†ùË©ş/
+>
+java:S1604"(Make this anonymous inner class a lambda(²» g
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+k	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šä’™ıÿÿÿÿ
+m
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¬î™ôüÿÿÿÿ
+w
+java:S1128%"aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.OutofStcokModel'.(®˜·Ø
+k	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ÿö úÿÿÿÿ

@@ -1,0 +1,53 @@
+
+Ksquid:S1659‡"'Declare "maxHeight" on a separate line.(ß”„ùøÿÿÿÿ8ªŞûÿ-
+lsquid:UselessImportCheck>"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8ªŞûÿ-
+Lsquid:S1905Ë"(Remove this unnecessary cast to "float".(ËÇŞªÿÿÿÿÿ8‹Ç¿¹â-
+osquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(ëç§Äûÿÿÿÿ8ªŞûÿ-
+Usquid:S1153›"1Directly append the argument of String.valueOf().(‰Õæ½ùÿÿÿÿ8ªŞûÿ-
+jsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ÂĞøı8ªŞûÿ-
+dsquid:UnusedPrivateMethod¹"7Remove this unused private "calculateFocusArea" method.(ƒ‰Ÿ…8ªŞûÿ-
+zsquid:S00116k"\Rename this field "save_camera_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—şµ\8ªŞûÿ-
+…squid:S00116›"`Rename this field "myPictureCallback_JPG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¯Àîüÿÿÿÿ8ªŞûÿ-
+¥squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é±¼§ùÿÿÿÿ8ªŞûÿ-
+Vsquid:S1135¤"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ªŞûÿ-
+¥squid:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ•÷Şıÿÿÿÿ8ªŞûÿ-
+~squid:S00116n"ZRename this field "advanced_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ñôùÿÿÿÿ8ªŞûÿ-
+rsquid:UselessImportCheck+"BRemove this unused import 'com.android.volley.DefaultRetryPolicy'.(š à«ùÿÿÿÿ8‘“çÂÍ-
+Usquid:S1153œ"1Directly append the argument of String.valueOf().(‘¥şıÿÿÿÿ8‹Ç¿¹â-
+Isquid:S00108€")Either remove or fill this block of code.(”ı¾8ªŞûÿ-
+…squid:S1488Í"aImmediately return this expression instead of assigning it to the temporary variable "newBitmap".(€¹Î´ùÿÿÿÿ8ªŞûÿ-
+csquid:UselessImportCheck6"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ8ªŞûÿ-
+Usquid:S1153›"1Directly append the argument of String.valueOf().(‰Õæ½ùÿÿÿÿ8ªŞûÿ-
+fsquid:S00112Ô"FDefine and throw a dedicated exception instead of using a generic one.(İŒÜ±8ªŞûÿ-
+€squid:S00116h"\Rename this field "surface_imageview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸…ûêùÿÿÿÿ8ªŞûÿ-
+Gsquid:S1905È"(Remove this unnecessary cast to "float".(ø™˜è8ªŞûÿ-
+@squid:S1905Ê"(Remove this unnecessary cast to "float".(šóÂ¨
+`squid:S1068¬"ARemove this unused "mAutoFocusTakePictureCallback" private field.(±©»ô8ªŞûÿ-
+Ssquid:S1066Ğ"/Merge this if statement with the enclosing one.(§ÚÏÿÿÿÿÿ8ªŞûÿ-
+Isquid:S00108‡")Either remove or fill this block of code.(™ÜÎ8ªŞûÿ-
+osquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(Ñ§€‘ûÿÿÿÿ8ªŞûÿ-
+Zsquid:UselessImportCheckC"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ªŞûÿ-
+xsquid:UselessImportCheck2"HRemove this unused import 'com.android.volley.toolbox.HttpHeaderParser'.(øÛ“«şÿÿÿÿ8‘“çÂÍ-
+"squid:ClassVariableVisibilityCheck}"XMake PESDK_RESULT a static final constant or non-public and provide accessors if needed.(±ôà…8ªŞûÿ-
+`squid:UselessImportCheck7"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8‘“çÂÍ-
+Ksquid:S1444~"4Make this "public static GALLERY_RESULT" field final(ƒçŸ»
+osquid:S1192ğ"PDefine a constant instead of duplicating this literal "ExternalStorage" 4 times.(ùÁïê8ªŞûÿ-
+fsquid:UselessImportCheck0";Remove this unused import 'com.android.volley.VolleyError'.(­°Ñ”8‘“çÂÍ-
+Usquid:S1153œ"1Directly append the argument of String.valueOf().(‘¥şıÿÿÿÿ8‹Ç¿¹â-
+Esquid:S1905É"(Remove this unnecessary cast to "float".(Å«Ğ¿øÿÿÿÿ
+ksquid:UselessImportCheck/";Remove this unused import 'com.android.volley.ServerError'.(É° Îúÿÿÿÿ8ªŞûÿ-
+osquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(ßİàôÿÿÿÿÿ8ªŞûÿ-
+ˆ"squid:ClassVariableVisibilityCheck~"ZMake GALLERY_RESULT a static final constant or non-public and provide accessors if needed.(ƒçŸ»
+isquid:UselessImportCheck1"9Remove this unused import 'com.android.volley.VolleyLog'.(–¥ı»ùÿÿÿÿ8‘“çÂÍ-
+^squid:UselessImportCheckA".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ªŞûÿ-
+usquid:S3008}"WRename this field "PESDK_RESULT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ôà…8ªŞûÿ-
+Isquid:S00108ã")Either remove or fill this block of code.(”ı¾8ªŞûÿ-
+€squid:S00116“"`Rename this field "myPictureCallback_RAW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦“®÷8ªŞûÿ-
+ksquid:UselessImportCheck*"@Remove this unused import 'com.android.volley.AuthFailureError'.(¤ˆñ¢8ªŞûÿ-
+osquid:UselessImportCheck,"?Remove this unused import 'com.android.volley.NetworkResponse'.(÷ÌÂñøÿÿÿÿ8‘“çÂÍ-
+psquid:S3008~"YRename this field "GALLERY_RESULT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒçŸ»
+psquid:UselessImportCheck3"ERemove this unused import 'com.android.volley.toolbox.StringRequest'.(”¯ÆŞ8‘“çÂÍ-
+Psquid:S1444}"2Make this "public static PESDK_RESULT" field final(±ôà…8ªŞûÿ-
+„squid:UselessImportCheckU"ZRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.MaintainRequestQueue'.(··†8ªŞûÿ-
+jsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(˜½¨8ªŞûÿ-
+Gsquid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ªŞûÿ-

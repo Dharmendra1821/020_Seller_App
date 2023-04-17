@@ -1,0 +1,13 @@
+
+Bsquid:S1659"+Declare "stateEditText" on a separate line.(ôûÿö
+lsquid:S3008"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÅãÖ
+Dsquid:S1659"-Declare "PincodeEditText" on a separate line.(ôûÿö
+Rsquid:S2696+"6Make the enclosing method "static" or remove this set.(‰àËëùÿÿÿÿ
+fsquid:S00100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÒ»ü
+Fsquid:S1659"/Declare "CustomerAddressId" on a separate line.(üÅãÖ
+:squid:S1148l"#Use a logger to log this exception.(Ç’Çê
+ssquid:S3008"\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÅãÖ
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(öş”‘ıÿÿÿÿ
+Esquid:S1659".Declare "address2EditText" on a separate line.(ôûÿö
+Msquid:S2696*"6Make the enclosing method "static" or remove this set.(œ‚õ
+rsquid:S00116"ZRename this field "PincodeEditText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôûÿö

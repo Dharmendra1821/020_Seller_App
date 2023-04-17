@@ -1,0 +1,7 @@
+
+squid:S13194"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Òο…‚8ιλÒδ-
+rsquid:S00100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹φ ±όÿÿÿÿ8ιλÒδ-
+squid:S00116"]Rename this field "shippingstate_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Έ‘ΨΉϋÿÿÿÿ8ωΡδ-
+—squid:S13198"yThe type of the "shippingstreet" object should be an interface such as "List" rather than the implementation "ArrayList".(β²« 8ιλÒδ-
+psquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ε—αζ8ιλÒδ-
+msquid:S001000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ε—αζ8ιλÒδ-

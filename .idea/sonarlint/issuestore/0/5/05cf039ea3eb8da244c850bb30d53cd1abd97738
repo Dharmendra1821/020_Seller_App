@@ -1,0 +1,208 @@
+
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçî
+@
+java:S1481")Remove this unused "info" local variable.(¨ºš’
+>
+java:S1604¢"(Make this anonymous inner class a lambda(²» g
+E
+java:S1144×".Remove this unused private "createPdf" method.(‹şğ·
+Ÿ
+java:S1192¼"‚Define a constant instead of duplicating this literal "Unsupported Encoding while trying to get the bytes of %s using %s" 3 times.(Ùğôøûÿÿÿÿ
+D
+java:S1604‰"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ
+n
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÁËúõúÿÿÿÿ
+H
+java:S1481Ç"*Remove this unused "Image" local variable.(İçî8ñàÏæì.
+H
+java:S1481Ù",Remove this unused "display" local variable.(ÿïÎÿúÿÿÿÿ
+o	java:S116n"URename this field "share_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ§­ßÿÿÿÿÿ
+m	java:S116a"XRename this field "store_contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¼Ğ
+R	java:S125¯"<This block of commented-out lines of code should be removed.(Î½Ñ«
+F
+java:S1144Á"0Remove this unused private "checkParams" method.(©¸ìG
+D
+java:S1604å"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ
+C
+java:S1659X"(Declare "imageView3" on a separate line.(Šµèîşÿÿÿÿ
+w
+java:S1128B"ZRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.login.model.LoginResponse'.(–ĞÒ‹8õ¦Çà0
+g	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‡Ã×
+?
+java:S1659Z"$Declare "price2" on a separate line.(¦·ÃÉùÿÿÿÿ
+?
+java:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1659Z"$Declare "price6" on a separate line.(¦·ÃÉùÿÿÿÿ
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò†éŠ
+S
+java:S1117Õ"<Rename "shopUrl" which hides the field declared at line 116.(¦ØÚî
+?
+java:S1659Y"$Declare "pname6" on a separate line.(ÀÈåŒûÿÿÿÿ
+>
+java:S1659n"#Declare "fbBtn" on a separate line.(Ğ§­ßÿÿÿÿÿ
+@
+java:S1172Ş")Remove this unused method parameter "id".(ı§„Ô
+q
+java:S1192"ZDefine a constant instead of duplicating this literal "add_photo_dialog_fragment" 6 times.(áëÖÉ
+C
+java:S1481õ",Remove this unused "shopUrl" local variable.(¦ØÚî
+R	java:S125¯"<This block of commented-out lines of code should be removed.(Û“…€
+=	java:S131‰""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+?
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+l	java:S116_"XRename this field "flyer_divider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æßí`
+…
+java:S1128C"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.fragments.BottomSheeetFragment'.(®‹š‰üÿÿÿÿ
+E
+java:S1659^"*Declare "flyerLyaout1" on a separate line.(³ÇÛøÿÿÿÿ
+g	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçî
+`
+java:S1192ˆ"IDefine a constant instead of duplicating this literal "shop_url" 5 times.(µ–¥½
+^	java:S125‡"<This block of commented-out lines of code should be removed.(Ç€“½ûÿÿÿÿ8éäÒû/
+c
+java:S1192Ğ"GDefine a constant instead of duplicating this literal "Url..." 6 times.(òì£Ğùÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(”ı¾
+j	java:S116`"URename this field "store_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ³¯Œ
+b
+java:S1192º"FDefine a constant instead of duplicating this literal "utf-8" 6 times.(§ßŞÕúÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(è„ÓÉÿÿÿÿÿ
+H
+java:S1481¹"*Remove this unused "Image" local variable.(İçî8¦‚Ïæì.
+?
+java:S1659Y"$Declare "pname4" on a separate line.(ÀÈåŒûÿÿÿÿ
+?
+java:S1148ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1604Ç"(Make this anonymous inner class a lambda(²» g
+C
+java:S1659X"(Declare "imageView2" on a separate line.(Šµèîşÿÿÿÿ
+?
+java:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+C
+java:S1659n"(Declare "share_next" on a separate line.(Ğ§­ßÿÿÿÿÿ
+8
+java:S1659p""Declare "page" on a separate line.(°¼¦Ô
+=
+java:S1168½"&Return an empty array instead of null.(¥¹ï
+S
+java:S1117ò"<Rename "shopUrl" which hides the field declared at line 116.(¦ØÚî
+C
+java:S1659X"(Declare "imageView5" on a separate line.(Šµèîşÿÿÿÿ
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(Í¡¡†
+D
+java:S1604ˆ"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ
+Œ
+java:S1319Î"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¸Ä’²şÿÿÿÿ
+j	java:S116`"URename this field "store_logo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ³¯Œ
+P
+java:S1117æ"9Rename "page" which hides the field declared at line 112.(¯Ôªì
+
+java:S1128A"xRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.ExpListViewAdapterWithCheckbox'.(öƒ¾
+H
+java:S1481“"*Remove this unused "Image" local variable.(Ò†éŠ8»Œ¿æì.
+D
+java:S1905Ä"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+H
+java:S1481Î"*Remove this unused "Image" local variable.(İçî8ñàÏæì.
+J
+java:S1481Õ",Remove this unused "shopUrl" local variable.(¦ØÚî8õ¦Çà0
+R	java:S125¸"<This block of commented-out lines of code should be removed.(ª¾Ø—
+s
+java:S1128N"VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.SKU_URL'.(¯±¢™8å½±æì.
+C
+java:S1659X"(Declare "imageView6" on a separate line.(Šµèîşÿÿÿÿ
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçî
+?
+java:S1659Z"$Declare "price5" on a separate line.(¦·ÃÉùÿÿÿÿ
+E
+java:S1659^"*Declare "flyerLayout2" on a separate line.(³ÇÛøÿÿÿÿ
+?
+java:S1659_"*Declare "flyer_footer" on a separate line.(æßí`
+?
+java:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+j
+java:S1192è"NDefine a constant instead of duplicating this literal "Response....." 3 times.(ö¬·üùÿÿÿÿ
+N
+java:S11281"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ
+F
+java:S1144½"0Remove this unused private "checkParams" method.(©¸ìG
+F
+java:S1659m"+Declare "weightSumView" on a separate line.(Ÿ¦ıÒüÿÿÿÿ
+S
+java:S1117õ"<Rename "shopUrl" which hides the field declared at line 116.(¦ØÚî
+F
+java:S1659^"+Declare "summaryLayout" on a separate line.(³ÇÛøÿÿÿÿ
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçî
+“
+java:S1128@"xRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.DetectSwipeDirectionActivity'.(¦–îàıÿÿÿÿ
+F
+java:S1659ß"*Declare "convertWidth" on a separate line.(æ±õ·úÿÿÿÿ
+g	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçî
+?
+java:S1659n"$Declare "pdfBtn" on a separate line.(Ğ§­ßÿÿÿÿÿ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(Í¡¡†
+?
+java:S1659Y"$Declare "pname5" on a separate line.(ÀÈåŒûÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(Úºî‚üÿÿÿÿ
+?
+java:S1659Y"$Declare "pname2" on a separate line.(ÀÈåŒûÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(Ş–‡ıÿÿÿÿ
+>
+java:S1604¦"(Make this anonymous inner class a lambda(²» g
+=
+java:S1168Ş"&Return an empty array instead of null.(¥¹ï
+k	java:S116_"WRename this field "flyer_footer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æßí`
+J
+java:S1481Ë",Remove this unused "shopUrl" local variable.(¦ØÚî8éäÒû/
+H
+java:S1481À"*Remove this unused "Image" local variable.(İçî8¦‚Ïæì.
+C
+java:S1659X"(Declare "imageView4" on a separate line.(Šµèîşÿÿÿÿ
+@
+java:S1172ç")Remove this unused method parameter "id".(ı§„Ô
+?	java:S108Ÿ")Either remove or fill this block of code.(”ı¾
+>
+java:S1659V"(Declare "summaryTxt" on a separate line.(ÂË±É
+>
+java:S1659`"(Declare "store_code" on a separate line.(œ³¯Œ
+?	java:S108Û")Either remove or fill this block of code.(”ı¾
+k
+java:S1192Ó"ODefine a constant instead of duplicating this literal "Please wait..." 3 times.(÷Šşİøÿÿÿÿ
+?
+java:S1659Z"$Declare "price4" on a separate line.(¦·ÃÉùÿÿÿÿ
+A
+java:S1659a"+Declare "store_contact" on a separate line.(»¼Ğ
+i	java:S116a"TRename this field "store_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¼Ğ
+?
+java:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Y	java:S125…"<This block of commented-out lines of code should be removed.(Ô÷ß8éäÒû/
+?
+java:S1659Z"$Declare "price3" on a separate line.(¦·ÃÉùÿÿÿÿ
+D
+java:S1905å"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+=
+java:S1168¹"&Return an empty array instead of null.(¥¹ï
+H
+java:S1481«"*Remove this unused "Image" local variable.(İçî8ñàÏæì.
+D
+java:S1905À"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+H
+java:S1481²"*Remove this unused "Image" local variable.(İçî8ñàÏæì.
+|
+java:S1192³"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 3 times.(Š¥Ç¾ıÿÿÿÿ
+F
+java:S1144â"0Remove this unused private "checkParams" method.(©¸ìG
+D
+java:S1659l")Declare "finalFlyer1" on a separate line.(¯òşÿÿÿÿ
+?
+java:S1659Y"$Declare "pname3" on a separate line.(ÀÈåŒûÿÿÿÿ
+S
+java:S1117Ë"<Rename "shopUrl" which hides the field declared at line 116.(¦ØÚî
+g	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçî
+R	java:S125û"<This block of commented-out lines of code should be removed.(‘Ÿîâ
+W	java:S125²"<This block of commented-out lines of code should be removed.(ßş¶×øÿÿÿÿ
+I
+java:S1128;".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+P
+java:S1117ı"9Rename "path" which hides the field declared at line 112.(š¯¥Ø

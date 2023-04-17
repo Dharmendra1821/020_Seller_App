@@ -1,0 +1,7 @@
+
+zsquid:S00116."\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,8ªö©üÿ-
+Bsquid:S1148¬"#Use a logger to log this exception.(Ç’Çê8ªö©üÿ-
+nsquid:S00100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ê×”8ªö©üÿ-
+Lsquid:S1659."/Declare "CustomerAddressId" on a separate line.(Û‚©,8ªö©üÿ-
+‰squid:S00116)"jRename this field "CustomerNewAddressStatusMessage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íæÊ¤8ªö©üÿ-
+ssquid:S00116."URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,8ªö©üÿ-

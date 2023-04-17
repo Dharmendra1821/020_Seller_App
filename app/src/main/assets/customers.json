@@ -1,0 +1,46 @@
+[{
+  "id": 1,
+  "firstname": "A1",
+  "lastname": "AA1",
+  "addresses": [{
+    "id": 1,
+    "customerId": 1,
+    "State": "No Where",
+    "postcode": "11111"
+  },
+    {
+      "CustomerAddressId": 2,
+      "CustomerId": 1,
+      "Address1": "Find me1",
+      "Address2": "Near you1",
+      "State": "No Where1",
+      "ZipCode": "22222",
+      "PhoneNo": "2222222222"
+    }],
+  "email": "a1@gmail.com",
+  "phoneNo": "11111111111"
+},
+  {
+    "CustomerId": 2,
+    "FirstName": "B1",
+    "LastName": "BB1",
+    "addresses": [{},{}],
+    "email": "b1@gmail.com",
+    "phoneNo": "2222222222"
+  },
+  {
+    "CustomerId": 3,
+    "FirstName": "C1",
+    "LastName": "CC1",
+    "addresses": [{},{}],
+    "email": "c1@gmail.com",
+    "phoneNo": "3333333333"
+  },
+  {
+    "CustomerId": 4,
+    "FirstName": "D1",
+    "LastName": "DD1",
+    "addresses": [{},{}],
+    "email": "d1@gmail.com",
+    "phoneNo": "4444444444"
+  }]

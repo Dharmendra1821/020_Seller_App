@@ -1,0 +1,22 @@
+
+G
+java:S5411Y"*Use the primitive boolean expression here.(éˆ–Ü8 ”Ö„å.
+k
+java:S1871‡"MThis branch's code block is the same as the block for the branch on line 131.(âÿ¢8 ”Ö„å.
+H
+java:S16594"&Declare "lastName" on a separate line.(À’Í°ûÿÿÿÿ8 ”Ö„å.
+a
+java:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(Ë¾ğıÿÿÿÿ8 ”Ö„å.
+p
+java:S1871‹"MThis branch's code block is the same as the block for the branch on line 131.(„ü€Êøÿÿÿÿ8 ”Ö„å.
+L
+java:S16593"/Declare "invoiceNoEditText" on a separate line.(âù›¥8 ”Ö„å.
+X	java:S125Í"<This block of commented-out lines of code should be removed.(ÀÒİY8 ”Ö„å.
+…
+java:S4165"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ÚÄ¦òøÿÿÿÿ8 ”Ö„å.
+h
+java:S1192I"KDefine a constant instead of duplicating this literal "StandAlone" 3 times.(Î´ı·8 ”Ö„å.
+I
+java:S16594"'Declare "invoiceNo" on a separate line.(À’Í°ûÿÿÿÿ8 ”Ö„å.
+K
+java:S16593".Declare "lastNameEditText" on a separate line.(âù›¥8 ”Ö„å.

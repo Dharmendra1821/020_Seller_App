@@ -1,0 +1,31 @@
+
+
+java:S1128"kRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.CustomerCreditActivity'.( ñ„¦øÿÿÿÿ8³‰ÅµÁ/
+R
+java:S1128"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë8ŞÅÙ”Á/
+ƒ
+java:S1128""fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.community.model.ImageModel'.(Ë÷‡ª8ŞÅÙ”Á/
+D
+java:S1168¤"&Return an empty array instead of null.(¥¹ï8´®õúÃ/
+Y	java:S125"<This block of commented-out lines of code should be removed.(ßê‰À8ƒÃ×”Á/
+T
+java:S1128"7Remove this unused import 'com.google.gson.JsonObject'.(µÊ´½8Ü¢®µÁ/
+E
+java:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´®õúÃ/
+t
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(è„ñ§úÿÿÿÿ8ùÖ²µÁ/
+J
+java:S1604d"(Make this anonymous inner class a lambda(¥ŠöÀüÿÿÿÿ8´®õúÃ/
+E
+java:S1604‹"(Make this anonymous inner class a lambda(²» g8ƒÃ×”Á/
+W
+java:S1128":Remove this unused import 'androidx.core.text.HtmlCompat'.(‘ôÈ8ŞÅÙ”Á/
+K
+java:S1905«"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ƒÃ×”Á/
+M
+java:S1144¨"0Remove this unused private "checkParams" method.(©¸ìG8ƒÃ×”Á/
+Œ
+java:S1128 "oRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.UdharCustomerDetailAdapter'.(ï÷Ì8âìÄµÁ/
+F	java:S108†")Either remove or fill this block of code.(”ı¾8ƒÃ×”Á/
+i
+java:S1192Y"GDefine a constant instead of duplicating this literal "status" 3 times.(éê·¥ùÿÿÿÿ8´®õúÃ/

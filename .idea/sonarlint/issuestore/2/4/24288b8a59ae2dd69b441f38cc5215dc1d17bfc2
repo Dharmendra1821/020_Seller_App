@@ -1,0 +1,84 @@
+
+K
+java:S1444A".Make this "public static fragment" field final(¢ø÷õ8†ßÛİŒ0
+q
+java:S1104A"TMake fragment a static final constant or non-public and provide accessors if needed.(¢ø÷õ8†ßÛİŒ0
+‘
+java:S11282"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListActivity'.( ÏßÜ8†ßÛİŒ0
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8†ßÛİŒ0
+…
+java:S11286"cRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.ProductDetails'.(¡şé€øÿÿÿÿ8†ßÛİŒ0
+x
+java:S11287"\Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ProductSKU'.(š¹ú8†ßÛİŒ0
+F
+java:S1659B"*Declare "sub_category" on a separate line.(Ê®ºD8†ßÛİŒ0
+Q
+java:S1659B"5Declare "product_stock_avail_new" on a separate line.(Ê®ºD8†ßÛİŒ0
+I
+java:S1659B"-Declare "product_tax_new" on a separate line.(Ê®ºD8†ßÛİŒ0
+M
+java:S1659C"+Declare "p_description" on a separate line.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+E
+java:S1659C"#Declare "p_sku" on a separate line.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+G
+java:S1659C"%Declare "p_price" on a separate line.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+G
+java:S1659C"%Declare "p_stock" on a separate line.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+M
+java:S1659C"+Declare "p_availablity" on a separate line.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+H
+java:S1659C"&Declare "p_weight" on a separate line.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+M
+java:S1659I"+Declare "subcategories" on a separate line.(¤†›×ÿÿÿÿÿ8†ßÛİŒ0
+F
+java:S1659J")Declare "sub_spinner" on a separate line.(İò8†ßÛİŒ0
+r	java:S116B"WRename this field "sub_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê®ºD8†ßÛİŒ0
+}	java:S116B"bRename this field "product_stock_avail_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê®ºD8†ßÛİŒ0
+u	java:S116B"ZRename this field "product_tax_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê®ºD8†ßÛİŒ0
+r	java:S116C"QRename this field "p_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+y	java:S116C"XRename this field "p_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+q	java:S116C"PRename this field "p_sku" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+s	java:S116C"RRename this field "p_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+s	java:S116C"RRename this field "p_stock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+y	java:S116C"XRename this field "p_availablity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+t	java:S116C"SRename this field "p_weight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚÷øÿÿÿÿ8†ßÛİŒ0
+r	java:S116J"VRename this field "sub_spinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İò8†ßÛİŒ0
+z	java:S116P"YRename this field "sub_categoryid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×²Úšüÿÿÿÿ8†ßÛİŒ0
+x	java:S116Q"WRename this field "sub_imageurl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÏ¼ÿÿÿÿÿ8†ßÛİŒ0
+s	java:S116R"WRename this field "sub_parentid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼í©¾8†ßÛİŒ0
+t	java:S116S"SRename this field "sub_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÁÍùÿÿÿÿ8†ßÛİŒ0
+p	java:S116U"TRename this field "sku_exits" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔËáô8†ßÛİŒ0
+V
+java:S1172["9Remove this unused method parameter "savedInstanceState".(«ÃÀ÷8†ßÛİŒ0
+o
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(«ÃÀ÷8†ßÛİŒ0
+X
+java:S2696]"6Make the enclosing method "static" or remove this set.(İÀ™ªûÿÿÿÿ8†ßÛİŒ0
+v
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëĞêz8†ßÛİŒ0
+F	java:S108¤")Either remove or fill this block of code.(”ı¾8†ßÛİŒ0
+Ÿ
+java:S1186ª"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ8†ßÛİŒ0
+¤
+java:S1186´"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ8†ßÛİŒ0
+|
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(®÷ ²ÿÿÿÿÿ8†ßÛİŒ0
+Ÿ
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ8†ßÛİŒ0
+¤
+java:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ8†ßÛİŒ0
+w
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ºÌœ8†ßÛİŒ0
+K
+java:S1481}")Remove this unused "flag" local variable.(ë«œ–üÿÿÿÿ8†ßÛİŒ0
+G
+java:S1481À")Remove this unused "gson" local variable.(şëŒ8†ßÛİŒ0
+X	java:S125~"<This block of commented-out lines of code should be removed.(ËëÂŠ8†ßÛİŒ0
+Y	java:S125›"<This block of commented-out lines of code should be removed.(¾š“8†ßÛİŒ0
+Y	java:S125 "<This block of commented-out lines of code should be removed.(¾š“8†ßÛİŒ0
+^	java:S125ø"<This block of commented-out lines of code should be removed.(òÌéèøÿÿÿÿ8†ßÛİŒ0
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(­Îá¾8†ßÛİŒ0
+X	java:S125á"<This block of commented-out lines of code should be removed.(©¸ìG8†ßÛİŒ0
+^	java:S125ò"<This block of commented-out lines of code should be removed.(µÕÑŞùÿÿÿÿ8†ßÛİŒ0
+^	java:S125°"<This block of commented-out lines of code should be removed.(¿÷‚üÿÿÿÿ8†ßÛİŒ0

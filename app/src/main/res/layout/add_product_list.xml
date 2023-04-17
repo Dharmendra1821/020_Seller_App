@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginBottom="5dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        app:cardCornerRadius="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+
+                android:id="@+id/product_visible">
+
+            </CheckBox>
+
+            <ImageView
+                android:id="@+id/add_productImage"
+                android:layout_width="100dp"
+                android:padding="5dp"
+                android:layout_height="100dp"
+                android:src="@drawable/gift_icon"/>
+
+            <androidx.legacy.widget.Space
+                android:layout_width="10dp"
+                android:layout_height="0dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/add_product_productName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:ellipsize="end"
+                        android:maxEms="5"
+                        android:maxLines="1"
+                        android:singleLine="true"
+                        android:text="Mustard Oil"
+                        android:textStyle="bold"/>
+
+                    <androidx.legacy.widget.Space
+                        android:layout_width="30dp"
+                        android:layout_height="0dp" />
+
+                    <CheckBox
+                        android:id="@+id/selectProductCheckBox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone"
+                        android:buttonTint="@color/colorPrimary"
+                        />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/ic_next"/>
+
+                    <Button
+                        android:id="@+id/add_image_btn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_marginRight="5dp"
+                        android:textSize="12dp"
+                        android:background="@drawable/add_cart_background"
+                        android:textColor="@color/colorWhite"
+                        android:layout_marginTop="5dp"
+                        android:padding="-5dp"
+                        android:textAllCaps="false"
+                        android:text="Add Image"/>
+
+
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/add_product_skuname"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:maxEms="5"
+                        android:maxLines="1"
+                        android:singleLine="true"
+                        android:text="Mustard Oil 2kg"
+                        android:textColor="@color/button_text_color"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="25dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical">
+
+                        <ImageView
+                            android:id="@+id/rupeeImageView"
+                            android:layout_width="15dp"
+                            android:layout_height="20dp"
+                            android:alpha=".70"
+                            android:src="@drawable/ic_rupee_indian"/>
+
+                        <TextView
+                            android:layout_toRightOf="@+id/ruppeeImageView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="250"
+                            android:layout_marginLeft="15dp"
+                            android:id="@+id/add_product_rupees"
+                            android:textSize="16dp"/>
+
+
+                    </RelativeLayout>
+
+                    <androidx.legacy.widget.Space
+                        android:layout_width="50dp"
+                        android:layout_height="0dp" />
+
+                    <RelativeLayout
+                        android:id="@+id/addtocart_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone"
+                        >
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="end"
+                            android:layout_marginRight="10dp">
+
+                            <TextView android:id="@+id/decrementTextView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="-"
+                                android:paddingRight="5dp"
+                                android:gravity="center_vertical"
+                                android:textSize="32sp"
+                                android:textColor="@color/colorPrimary"
+                                />
+
+                            <EditText android:id="@+id/quantityEditText"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="0"
+                                android:enabled="false"
+                                android:layout_gravity="center_vertical"
+                                android:background="@drawable/edit_text_border"
+                                android:layout_toRightOf="@+id/decrementTextView"/>
+
+
+                            <TextView android:id="@+id/incrementTextView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="+"
+                                android:paddingLeft="5dp"
+                                android:layout_gravity="center_vertical"
+                                android:textSize="20sp"
+                                android:textColor="@color/colorPrimary"
+                                android:layout_toRightOf="@+id/quantityEditText"
+                                />
+                        </LinearLayout>
+
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/visible_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:layout_gravity="right"
+                        android:gravity="right"
+                        android:layout_weight="1"
+                        android:singleLine="true"
+                        android:layout_marginRight="30dp"
+                        android:textSize="14dp">
+
+                    </TextView>
+
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

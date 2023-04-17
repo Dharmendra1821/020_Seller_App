@@ -1,0 +1,177 @@
+
+Z
+java:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(®±ÜØıÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'android.util.DisplayMetrics'.(Æ…Ú×ùÿÿÿÿ
+?
+java:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]
+java:S1192ê"FDefine a constant instead of duplicating this literal "https" 3 times.(‰šÀö
+U
+java:S1874Ö"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ
+>
+java:S1604³"(Make this anonymous inner class a lambda(ç’ƒL
+\
+java:S1117s"ARename "loginResponse" which hides the field declared at line 92.(…©Ïùÿÿÿÿ
+b
+java:S1192ø"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(§ßŞÕúÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(üèÛ¬
+D
+java:S1905Œ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+?
+java:S1148º"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>	java:S108~")Either remove or fill this block of code.(”ı¾
+?	java:S108é")Either remove or fill this block of code.(”ı¾
+F
+java:S1444U"0Make this "public static array_sort" field final(„ÜŠÿ
+o	java:S116T"URename this field "sms_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÆÀİşÿÿÿÿ
+F
+java:S1481ˆ"/Remove this unused "adminToken" local variable.(¶‹ÈÊ
+D
+java:S1604Ò"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ
+R	java:S125å"<This block of commented-out lines of code should be removed.(ßê‰À
+S
+java:S1874»"<Remove this use of "getConnectionManager"; it is deprecated.(‰šÀö
+W	java:S125À"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ
+E
+java:S1874 ".Remove this use of "Scheme"; it is deprecated.(‰šÀö
+W	java:S125"<This block of commented-out lines of code should be removed.(á†¶Óûÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ
+>
+java:S1185½"(Remove this method to simply inherit it.(­–ÀS
+>
+java:S1604©"(Make this anonymous inner class a lambda(ç’ƒL
+>
+java:S1604Ç"(Make this anonymous inner class a lambda(ç’ƒL
+E
+java:S1874»".Remove this use of "Scheme"; it is deprecated.(‰šÀö
+k
+java:S2095…"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ
+F
+java:S1144†"0Remove this unused private "checkParams" method.(©¸ìG
+c
+java:S1192ñ"GDefine a constant instead of duplicating this literal "result" 3 times.(ğ‰ æúÿÿÿÿ
+>
+java:S1604ã"(Make this anonymous inner class a lambda(ç’ƒL
+c
+java:S1192Ê"GDefine a constant instead of duplicating this literal "Url..." 4 times.(òì£Ğùÿÿÿÿ
+l
+java:S1104U"VMake array_sort a static final constant or non-public and provide accessors if needed.(„ÜŠÿ
+>
+java:S1604â"(Make this anonymous inner class a lambda(²» g
+F
+java:S1144‰"0Remove this unused private "checkParams" method.(©¸ìG
+˜
+java:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+?	java:S108¶")Either remove or fill this block of code.(”ı¾
+S
+java:S1874 "<Remove this use of "getConnectionManager"; it is deprecated.(‰šÀö
+‹
+java:S1319U"uThe type of the "array_sort" object should be an interface such as "List" rather than the implementation "ArrayList".(„ÜŠÿ
+?
+java:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+k
+java:S2095Ö"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ
+‡
+java:S1128?"lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.fragments.SMSContactListFragment'.(Â ğ˜ûÿÿÿÿ
+O
+java:S1874 "8Remove this use of "SSLSocketFactory"; it is deprecated.(‰šÀö
+U
+java:S1874¥"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ
+k
+java:S2095¥"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ
+`
+java:S1192Ü"IDefine a constant instead of duplicating this literal "https://" 4 times.(úéÃü
+U
+java:S1874…"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ
+>
+java:S1185ğ"(Remove this method to simply inherit it.(­–ÀS
+W	java:S125"<This block of commented-out lines of code should be removed.(£ìÍåüÿÿÿÿ
+k
+java:S3008U"URename this field "array_sort" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÜŠÿ
+?
+java:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+a
+java:S1192±"JDefine a constant instead of duplicating this literal "seller_id" 4 times.(Å‚´¤
+C
+java:S1481Æ",Remove this unused "shopUrl" local variable.(¦ØÚî
+<
+java:S2386„"%Make member "array_sort" "protected".(£³¸²
+`
+java:S1192Ú"IDefine a constant instead of duplicating this literal "shop_url" 5 times.(¦ØÚî
+d
+java:S1192ù"HDefine a constant instead of duplicating this literal "list_id" 4 times.(·ºè¢üÿÿÿÿ
+Z
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.(®±ÜØıÿÿÿÿ
+>
+java:S1604å"(Make this anonymous inner class a lambda(²» g
+k
+java:S1192²"ODefine a constant instead of duplicating this literal "Saving data..." 3 times.(¦‹Óˆüÿÿÿÿ
+>
+java:S1604Ñ"(Make this anonymous inner class a lambda(ç’ƒL
+a
+java:S1192e"KDefine a constant instead of duplicating this literal "StandAlone" 4 times.(´ æ
+S
+java:S1874ê"<Remove this use of "getConnectionManager"; it is deprecated.(‰šÀö
+D
+java:S1604°"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ
+D
+java:S1905‰"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ŠÏÃÄ
+>
+java:S1185Ò"(Remove this method to simply inherit it.(­–ÀS
+R	java:S125Ù"<This block of commented-out lines of code should be removed.(üèÛ¬
+=
+java:S1168û"&Return an empty array instead of null.(¥¹ï
+l
+java:S1128E"VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.SKU_URL'.(¯±¢™
+R	java:S125è"<This block of commented-out lines of code should be removed.(ßê‰À
+u
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(ç’ƒL
+E
+java:S1874ê".Remove this use of "Scheme"; it is deprecated.(‰šÀö
+>
+java:S1604°"(Make this anonymous inner class a lambda(ç’ƒL
+?	java:S108Û")Either remove or fill this block of code.(”ı¾
+=
+java:S1659Z""Declare "path" on a separate line.(¾Ã¤ãıÿÿÿÿ
+O
+java:S1874»"8Remove this use of "SSLSocketFactory"; it is deprecated.(‰šÀö
+d
+java:S1192Ş"HDefine a constant instead of duplicating this literal "Bearer " 4 times.(º…îÒûÿÿÿÿ
+>
+java:S1604Å"(Make this anonymous inner class a lambda(ç’ƒL
+j
+java:S1192Ş"NDefine a constant instead of duplicating this literal "Authorization" 4 times.(º…îÒûÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ
+O
+java:S1874ê"8Remove this use of "SSLSocketFactory"; it is deprecated.(‰šÀö
+g
+java:S1858Ø"K"response" is already a string, there's no need to call "toString()" on it.(Ÿı½©ûÿÿÿÿ
+g
+java:S1192Ø"KDefine a constant instead of duplicating this literal "adminToken" 3 times.(¶òÏáúÿÿÿÿ
+>
+java:S1604•"(Make this anonymous inner class a lambda(ç’ƒL
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+?	java:S108Ë")Either remove or fill this block of code.(”ı¾
+=
+java:S1168ş"&Return an empty array instead of null.(¥¹ï
+g
+java:S1192å"PDefine a constant instead of duplicating this literal "---------------" 3 times.(õÒ
+n
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÄŒ¯…úÿÿÿÿ
+?	java:S108Ş")Either remove or fill this block of code.(”ı¾
+K
+java:S1066’"/Merge this if statement with the enclosing one.(œê•Ãùÿÿÿÿ
+e
+java:S1192à"IDefine a constant instead of duplicating this literal "url....." 3 times.(öÃ±÷şÿÿÿÿ
+?
+java:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+M
+java:S2696„"6Make the enclosing method "static" or remove this set.(£³¸²
+s
+java:S1128!"XRemove this unused import 'com.google.android.material.bottomsheet.BottomSheetBehavior'.(Æ€¬Ğşÿÿÿÿ

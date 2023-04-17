@@ -1,0 +1,68 @@
+
+M
+java:S1144È"0Remove this unused private "checkParams" method.(©¸ìG8¶§Î‘“/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÅÆùÿÿÿÿ8¶§Î‘“/
+h
+java:S1192v"KDefine a constant instead of duplicating this literal "CustomerId" 9 times.(úø†î8¶§Î‘“/
+s	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÚœ­üÿÿÿÿ8¶§Î‘“/
+s
+java:S1128;"VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.SKU_URL'.(¯±¢™8ØÜ´‹ù/
+o
+java:S1192w"RDefine a constant instead of duplicating this literal "CustomerAddressId" 9 times.(Üÿé”8¶§Î‘“/
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(ßê‰À8¶§Î‘“/
+w	java:S116D"\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,8¶§Î‘“/
+O
+java:S1481Ğ"1Remove this unused "newArrayList" local variable.(Ò¿ñÜ8¶§Î‘“/
+E
+java:S1604µ"(Make this anonymous inner class a lambda(²» g8¶§Î‘“/
+F
+java:S1604„"(Make this anonymous inner class a lambda(«ÏÛ¦8¶§Î‘“/
+~
+java:S11281"aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ComplaintsModel'.(»ã”í8¶§Î‘“/
+Ÿ
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ8¶§Î‘“/
+^	java:S125ü"<This block of commented-out lines of code should be removed.(‘ËÌôşÿÿÿÿ8ØÜ´‹ù/
+u
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(çù¶üÿÿÿÿ8¶§Î‘“/
+|
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8¶§Î‘“/
+v	java:S116K"URename this field "CategoryId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÅÆùÿÿÿÿ8¶§Î‘“/
+Q
+java:S1659@"5Declare "subCategorycancelButton" on a separate line.(çÇ¯T8¶§Î‘“/
+\
+java:S1155Ö">Use isEmpty() to check whether the collection is empty or not.(ğ¡õ”8¶§Î‘“/
+J
+java:S1481û",Remove this unused "shopUrl" local variable.(¦ØÚî8ØÜ´‹ù/
+K
+java:S1604‡"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8¶§Î‘“/
+F
+java:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶§Î‘“/
+K
+java:S1659D"/Declare "CustomerAddressId" on a separate line.(Û‚©,8¶§Î‘“/
+
+java:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ8¶§Î‘“/
+K
+java:S1905Ë"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¶§Î‘“/
+X	java:S125Û"<This block of commented-out lines of code should be removed.(úòü8¶§Î‘“/
+^	java:S125¢"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ØÜ´‹ù/
+M
+java:S1481‘"*Remove this unused "catId" local variable.(÷Ì…‘ùÿÿÿÿ8ØÜ´‹ù/
+ˆ
+java:S1128/"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.ComplaintsAdapter'.(ÓÑªûÿÿÿÿ8¶§Î‘“/
+J
+java:S1481b"-Remove this unused "listdata" local variable.(ˆ«€8¶§Î‘“/
+]	java:S125Z"<This block of commented-out lines of code should be removed.(ûĞÅşÿÿÿÿ8¶§Î‘“/
+K
+java:S1481œ"-Remove this unused "listdata" local variable.(ˆ«€8¶§Î‘“/
+Z
+java:S1481Ï"7Remove this unused "newSubCategoryList" local variable.(¦²°Ÿøÿÿÿÿ8¶§Î‘“/
+m
+java:S1192u"KDefine a constant instead of duplicating this literal "CategoryId" 7 times.(Ã”Üşüÿÿÿÿ8¶§Î‘“/
+R
+java:S1172ù"/Remove this unused method parameter "sellerId".(çù¶üÿÿÿÿ8ØÜ´‹ù/
+Y	java:S125“"<This block of commented-out lines of code should be removed.(¹äˆø8ØÜ´‹ù/
+p	java:S116D"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,8¶§Î‘“/
+a
+java:S1117">Rename "CategoryId" which hides the field declared at line 75.(‘ÅÆùÿÿÿÿ8¶§Î‘“/
+h
+java:S1192T"KDefine a constant instead of duplicating this literal "StandAlone" 3 times.(Î´ı·8¶§Î‘“/

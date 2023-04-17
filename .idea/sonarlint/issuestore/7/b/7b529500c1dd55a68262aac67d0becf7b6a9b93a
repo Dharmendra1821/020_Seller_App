@@ -1,0 +1,14 @@
+
+M
+java:S1874"0Remove this use of "setLevel"; it is deprecated.(÷˜íä8‰Á÷òï/
+R
+java:S1128"0Remove this unused import 'okhttp3.Credentials'.(„€îàûÿÿÿÿ8‰Á÷òï/
+O
+java:S1128
+"-Remove this unused import 'okhttp3.Response'.(Ï‚ñ—øÿÿÿÿ8‰Á÷òï/
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8‰Á÷òï/
+M
+java:S1128"0Remove this unused import 'okhttp3.Interceptor'.(ËÖ‹ã8‰Á÷òï/
+N
+java:S1128	",Remove this unused import 'okhttp3.Request'.(¬ßØÿÿÿÿÿ8‰Á÷òï/

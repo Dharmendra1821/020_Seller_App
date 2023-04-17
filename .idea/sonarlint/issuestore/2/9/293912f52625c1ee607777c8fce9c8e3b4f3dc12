@@ -1,0 +1,23 @@
+
+<	java:S1312""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+o	java:S116"URename this field "card_print" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ®­úÿÿÿÿ
+<
+java:S1659"&Declare "printImg" on a separate line.(æ«›Æ
+A
+java:S1659"&Declare "card_sms" on a separate line.(ñ®­úÿÿÿÿ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(ÐãŒ±
+Q	java:S125$"<This block of commented-out lines of code should be removed.(µÜ§
+:
+java:S1659"$Declare "smsImg" on a separate line.(æ«›Æ
+m	java:S116"SRename this field "card_sms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ®­úÿÿÿÿ
+o	java:S116"URename this field "card_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ®­úÿÿÿÿ
+@
+java:S1659"%Declare "card_ad" on a separate line.(ñ®­úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ê«¤Å
+V	java:S125"<This block of commented-out lines of code should be removed.(Ü®ãùÿÿÿÿ
+9
+java:S1659"#Declare "adImg" on a separate line.(æ«›Æ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ëœïö
+l	java:S116"RRename this field "card_ad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ®­úÿÿÿÿ
+C
+java:S1659"(Declare "card_print" on a separate line.(ñ®­úÿÿÿÿ

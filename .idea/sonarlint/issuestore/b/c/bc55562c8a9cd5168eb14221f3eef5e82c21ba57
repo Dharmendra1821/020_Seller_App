@@ -1,0 +1,18 @@
+
+G
+java:S1068"1Remove this unused "clickListener" private field.(ÙÙ¯
+g	java:S101V"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íû¹åÿÿÿÿÿ
+Q	java:S125I"<This block of commented-out lines of code should be removed.(Õñòà
+M
+java:S1135Z"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+C
+java:S1185Y"(Remove this method to simply inherit it.(ı¤Ğüùÿÿÿÿ
+M
+java:S1135i"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+M
+java:S1135`"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+P
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8´–ËÈñ.
+]	java:S1255"<This block of commented-out lines of code should be removed.(Ûƒàªúÿÿÿÿ8µÎÕÈñ.
+Q
+java:S1068"6Remove this unused "closeClickListener" private field.(ºÊç¢ıÿÿÿÿ

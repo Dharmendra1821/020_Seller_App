@@ -1,0 +1,34 @@
+
+wsquid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë§¡8À¹ìúÿ-
+Osquid:S10681"1Remove this unused "clickListener" private field.(ŒÓŸ²8À¹ìúÿ-
+£squid:S1319D"„The type of the "deliveryBoyOrderArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÀóéÅ8À¹ìúÿ-
+|squid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(„‚“ùÿÿÿÿ8À¹ìúÿ-
+ squid:UselessImportCheck!"pRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.MyOrdersListActivity'.(Ãç…øÿÿÿÿ8À¹ìúÿ-
+¥squid:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ8À¹ìúÿ-
+zsquid:S14501"\Remove the "clickListener" field and declare it as a local variable in the relevant methods.(ŒÓŸ²8À¹ìúÿ-
+psquid:S3776W"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(à÷¦û8À¹ìúÿ-
+€squid:S4165G"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà8À¹ìúÿ-
+Ysquid:S14448"6Make this "public static selectionSpinner" field final(ğ¡ñèøÿÿÿÿ8À¹ìúÿ-
+osquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(‚‡òÌúÿÿÿÿ8À¹ìúÿ-
+Ksquid:S14447"-Make this "public static HashMap" field final(ë§¡8À¹ìúÿ-
+osquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(‚‡òÌúÿÿÿÿ8À¹ìúÿ-
+xsquid:S00116ò"SRename this field "order_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜ¶¨ıÿÿÿÿ8À¹ìúÿ-
+–"squid:ClassVariableVisibilityCheck8"\Make selectionSpinner a static final constant or non-public and provide accessors if needed.(ğ¡ñèøÿÿÿÿ8À¹ìúÿ-
+jsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(„çƒğ8À¹ìúÿ-
+[squid:S2589ˆ"7Remove this expression which always evaluates to "true"(ôÕœçûÿÿÿÿ8À¹ìúÿ-
+Ÿsquid:UselessImportCheck "tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.DeliveryBoyOrderActivity'.(İÊßğ8À¹ìúÿ-
+;squid:S23867"Make this member "protected".(ë§¡8À¹ìúÿ-
+nsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(¨×Ü¼üÿÿÿÿ8À¹ìúÿ-
+psquid:S30087"RRename this field "HashMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë§¡8À¹ìúÿ-
+|squid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ¡ñèøÿÿÿÿ8À¹ìúÿ-
+…squid:S1488Q"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ8À¹ìúÿ-
+…squid:UselessImportCheck%"URemove this unused import 'standalone.eduqfix.qfixinfo.com.app.customer.model.State'.(´ÃÛ‰øÿÿÿÿ8À¹ìúÿ-
+tsquid:S00116ñ"TRename this field "cust_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‰Ã·8À¹ìúÿ-
+ˆ"squid:ClassVariableVisibilityCheck7"SMake HashMap a static final constant or non-public and provide accessors if needed.(ë§¡8À¹ìúÿ-
+@squid:S23868"Make this member "protected".(ğ¡ñèøÿÿÿÿ8À¹ìúÿ-
+wsquid:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(İıàÙ8À¹ìúÿ-
+Usquid:S2696ƒ"6Make the enclosing method "static" or remove this set.(é¿¥Ç8À¹ìúÿ-
+esquid:UselessImportCheck"5Remove this unused import 'android.view.MotionEvent'.(˜šËŞúÿÿÿÿ8À¹ìúÿ-
+]squid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G8À¹ìúÿ-
+ksquid:UselessImportCheck"@Remove this unused import 'android.widget.AutoCompleteTextView'.(™å®Â8À¹ìúÿ-
+•squid:UselessImportCheck$"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.MyOrderListModelNew'.(®¹Ç¥8À¹ìúÿ-

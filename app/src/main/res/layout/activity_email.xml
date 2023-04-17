@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_bg"
+    android:orientation="vertical"
+    tools:context=".seller_app.activity.EmailActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="-50dp"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/email_screen_logo"/>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/TextLabel">
+
+        <EditText
+            android:id="@+id/emailEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email or Mobile Number"
+            android:textColor="#fff"
+            android:inputType="textEmailAddress"
+            android:layout_margin="10dp"
+            android:singleLine="true"
+        />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+
+    <Button android:id="@+id/emailButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:layout_margin="10dp"
+        android:background="@drawable/new_login_button"
+        android:textColor="@color/colorWhite"
+     />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OR"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/colorWhite"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+
+
+
+
+        <Button
+            android:id="@+id/self_register_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Self Register"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/new_login_button"
+            android:textColor="@color/colorWhite"/>
+    </LinearLayout>
+</LinearLayout>

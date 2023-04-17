@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C357E</color>
+    <color name="colorPrimaryDark">#2C357E</color>
+    <color name="colorAccent">#2C357E</color>
+    <color name="activity_background">#e1e1e1</color>
+    <color name="exit_button_color">#d70505</color>
+    <color name="customercard_background">#F2F2F2</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="button_text_color">#6761d8</color>
+    <color name="button_color">#5f1ede</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="greysilver">#808080</color>
+    <color name="greencolor">#008000</color>
+    <color name="new_start_color">#f79921</color>
+    <color name="new_middle_color">#ed3669</color>
+
+    <color name="new_btn_color">#2C357E</color>
+
+</resources>

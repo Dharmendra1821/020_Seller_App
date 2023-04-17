@@ -1,0 +1,26 @@
+
+Ksquid:S1444,"-Make this "public static HashMap" field final(ë§¡8èÉğúÿ-
+;squid:S2386,"Make this member "protected".(ë§¡8èÉğúÿ-
+|squid:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ¡ñèøÿÿÿÿ8èÉğúÿ-
+tsquid:S00116½"TRename this field "cust_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‰Ã·8èÉğúÿ-
+wsquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë§¡8èÉğúÿ-
+ˆ"squid:ClassVariableVisibilityCheck,"SMake HashMap a static final constant or non-public and provide accessors if needed.(ë§¡8èÉğúÿ-
+psquid:S3008,"RRename this field "HashMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë§¡8õÔñúÿ-
+Tsquid:S1068&"1Remove this unused "clickListener" private field.(áâ€˜úÿÿÿÿ8õÔñúÿ-
+|squid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(„‚“ùÿÿÿÿ8õÔñúÿ-
+wsquid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(İıàÙ8õÔñúÿ-
+squid:S1450&"\Remove the "clickListener" field and declare it as a local variable in the relevant methods.(áâ€˜úÿÿÿÿ8õÔñúÿ-
+€squid:S4165;"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà8õÔñúÿ-
+Ysquid:S1444-"6Make this "public static selectionSpinner" field final(ğ¡ñèøÿÿÿÿ8õÔñúÿ-
+nsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ÚúğÇøÿÿÿÿ8õÔñúÿ-
+nsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õÔñúÿ-
+¨squid:S13198"„The type of the "deliveryBoyOrderArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(›»ëùÿÿÿÿ8õÔñúÿ-
+…squid:S1488C"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ8õÔñúÿ-
+Zsquid:S2696Ï"6Make the enclosing method "static" or remove this set.(şúå¼şÿÿÿÿ8õÔñúÿ-
+asquid:HiddenFieldCheck}"8Rename "name" which hides the field declared at line 48.(¥Ãá8õÔñúÿ-
+–"squid:ClassVariableVisibilityCheck-"\Make selectionSpinner a static final constant or non-public and provide accessors if needed.(ğ¡ñèøÿÿÿÿ8õÔñúÿ-
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(ôÕœçûÿÿÿÿ8õÔñúÿ-
+psquid:S3776I"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¥Ş´8õÔñúÿ-
+¥squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ8õÔñúÿ-
+@squid:S2386-"Make this member "protected".(ğ¡ñèøÿÿÿÿ8õÔñúÿ-
+xsquid:S00116¾"SRename this field "order_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜ¶¨ıÿÿÿÿ8õÔñúÿ-

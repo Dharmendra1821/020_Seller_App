@@ -1,0 +1,117 @@
+
+F
+java:S1144"0Remove this unused private "checkParams" method.(©¸ìG
+l
+java:S1192Æ"PDefine a constant instead of duplicating this literal "shipping_amount" 3 times.(íÆÆÀıÿÿÿÿ
+=	java:S131‘""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Üÿûÿÿÿÿ
+?
+java:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+l	java:S116;"WRename this field "increment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¶®é
+N
+java:S1135¾"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+?
+java:S1659;")Declare "grand_total" on a separate line.(î¶®é
+o	java:S116;"ZRename this field "shipping_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¶®é
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+?	java:S108á")Either remove or fill this block of code.(”ı¾
+R	java:S125ë"<This block of commented-out lines of code should be removed.(ßê‰À
+e
+java:S1192À"IDefine a constant instead of duplicating this literal "Response" 3 times.(ËÖ‡©ùÿÿÿÿ
+b
+java:S1192É"FDefine a constant instead of duplicating this literal "items" 3 times.(èÓËáúÿÿÿÿ
+l	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØĞâÿøÿÿÿÿ
+F
+java:S1148Û"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§œÔñı.
+k	java:S116;"VRename this field "grand_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¶®é
+K
+java:S1604½"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8§œÔñı.
+N
+java:S1481¿"0Remove this unused "incrementId" local variable.(˜‚›8§œÔñı.
+C
+java:S1481›",Remove this unused "shopUrl" local variable.(¦ØÚî
+Q	java:S125®"<This block of commented-out lines of code should be removed.(Ú¦Î
+s	java:S116<"^Rename this field "refund_store_credit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìš•õ
+B
+java:S1659<",Declare "offline_refund" on a separate line.(Ìš•õ
+V	java:S125c"<This block of commented-out lines of code should be removed.(š÷íºøÿÿÿÿ
+g	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ñÆŒ
+E
+java:S1604ë"(Make this anonymous inner class a lambda(²» g8§œÔñı.
+R	java:S125œ"<This block of commented-out lines of code should be removed.(ïÒê
+O
+java:S1153â"1Directly append the argument of String.valueOf().(†úÒ8§œÔñı.
+E
+java:S1905¦")Remove this unnecessary cast to "String".(©Ÿğµüÿÿÿÿ
+n	java:S116<"YRename this field "offline_refund" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìš•õ
+|
+java:S1192û"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 3 times.(Š¥Ç¾ıÿÿÿÿ
+`
+java:S1192°"IDefine a constant instead of duplicating this literal "shop_url" 3 times.(¦ØÚî
+—
+java:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+G
+java:S1659>",Declare "subTotalAmount" on a separate line.(ôÏ£êüÿÿÿÿ
+R	java:S125Ë"<This block of commented-out lines of code should be removed.(¸Èš¥
+J
+java:S1066t"/Merge this if statement with the enclosing one.(ïş”Óÿÿÿÿÿ
+=
+java:S1168ú"&Return an empty array instead of null.(¥¹ï
+F
+java:S1148æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§œÔñı.
+b
+java:S1192÷"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(§ßŞÕúÿÿÿÿ
+S
+java:S1117É"<Rename "entityId" which hides the field declared at line 66.(«ç’á
+K
+java:S1604Ö"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8§œÔñı.
+X
+java:S1117Ğ"<Rename "entityId" which hides the field declared at line 66.(¿öøèşÿÿÿÿ
+=
+java:S1168‚"&Return an empty array instead of null.(¥¹ï
+i
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Óáğ›
+g
+java:S1301‘"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+D
+java:S1905€"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+E
+java:S1604à"(Make this anonymous inner class a lambda(²» g8§œÔñı.
+ƒ
+java:S1128*"mRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.OrderListActivity'.(œš×¦
+D
+java:S1905"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+Q	java:S125™"<This block of commented-out lines of code should be removed.(Ú¦Î
+W	java:S125²"<This block of commented-out lines of code should be removed.(Ö•ğÈÿÿÿÿÿ
+=
+java:S1659;"'Declare "sub_total" on a separate line.(î¶®é
+E
+java:S1604è"(Make this anonymous inner class a lambda(²» g8§œÔñı.
+g
+java:S1301™"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+D
+java:S1905‰"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+C
+java:S1659;"-Declare "shipping_amount" on a separate line.(î¶®é
+F
+java:S1144†"0Remove this unused private "checkParams" method.(©¸ìG
+^
+java:S1192ö"GDefine a constant instead of duplicating this literal "Url..." 3 times.(ˆËÕ
+—
+java:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+|
+java:S1128."fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.OutofStockAdapter'.(èóê³
+F
+java:S1144ı"0Remove this unused private "checkParams" method.(©¸ìG
+K
+java:S1604±"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8§œÔñı.
+K
+java:S1066‰"/Merge this if statement with the enclosing one.(ˆßŞ†ùÿÿÿÿ
+I
+java:S1659=".Declare "adjustmentRefund" on a separate line.(ê·¼îÿÿÿÿÿ
+i	java:S116;"TRename this field "sub_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¶®é
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+
+java:S1128+"uRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.MyOrderProductDetailAdapter'.(ÄÄ›ÿÿÿÿÿ

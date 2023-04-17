@@ -1,0 +1,28 @@
+
+’
+java:S1319/"|The type of the "qfixLibraryModels" object should be an interface such as "List" rather than the implementation "ArrayList".(ØÙ…¥
+^
+java:S2583M"CChange this condition so that it does not always evaluate to "true"(ê´“ëûÿÿÿÿ
+m
+java:S1128"WRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.Items'.(íÌŞŸ
+y
+java:S1128"cRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.Custom_attributes'.(Ë—¢
+O
+java:S1128"9Remove this unused import 'net.hydromatic.linq4j.Linq4j'.(ùì®‘
+w
+java:S1128"\Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.Categories'.(Ğ‚õùÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'net.hydromatic.linq4j.function.Predicate1'.(âàÓÜ
+D
+java:S1659("/Declare "CustomerAddressId" on a separate line.(Û‚©,
+i	java:S116("URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,
+p	java:S116("\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‚©,
+n
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÌÈR
+A
+java:S11725"+Remove this unused method parameter "data".(”Õé
+M
+java:S2696™"6Make the enclosing method "static" or remove this set.(±í
+Q	java:S125I"<This block of commented-out lines of code should be removed.(Úú§Î
+V	java:S125T"<This block of commented-out lines of code should be removed.(™Œûüÿÿÿÿ
+Q	java:S125m"<This block of commented-out lines of code should be removed.(üÉğ£

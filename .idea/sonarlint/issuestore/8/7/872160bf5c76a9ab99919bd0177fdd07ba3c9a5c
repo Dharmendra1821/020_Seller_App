@@ -1,0 +1,9 @@
+
+J
+java:S1659"-Declare "assign_delivery" on a separate line.(ê‚Ú˜8†œÓ‹Á/
+L
+java:S1659"/Declare "delivery_boy_list" on a separate line.(ê‚Ú˜8†œÓ‹Á/
+w	java:S116"[Rename this field "add_delievry_boy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚Ú˜8†œÓ‹Á/
+v	java:S116"ZRename this field "assign_delivery" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚Ú˜8†œÓ‹Á/
+x	java:S116"\Rename this field "delivery_boy_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚Ú˜8†œÓ‹Á/
+>	java:S131'""Add a default case to this switch.(ºÖ8†œÓ‹Á/

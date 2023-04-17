@@ -1,0 +1,13 @@
+
+”squid:S1319@"vThe type of the "categoryIds" object should be an interface such as "List" rather than the implementation "ArrayList".(¨Ÿ¸¦8¦ä•Çè-
+|squid:S00116D"XRename this field "media_gallery" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ó­ıûÿÿÿÿ8§Èÿøå-
+rsquid:UselessImportCheck"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8¿éÔÈå-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ê­îìß-
+”squid:S1319:"vThe type of the "categoryIds" object should be an interface such as "List" rather than the implementation "ArrayList".(•Â’8â¹•Çè-
+msquid:S00100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š“ ı8úöÿøå-
+rsquid:S00100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú€…×øÿÿÿÿ8úöÿøå-
+psquid:S00117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š“ ı8úöÿøå-
+“squid:S1319<"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(êæªÄùÿÿÿÿ8¦ä•Çè-
+"squid:ClassVariableVisibilityCheckE"VMake attributes a static final constant or non-public and provide accessors if needed.(ˆŞÚ¸úÿÿÿÿ8‹Œúå-
+Œ"squid:ClassVariableVisibilityCheck:"WMake categoryIds a static final constant or non-public and provide accessors if needed.(•Â’8Ùî„Çè-
+“"squid:ClassVariableVisibilityCheckD"YMake media_gallery a static final constant or non-public and provide accessors if needed.(–Ó­ıûÿÿÿÿ8™àúå-

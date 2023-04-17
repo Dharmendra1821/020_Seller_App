@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:layout_marginTop="15dp">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/label"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/productlabel"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="Product Label"
+            android:textSize="14dp"/>
+    </LinearLayout>
+
+
+    <TableRow
+        android:layout_below="@+id/label"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="3"
+        >
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:id="@+id/productname1"
+            android:layout_width="match_parent"
+            android:layout_marginRight="35dp"
+            android:layout_weight="3"
+            android:layout_height="wrap_content"
+            android:text="Product name 1"
+            android:textSize="15dp"
+            >
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/spinnerbox">
+
+                <Spinner
+
+                    android:id="@+id/spinner1"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:spinnerMode="dialog"
+                    >
+
+                </Spinner>
+                <Spinner
+
+                    android:id="@+id/spinner2"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:spinnerMode="dialog"
+                    >
+                </Spinner>
+
+                <Spinner
+
+                    android:id="@+id/spinner3"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:spinnerMode="dialog"
+                    >
+
+                </Spinner>
+                <Spinner
+
+                    android:id="@+id/spinner4"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:spinnerMode="dialog"
+                    >
+
+                </Spinner>
+
+
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:visibility="gone"
+                android:orientation="vertical"
+                android:id="@+id/Radiogroup"
+                android:scrollbars="horizontal"
+                android:background="@drawable/spinnerbox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/radiobutton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="10dp"/>
+
+            </LinearLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/spinnerbox"
+                android:id="@+id/checkboxes"
+
+                android:visibility="gone">
+                <CheckBox
+                    android:id="@+id/COD"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="COD"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:weightSum="2"
+            android:layout_height="wrap_content"
+            android:id="@+id/productvalue"
+            android:visibility="invisible"
+         >
+
+
+
+        <ImageView
+            android:layout_below="@+id/PRICE"
+            android:layout_toRightOf="@+id/productname1"
+            android:id="@+id/imageprice"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:src="@drawable/payment" />
+
+        <TextView
+            android:layout_column="2"
+            android:layout_weight="1"
+            android:id="@+id/productprice"
+            android:layout_below="@+id/PRICE"
+            android:layout_toRightOf="@id/imageprice"
+            android:layout_marginRight="30dp"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            android:text="555"
+            android:textSize="18dp" />
+
+
+            <EditText
+                android:layout_weight="1"
+                android:id="@+id/EDITQTY1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_column="3"
+                android:layout_below="@+id/ppq"
+                android:layout_gravity="center"
+                android:layout_toRightOf="@+id/productprice"
+                android:background="@drawable/editbox"
+                android:gravity="center"
+                android:hint="0"
+                android:editable="true"
+                android:imeOptions="actionDone"
+                android:inputType="number"
+                android:singleLine="true"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </TableRow>
+</TableLayout>

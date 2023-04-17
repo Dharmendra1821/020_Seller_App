@@ -1,0 +1,26 @@
+
+^
+java:S1192@"HDefine a constant instead of duplicating this literal "to_date" 3 times.(æŸŒè
+e
+java:S1192;"JDefine a constant instead of duplicating this literal "from_date" 3 times.(îù™¿ûÿÿÿÿ
+l	java:S114¶"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(âá¹Ûÿÿÿÿÿ
+„
+java:S1128"iRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.StoreCustomerAdapter'.(‚¦Ý¹ùÿÿÿÿ
+?
+java:S1659 "$Declare "todate" on a separate line.(ÇŠ»¨ýÿÿÿÿ
+<
+java:S1659!"&Declare "toLayout" on a separate line.(ÕÕÕØ
+?
+java:S1659""$Declare "mMonth" on a separate line.(Ý—Ûéþÿÿÿÿ
+=
+java:S1659"""Declare "mDay" on a separate line.(Ý—Ûéþÿÿÿÿ
+h
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦òúÝ
+M
+java:S1135R"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+M
+java:S1135q"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+R
+java:S2696«"6Make the enclosing method "static" or remove this set.(áÖûûÿÿÿÿ
+M
+java:S2696¯"6Make the enclosing method "static" or remove this set.(…Ôœˆ

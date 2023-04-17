@@ -1,0 +1,34 @@
+
+•
+java:S1319&"zThe type of the "creditMemoItems" object should be an interface such as "List" rather than the implementation "ArrayList".(¦ğªçùÿÿÿÿ
+†
+java:S1319("pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶åìş
+
+java:S1319,"zThe type of the "creditMemoItems" object should be an interface such as "List" rather than the implementation "ArrayList".(Õšş×
+‘
+java:S13193"{The type of the "creditMemoModels" object should be an interface such as "List" rather than the implementation "ArrayList".(®·ß¹
+x
+java:S41656"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà
+P
+java:S1444&"5Make this "public static creditMemoItems" field final(¦ğªçùÿÿÿÿ
+v
+java:S1104&"[Make creditMemoItems a static final constant or non-public and provide accessors if needed.(¦ğªçùÿÿÿÿ
+}
+java:S1488>"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ
+„
+java:S1128"nRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.ComplaintsDetailsActivity'.(ı•§Ä
+„
+java:S1128"iRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.ProductDetailModel'.(Çô­ıÿÿÿÿ
+I
+java:S1128"4Remove this unused import 'android.widget.CheckBox'.(Ùáb
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú
+8
+java:S2386&"Make this member "protected".(¦ğªçùÿÿÿÿ
+o
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÕÔğ
+œ
+java:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+>	java:S108d")Either remove or fill this block of code.(”ı¾

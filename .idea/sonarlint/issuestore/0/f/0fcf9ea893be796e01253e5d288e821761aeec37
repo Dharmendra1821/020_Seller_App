@@ -1,0 +1,11 @@
+
+psquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(†•‡Ü
+“squid:S1319K"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ğè¼€ÿÿÿÿÿ8ÍˆÑ¡è-
+Œsquid:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷ƒœüÿÿÿÿ
+msquid:S11926"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(Ä·ï8ÍˆÑ¡è-
+–squid:UselessImportCheck"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.container.ProductSizeModel'.(Ñøß€şÿÿÿÿ8ç‡¶Ğä-
+¥squid:UselessImportCheck"uRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.DatabaseCategoriesModel'.(Î­Éâúÿÿÿÿ8åÆ»Ğä-
+squid:S1319f"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ç¯Ì¬8Ş·Ğä-
+“squid:UselessImportCheck"hRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.container.ConfigProductModel'.(½áğ8æ°°Ğä-
+wsquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(†•‡Ü8ÍˆÑ¡è-
+wsquid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(†•‡Ü8Ş·Ğä-

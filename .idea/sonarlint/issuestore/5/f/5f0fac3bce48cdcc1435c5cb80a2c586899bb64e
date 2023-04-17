@@ -1,0 +1,82 @@
+
+k
+java:S2095Ë"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ
+e
+java:S1192ß"NDefine a constant instead of duplicating this literal "imagename.jpg" 3 times.(ÅÔ†¾
+^
+java:S1192ô"GDefine a constant instead of duplicating this literal "image3" 5 times.(Í¤ŸË
+a
+java:S1192ß"JDefine a constant instead of duplicating this literal "image/png" 3 times.(ÅÔ†¾
+^
+java:S1192ç"GDefine a constant instead of duplicating this literal "image1" 5 times.(ÄÔÊ«
+^
+java:S1192î"GDefine a constant instead of duplicating this literal "image2" 5 times.(ÕÁ«á
+?
+java:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1604ò"(Make this anonymous inner class a lambda(ç’ƒL
+>
+java:S1604ü"(Make this anonymous inner class a lambda(ç’ƒL
+>
+java:S1604"(Make this anonymous inner class a lambda(ç’ƒL
+“
+java:S1128<"xRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.DetectSwipeDirectionActivity'.(¦–îàıÿÿÿÿ
+w
+java:S1128?"aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ComplaintsModel'.(»ã”í
+i
+java:S1128A"NRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant'.(°ÆËéøÿÿÿÿ
+a
+java:S1128!"FRemove this unused import 'androidx.fragment.app.FragmentTransaction'.(¦İÚ¿şÿÿÿÿ
+
+java:S1128>"sRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.fragment.SurfaceViewCameraFragment'.(áêùÿÿÿÿ
+]
+java:S1128 "BRemove this unused import 'androidx.fragment.app.FragmentManager'.(¯­ë‹ıÿÿÿÿ
+
+java:S1128="xRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.ExpListViewAdapterWithCheckbox'.(öƒ¾
+:
+java:S1659G"$Declare "itemId" on a separate line.(¬Ïµ©
+@
+java:S1659G"*Declare "customerName" on a separate line.(¬Ïµ©
+B
+java:S1659G",Declare "vendorComments" on a separate line.(¬Ïµ©
+D
+java:S1659G".Declare "customerComments" on a separate line.(¬Ïµ©
+?
+java:S1659P"$Declare "image2" on a separate line.(¡‰ç¸ùÿÿÿÿ
+?
+java:S1659P"$Declare "image3" on a separate line.(¡‰ç¸ùÿÿÿÿ
+E
+java:S1659^"*Declare "imageStream2" on a separate line.(…‘¾Šüÿÿÿÿ
+E
+java:S1659^"*Declare "imageStream3" on a separate line.(…‘¾Šüÿÿÿÿ
+p	java:S116R"VRename this field "PERMISSIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÛ®Ñûÿÿÿÿ
+n	java:S116V"YRename this field "PERMISSION_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀ‚×
+t
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(„‚“ùÿÿÿÿ
+u
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¥ ¯ıÿÿÿÿ
+
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+s
+java:S3252¹"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ß„Ïıÿÿÿÿ
+?	java:S108¼")Either remove or fill this block of code.(á¢–¬
+=	java:S131Ç""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+?	java:S108ƒ")Either remove or fill this block of code.(”ı¾
+?	java:S108”")Either remove or fill this block of code.(”ı¾
+i	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²¨œ“ÿÿÿÿÿ
+?	java:S108 ")Either remove or fill this block of code.(”ı¾
+U
+java:S1874Ë"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ
+S
+java:S1874é"<Remove this use of "getConnectionManager"; it is deprecated.(‰šÀö
+E
+java:S1874é".Remove this use of "Scheme"; it is deprecated.(‰šÀö
+O
+java:S1874é"8Remove this use of "SSLSocketFactory"; it is deprecated.(‰šÀö
+?	java:S108”")Either remove or fill this block of code.(”ı¾
+>
+java:S1185›"(Remove this method to simply inherit it.(­–ÀS
+F
+java:S1481Î"/Remove this unused "adminToken" local variable.(¶‹ÈÊ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(£ìÍåüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ

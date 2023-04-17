@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".seller_app.community.EditMicroMarketActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Label"
+                android:textSize="13dp"
+                android:textColor="@color/greysilver"/>
+
+            <EditText
+                android:id="@+id/microMarket_label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlack"
+                android:textSize="16dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <EditText
+                android:id="@+id/microMarket_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlack"
+                android:textSize="16dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contact Details"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <EditText
+                android:id="@+id/microMarket_contact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlack"
+                android:inputType="number"
+                android:maxLength="10"
+                android:textSize="16dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Privacy Policy"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <EditText
+                android:id="@+id/microMarket_privacyPolicy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:layout_marginTop="5dp"
+                android:maxLines="3"
+                android:textColor="@color/greysilver"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right">
+
+                <TextView
+                    android:id="@+id/read_more_privacy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:text="Read More..."/>
+
+                <TextView
+                    android:id="@+id/read_less_privacy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:visibility="gone"
+                    android:text="Read Less..."/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Terms and condition"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <EditText
+                android:id="@+id/microMarket_termsCondition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:layout_marginTop="5dp"
+                android:maxLines="3"
+                android:textColor="@color/greysilver"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right">
+
+                <TextView
+                    android:id="@+id/read_more_terms"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:text="Read More..."/>
+
+                <TextView
+                    android:id="@+id/read_less_terms"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:visibility="gone"
+                    android:text="Read Less..."/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="About Us"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <EditText
+                android:id="@+id/microMarket_aboutUs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:layout_marginTop="5dp"
+                android:maxLines="3"
+                android:textColor="@color/greysilver"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right">
+
+                <TextView
+                    android:id="@+id/read_more_aboutUs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:text="Read More..."/>
+
+                <TextView
+                    android:id="@+id/read_less_aboutUs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:visibility="gone"
+                    android:text="Read Less..."/>
+
+            </LinearLayout>
+
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shipping Policy"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+            <EditText
+                android:id="@+id/microMarket_shippingPolicy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:layout_marginTop="5dp"
+                android:maxLines="3"
+                android:textColor="@color/greysilver"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right">
+
+                <TextView
+                    android:id="@+id/read_more_shippingPolicy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:text="Read More..."/>
+
+                <TextView
+                    android:id="@+id/read_less_shippingPolicy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:visibility="gone"
+                    android:text="Read Less..."/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Return Policy"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <EditText
+                android:id="@+id/microMarket_returnPolicy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:layout_marginTop="5dp"
+                android:maxLines="3"
+                android:textColor="@color/greysilver"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right">
+
+                <TextView
+                    android:id="@+id/read_more_returnPolicy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:text="Read More..."/>
+
+                <TextView
+                    android:id="@+id/read_less_returnPolicy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/new_btn_color"
+                    android:textSize="14dp"
+                    android:visibility="gone"
+                    android:text="Read Less..."/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Logo"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@mipmap/ic_launcher"
+                android:layout_marginTop="5dp"
+                android:id="@+id/microMarket_logo"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thumbnail"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@mipmap/ic_launcher"
+                android:layout_marginTop="5dp"
+                android:id="@+id/microMarket_thumbnail"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Banner"
+                android:textSize="13dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/greysilver"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/microMarket_banner_images"/>
+
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:orientation="vertical"
+    android:background="@color/colorWhite">
+
+
+
+
+    <EditText
+        android:id="@+id/tracking_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tracking number"
+        android:textColor="#333"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColorHint="@color/greysilver"
+        />
+
+    <EditText
+        android:id="@+id/shipped_qty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Qty"
+        android:textColor="#333"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColorHint="@color/greysilver"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/shipped_weight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Weight"
+        android:textColor="#333"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColorHint="@color/greysilver"
+        android:inputType="text" />
+
+
+    <EditText
+        android:id="@+id/shipped_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Color"
+        android:textColor="#333"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColorHint="@color/greysilver"
+        android:inputType="text" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:weightSum="2">
+    <Button
+        android:id="@+id/shipment_cancel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/new_btn_color"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:text="Cancel"
+        android:textAllCaps="false"
+        android:background="@drawable/button_text_border"/>
+
+    <Button
+        android:id="@+id/shipment_submit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorWhite"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Save"
+        android:textAllCaps="false"
+        android:background="@color/new_btn_color"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,84 @@
+
+D
+java:S1168–"&Return an empty array instead of null.(¥¹ï8Õ¡ª/
+U
+java:S1128"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ8Õ¡ª/
+D
+java:S1659/""Declare "edit" on a separate line.(¸¨‰øÿÿÿÿ8Õ¡ª/
+F
+java:S1659-"$Declare "mobile" on a separate line.(°Êğúÿÿÿÿ8Õ¡ª/
+J
+java:S1172ª",Remove this unused method parameter "email".(Ø÷¶Ğ8Õ¡ª/
+M
+java:S1144ò"0Remove this unused private "checkParams" method.(©¸ìG8Õ¡ª/
+H
+java:S1659-"&Declare "lastname" on a separate line.(°Êğúÿÿÿÿ8Õ¡ª/
+H
+java:S1659-"&Declare "password" on a separate line.(°Êğúÿÿÿÿ8Õ¡ª/
+D
+java:S1168ï"&Return an empty array instead of null.(¥¹ï8Õ¡ª/
+F
+java:S1148é"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Õ¡ª/
+F
+java:S1148÷"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Õ¡ª/
+K
+java:S1905õ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Õ¡ª/
+K
+java:S1604Æ"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8Õ¡ª/
+i
+java:S1301ƒ"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8Õ¡ª/
+Y	java:S125Ğ"<This block of commented-out lines of code should be removed.(ëğï®8Õ¡ª/
+E
+java:S1604ü"(Make this anonymous inner class a lambda(²» g8Õ¡ª/
+J
+java:S1659."(Declare "emailValue" on a separate line.(ÛË­ùÿÿÿÿ8Õ¡ª/
+K
+java:S1905œ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Õ¡ª/
+‰
+java:S1845."gRename field "lastName" to prevent any misunderstanding/clash with field "lastname" defined on line 45.(ÛË­ùÿÿÿÿ8Õ¡ª/
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ğ¸™áúÿÿÿÿ8Õ¡ª/
+j
+java:S1192W"HDefine a constant instead of duplicating this literal "contact" 3 times.(¶÷‚™üÿÿÿÿ8Õ¡ª/
+K
+java:S1659.")Declare "passwordVal" on a separate line.(ÛË­ùÿÿÿÿ8Õ¡ª/
+H
+java:S1659."&Declare "lastName" on a separate line.(ÛË­ùÿÿÿÿ8Õ¡ª/
+J
+java:S1659."(Declare "confirmVal" on a separate line.(ÛË­ùÿÿÿÿ8Õ¡ª/
+M
+java:S1128!"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Õ¡ª/
+M
+java:S1144™"0Remove this unused private "checkParams" method.(©¸ìG8Õ¡ª/
+E
+java:S1604Õ"(Make this anonymous inner class a lambda(²» g8Õ¡ª/
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(â¿öÉıÿÿÿÿ8ñ™†¤ÿ/
+L
+java:S1659."*Declare "mobileNumber" on a separate line.(ÛË­ùÿÿÿÿ8Õ¡ª/
+Q
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8Õ¡ª/
+|	java:S116-"[Rename this field "confirm_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Êğúÿÿÿÿ8Õ¡ª/
+K
+java:S1604í"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8Õ¡ª/
+Y	java:S125¼"<This block of commented-out lines of code should be removed.(ö×Ê8Õ¡ª/
+F
+java:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Õ¡ª/
+‚
+java:S1128&"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.DeliveryBoyList'.(íñ™f8Õ¡ª/
+‹
+java:S1845."iRename field "firstName" to prevent any misunderstanding/clash with field "firstname" defined on line 45.(ÛË­ùÿÿÿÿ8Õ¡ª/
+J
+java:S1481Ò",Remove this unused "shopUrl" local variable.(¦ØÚî8ª„‡¤ÿ/
+F
+java:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Õ¡ª/
+i
+java:S1192“"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(§ßŞÕúÿÿÿÿ8Õ¡ª/
+E
+java:S1659-"#Declare "email" on a separate line.(°Êğúÿÿÿÿ8Õ¡ª/
+P
+java:S1659-".Declare "confirm_password" on a separate line.(°Êğúÿÿÿÿ8Õ¡ª/
+?	java:S131ƒ""Add a default case to this switch.(ºÖ8Õ¡ª/
+q
+java:S1192“"NDefine a constant instead of duplicating this literal "Invalid email" 4 times.(”‡¯¨ùÿÿÿÿ8Õ¡ª/
+J
+java:S1481¬",Remove this unused "shopUrl" local variable.(¦ØÚî8ĞÎ‡¤ÿ/

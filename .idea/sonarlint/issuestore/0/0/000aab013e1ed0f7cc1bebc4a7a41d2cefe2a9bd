@@ -1,0 +1,35 @@
+
+T
+java:S1135l"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‘ï˜í.
+E
+java:S1604?"(Make this anonymous inner class a lambda(„ÑñŒ8‘ï˜í.
+X	java:S899…";Do something with the "boolean" value returned by "delete".(ù¿¤·8‘ï˜í.
+S
+java:S1481ª"0Remove this unused "resolveInfo" local variable.(„ûøÏşÿÿÿÿ8‘ï˜í.
+n	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º—ş8‘ï˜í.
+G
+java:S5411o"*Use the primitive boolean expression here.(€‘¨Ä8‘ï˜í.
+g
+java:S4042…"IUse "java.nio.Files#delete" here for better messages on error conditions.(ù¿¤·8‘ï˜í.
+n	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëŠŒ8‘ï˜í.
+
+java:S1128!"_Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.login.activity.WelcomeActivity'.(ïç·üÿÿÿÿ8‘ï˜í.
+R
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8‘ï˜í.
+F
+java:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘ï˜í.
+q
+java:S2095‡"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ˆ’Äåıÿÿÿÿ8‘ï˜í.
+s	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘˜Âøÿÿÿÿ8‘ï˜í.
+F
+java:S1148º"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘ï˜í.
+
+java:S1128 "]Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.login.activity.LoginActivity'.(»õÍ¦øÿÿÿÿ8‘ï˜í.
+b
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(ğÑµÿ8‘ï˜í.
+m	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ú÷q8‘ï˜í.
+D
+java:S1905‘"&Remove this unnecessary cast to "int".(ÿæš8‘ï˜í.
+]	java:S1259"<This block of commented-out lines of code should be removed.(ò…øÿÿÿÿ8‘ï˜í.
+]	java:S125;"<This block of commented-out lines of code should be removed.(ÑšœÊüÿÿÿÿ8‘ï˜í.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÄÛ¬8‘ï˜í.

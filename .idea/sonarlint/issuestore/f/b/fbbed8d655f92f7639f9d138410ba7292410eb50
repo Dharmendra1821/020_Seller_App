@@ -1,0 +1,11 @@
+
+ˆ"squid:ClassVariableVisibilityCheck"UMake productid a static final constant or non-public and provide accessors if needed.(¬ÈÉ‘ıÿÿÿÿ
+Ysquid:S00107"AConstructor has 9 parameters, which is greater than 7 authorized.(Ò¼¨ô
+‹"squid:ClassVariableVisibilityCheck"]Make productsmallimage a static final constant or non-public and provide accessors if needed.(ë´ê
+"squid:ClassVariableVisibilityCheckc"\Make productthumbnail a static final constant or non-public and provide accessors if needed.(ÖÇÄÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+„"squid:ClassVariableVisibilityCheckb"VMake productsku a static final constant or non-public and provide accessors if needed.(¦ÏäÃ
+Š"squid:ClassVariableVisibilityCheck"WMake producttype a static final constant or non-public and provide accessors if needed.(ƒĞ‰ úÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"XMake productimage a static final constant or non-public and provide accessors if needed.(ÏİØ›
+Š"squid:ClassVariableVisibilityCheck"WMake productname a static final constant or non-public and provide accessors if needed.(Ñİ¶æüÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheck"XMake productprice a static final constant or non-public and provide accessors if needed.(Ì¦Ä”úÿÿÿÿ

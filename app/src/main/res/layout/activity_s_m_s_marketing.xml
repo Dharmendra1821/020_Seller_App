@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".seller_app.activity.SMSMarketingActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Select SMS Template"
+        android:textSize="16dp"
+        android:textColor="@color/colorBlack"
+        android:layout_marginLeft="10dp">
+
+    </TextView>
+
+    <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+        android:id="@+id/sms_template"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#333"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="14dp"
+        android:text="Select SMS Template">
+
+    </com.toptoche.searchablespinnerlibrary.SearchableSpinner>
+    
+    <TextView
+        android:id="@+id/sms_marketing_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/colorBlack"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+
+    </TextView>
+
+    <EditText
+    android:id="@+id/sms_marketing_location"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Location"
+    android:layout_marginTop="20dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp">
+     </EditText>
+
+    <EditText
+        android:id="@+id/sms_marketing_productname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Product Name"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+    </EditText>
+
+    <EditText
+        android:id="@+id/sms_marketing_discount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Discount"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+    </EditText>
+
+    <LinearLayout
+        android:id="@+id/sms_marketing_datelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/sms_marketing_date"
+            android:layout_marginTop="20dp"
+            android:textSize="16dp"
+            android:hint="Date">
+        </TextView>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:src="@mipmap/ic_calendar">
+
+        </ImageView>
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/sms_separator"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@color/colorBlack"
+        ></View>
+
+    <LinearLayout
+        android:id="@+id/sms_marketing_timelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/sms_marketing_time"
+            android:layout_marginTop="20dp"
+            android:textSize="16dp"
+            android:hint="Time">
+        </TextView>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:src="@mipmap/ic_calendar">
+
+        </ImageView>
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/sms_marketing_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Message"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+    </EditText>
+
+    <EditText
+        android:id="@+id/sms_marketing_shopurl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Shop Url"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+    </EditText>
+
+    <Button
+        android:id="@+id/sms_template_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/colorWhite"
+        android:text="Next"
+        android:background="@color/new_btn_color"
+        android:layout_marginLeft="10dp">
+
+
+    </Button>
+</androidx.appcompat.widget.LinearLayoutCompat>

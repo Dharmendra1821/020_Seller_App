@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="400dp"
+    android:layout_height="500dp"
+    android:orientation="vertical"
+    tools:context=".add_new_product.activities.ExpandableListviewActivity">
+
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:orientation="vertical"-->
+<!--        android:weightSum="3">-->
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="20dp">
+
+        <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+            android:id="@+id/category_level_1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="10dp"
+
+            android:padding="5dp"
+            />
+
+        <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+            android:id="@+id/category_level_2"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="20dp"
+
+            android:padding="5dp"
+            />
+        </LinearLayout>
+        <ExpandableListView
+            android:id="@+id/product_expandablelistview"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="2.7"
+            android:visibility="gone"
+            android:divider="#FFBFC6C3"
+            ></ExpandableListView>
+
+
+        <Button
+            android:id="@+id/product_category_submit"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Next"
+
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:textSize="18dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#333"/>
+
+
+
+
+    </LinearLayout>
+
+
+<!--</LinearLayout>-->

@@ -1,0 +1,100 @@
+
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óŞÈÔşÿÿÿÿ
+s
+java:S11281"WRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.BASE_URL'.(Œ°Á98ÁÉğœş/
+†
+java:S1128&"qRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.MyProductListActivity'.(üÁÄ8
+]
+java:S1128"BRemove this unused import 'com.android.volley.DefaultRetryPolicy'.(š à«ùÿÿÿÿ
+s
+java:S11282"VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant.SKU_URL'.(¯±¢™8«¬’ì.
+w
+java:S1128+"aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ComplaintsModel'.(»ã”í
+t
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ãÂşøÿÿÿÿ
+=
+java:S1168Ê"&Return an empty array instead of null.(¥¹ï
+^	java:S125"<This block of commented-out lines of code should be removed.(¼ˆ¤øÿÿÿÿ8¥ª¯’ì.
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(ã’Éâ
+^	java:S125“"<This block of commented-out lines of code should be removed.(ÿûúÁûÿÿÿÿ8ÁÉğœş/
+?
+java:S1148æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Y	java:S125è"<This block of commented-out lines of code should be removed.(ôöªİ8ÁÉğœş/
+R	java:S125¶"<This block of commented-out lines of code should be removed.(ã’Éâ
+?	java:S108ª")Either remove or fill this block of code.(”ı¾
+R	java:S125´"<This block of commented-out lines of code should be removed.(ßê‰À
+D
+java:S1905É"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+D
+java:S1604õ"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ
+Q
+java:S1117“":Rename "status" which hides the field declared at line 64.(Í¤ª˜
+?
+java:S1148®"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+^
+java:S1192“"GDefine a constant instead of duplicating this literal "status" 4 times.(Í¤ª˜
+>
+java:S1604³"(Make this anonymous inner class a lambda(²» g
+g	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‰ÇÃ
+^	java:S125ë"<This block of commented-out lines of code should be removed.(ÂÖ„ˆûÿÿÿÿ8ÛšÔ’ì.
+J
+java:S1481’",Remove this unused "shopUrl" local variable.(¦ØÚî8ÁÉğœş/
+
+java:S1128)"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.ComplaintsAdapter'.(ÓÑªûÿÿÿÿ
+Q
+java:S1117ü":Rename "status" which hides the field declared at line 64.(Í¤ª˜
+k
+java:S1192ˆ"ODefine a constant instead of duplicating this literal "Please wait..." 3 times.(÷Šşİøÿÿÿÿ
+Q
+java:S1117¥":Rename "status" which hides the field declared at line 64.(Í¤ª˜
+D
+java:S1905Ò"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(”ı¾
+_
+java:S1192|"IDefine a constant instead of duplicating this literal "shop_url" 3 times.(¦ØÚî
+?
+java:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+X	java:S125}"<This block of commented-out lines of code should be removed.(¢«ü¼8ÁÉğœş/
+R	java:S125ä"<This block of commented-out lines of code should be removed.(ƒ¤œœ
+l	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¯®úÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ
+J
+java:S1481ç",Remove this unused "shopUrl" local variable.(¦ØÚî8ÁÉğœş/
+R	java:S125‹"<This block of commented-out lines of code should be removed.(ßê‰À
+I
+java:S1481|",Remove this unused "shopUrl" local variable.(¦ØÚî8ÁÉğœş/
+D
+java:S1604Œ"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ
+F
+java:S1144Ï"0Remove this unused private "checkParams" method.(©¸ìG
+b
+java:S1192Ç"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(§ßŞÕúÿÿÿÿ
+œ
+java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+
+java:S1128'"rRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.AddNewProductListAdapter'.(·§óôşÿÿÿÿ
+=
+java:S1168¡"&Return an empty array instead of null.(¥¹ï
+F
+java:S1144¦"0Remove this unused private "checkParams" method.(©¸ìG
+K
+java:S1172z"/Remove this unused method parameter "sellerId".(å±8ÁÉğœş/
+>
+java:S1604±"(Make this anonymous inner class a lambda(²» g
+>
+java:S1604ˆ"(Make this anonymous inner class a lambda(²» g
+F
+java:S1144Æ"0Remove this unused private "checkParams" method.(©¸ìG
+u
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(ßê‰À
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(ã’Éâ
+g
+java:S3776z"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(å±
+V	java:S125n"<This block of commented-out lines of code should be removed.(³§ˆ›üÿÿÿÿ
+D
+java:S1905©"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+c
+java:S1192…"GDefine a constant instead of duplicating this literal "Url..." 5 times.(òì£Ğùÿÿÿÿ
+R	java:S125„"<This block of commented-out lines of code should be removed.(ƒ¤œœ

@@ -1,0 +1,14 @@
+
+Z
+java:S1481±"7Remove this unused "sharedPreferences1" local variable.(Ï­Ûëùÿÿÿÿ8¡›÷Áê.
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(¬ùà–8¡›÷Áê.
+t
+java:S1192˜"QDefine a constant instead of duplicating this literal "Request Data ===" 4 times.(úÊ…Œûÿÿÿÿ8¡›÷Áê.
+m
+java:S1192v"KDefine a constant instead of duplicating this literal "StandAlone" 4 times.(æ¹¸Îøÿÿÿÿ8¡›÷Áê.
+n
+java:S1104!"QMake login a static final constant or non-public and provide accessors if needed.(„£”›8¡›÷Áê.
+{
+java:S11045"YMake loginResponse a static final constant or non-public and provide accessors if needed.(‰ëÂ«øÿÿÿÿ8¡›÷Áê.
+c
+java:S1117¡"ERename "sharedPreferences" which hides the field declared at line 41.(€¿«Ú8¡›÷Áê.

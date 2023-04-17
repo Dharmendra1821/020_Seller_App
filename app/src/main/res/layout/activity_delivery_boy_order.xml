@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f8f8fa"
+    tools:context=".add_new_product.activities.DeliveryBoyOrderActivity">
+
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:visibility="gone"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/un_assigned"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Un Assigned"
+            android:textColor="@color/new_btn_color"
+            android:textSize="16dp"
+             />
+
+        <RadioButton
+            android:id="@+id/assigned"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/new_btn_color"
+            android:textSize="16dp"
+            android:layout_marginLeft="10dp"
+            android:text="Assign" />
+
+    </RadioGroup>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp">
+
+        <!-- ListView -->
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/delivery_boy_recyclerview"
+            android:layout_above="@id/loadItemsLayout_recyclerView"
+            android:layout_margin="10dp">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+        <!-- include progress layout that will be displayed while loading more data -->
+        <!-- initially it is hidden -->
+
+        <include
+            android:id="@+id/loadItemsLayout_recyclerView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:visibility="gone"
+            layout="@layout/progress_layout"
+            />
+
+        <Button
+            android:id="@+id/assign_delivery_boy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:text="Assign"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="40dp"
+            android:visibility="gone"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_above="@+id/loadItemsLayout_recyclerView"
+            android:background="@drawable/add_cart_background"/>
+
+
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,33 @@
+
+ 
+java:S1319."‚The type of the "addProductListingModels" object should be an interface such as "List" rather than the implementation "ArrayList".(ù¨Ğ8˜”Ö„å.
+
+java:S41651"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà8˜”Ö„å.
+„
+java:S14888"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ8˜”Ö„å.
+W
+java:S1128
+"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8˜”Ö„å.
+V
+java:S1128"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8˜”Ö„å.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8˜”Ö„å.
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8˜”Ö„å.
+X
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8˜”Ö„å.
+‹
+java:S1128"iRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.AddNewProductModel'.(Ú€‰åûÿÿÿÿ8˜”Ö„å.
+T
+java:S1128	"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8˜”Ö„å.
+‰
+java:S1128"gRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.MyOrderListModel'.(¢™òĞûÿÿÿÿ8˜”Ö„å.
+p
+java:S1128"NRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant'.(°ÆËéøÿÿÿÿ8˜”Ö„å.
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8˜”Ö„å.
+u	java:S116i"YRename this field "payment_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùğ™‘8˜”Ö„å.
+p	java:S116l"TRename this field "cust_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‰Ã·8˜”Ö„å.
+t	java:S116m"SRename this field "order_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜ¶¨ıÿÿÿÿ8˜”Ö„å.
+S
+java:S2696~"6Make the enclosing method "static" or remove this set.(¹ŠÄ8˜”Ö„å.

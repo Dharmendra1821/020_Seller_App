@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".qpos_login.activity.SelectMPOSDeviceActivity"
+    android:orientation="vertical"
+    android:background="@drawable/home_bg">
+
+
+    <androidx.legacy.widget.Space
+        android:layout_width="0dp"
+        android:layout_height="30dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/email_screen_logo"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Do you have an MPOS Device?"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="25dp"/>
+
+
+    <Button
+        android:id="@+id/mpos_device_yes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/new_login_button"
+        android:textColor="@color/colorWhite"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:text="Yes"
+        android:textAllCaps="false"/>
+
+
+    <Button
+        android:id="@+id/mpos_device_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/new_login_button"
+        android:textColor="@color/colorWhite"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:text="No"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

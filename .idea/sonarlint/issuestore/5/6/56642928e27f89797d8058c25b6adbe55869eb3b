@@ -1,0 +1,55 @@
+
+^	java:S125Ö"<This block of commented-out lines of code should be removed.(ô¡ûÔùÿÿÿÿ8ÆŸÃ»Á/
+r
+java:S1104…"TMake mPicture a static final constant or non-public and provide accessors if needed.(‚òúó8ÆŸÃ»Á/
+c
+java:S2147¤"ECombine this catch with the one at line 162, which has the same body.(ï­£Ä8ÆŸÃ»Á/
+v	java:S116C"ZRename this field "surface_layout1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èˆ¾›8ÆŸÃ»Á/
+Y	java:S125Ä"<This block of commented-out lines of code should be removed.( ØÊÁ8ÆŸÃ»Á/
+F
+java:S1148Ó"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÆŸÃ»Á/
+F	java:S108¤")Either remove or fill this block of code.(ï­£Ä8ÆŸÃ»Á/
+^	java:S125Ô"<This block of commented-out lines of code should be removed.(ªïˆòûÿÿÿÿ8ÆŸÃ»Á/
+D	java:S131Í""Add a default case to this switch.(×ö³–úÿÿÿÿ8ÆŸÃ»Á/
+q
+java:S1104<"TMake fragment a static final constant or non-public and provide accessors if needed.(¢ø÷õ8ÆŸÃ»Á/
+q
+java:S2095›"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(±éÔýÿÿÿÿ8ÆŸÃ»Á/
+F	java:S108¸")Either remove or fill this block of code.(”ý¾8ÆŸÃ»Á/
+X
+java:S2209À"5Change this instance-reference to a static reference.(žˆ›ÿÿÿÿÿ8ÆŸÃ»Á/
+?	java:S131À""Add a default case to this switch.(ŽºÖ8ÆŸÃ»Á/
+i
+java:S1301À"KReplace this "switch" statement by "if" statements to increase readability.(ŽºÖ8ÆŸÃ»Á/
+S
+java:S2696N"6Make the enclosing method "static" or remove this set.(Œüüé8ÆŸÃ»Á/
+k	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äµÐ½8ÆŸÃ»Á/
+K
+java:S1604ž"(Make this anonymous inner class a lambda(„Á­ÿÿÿÿÿ8ÆŸÃ»Á/
+S
+java:S2696T"6Make the enclosing method "static" or remove this set.(÷þ–ß8ÆŸÃ»Á/
+^	java:S125ü"<This block of commented-out lines of code should be removed.(ÛÎææþÿÿÿÿ8ÆŸÃ»Á/
+F	java:S108•")Either remove or fill this block of code.(”ý¾8ÆŸÃ»Á/
+R
+java:S1066·"/Merge this if statement with the enclosing one.(Çü»ßûÿÿÿÿ8ÆŸÃ»Á/
+K
+java:S1444<".Make this "public static fragment" field final(¢ø÷õ8ÆŸÃ»Á/
+y
+java:S1450>"WRemove the "mPreview" field and declare it as a local variable in the relevant methods.(³°»óúÿÿÿÿ8ÆŸÃ»Á/
+n
+java:S1301Í"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8ÆŸÃ»Á/
+J
+java:S1659D"(Declare "saveBitmap" on a separate line.(’·ÏÐøÿÿÿÿ8ÆŸÃ»Á/
+v	java:S116C"ZRename this field "surface_layout2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èˆ¾›8ÆŸÃ»Á/
+f
+java:S1192h"IDefine a constant instead of duplicating this literal "position" 3 times.(Ï…¦ø8ÆŸÃ»Á/
+V
+java:S1172M"9Remove this unused method parameter "savedInstanceState".(«ÃÀ÷8ÆŸÃ»Á/
+J
+java:S1659C"-Declare "surface_layout2" on a separate line.(Èˆ¾›8ÆŸÃ»Á/
+H
+java:S1659?"&Declare "advanced" on a separate line.(à¥‡Òøÿÿÿÿ8ÆŸÃ»Á/
+F	java:S108¢")Either remove or fill this block of code.(‹±ÃÆ8ÆŸÃ»Á/
+^
+java:S1068J"ARemove this unused "REQUEST_EXTERNAL_STORAGE_CODE" private field.(àÎÑÛ8ÆŸÃ»Á/
+^	java:S125ö"<This block of commented-out lines of code should be removed.(ëç§Äûÿÿÿÿ8ÆŸÃ»Á/

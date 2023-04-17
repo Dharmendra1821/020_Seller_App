@@ -1,0 +1,313 @@
+
+
+java:S1319„"pThe type of the "skuId" object should be an interface such as "List" rather than the implementation "ArrayList".(ÃçÓ÷8ë·˜¾ù/
+M
+java:S5411ù"*Use the primitive boolean expression here.(©Ş“êûÿÿÿÿ8÷ˆ¾ù/
+o
+java:S1192é"RDefine a constant instead of duplicating this literal "CustomerAddressId" 3 times.(§ÁÙs8ë·˜¾ù/
+k	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›îç8÷ˆ¾ù/
+d
+java:S1117À"FRename "CustomerAddressId" which hides the field declared at line 153.(›¥Ó8÷ˆ¾ù/
+o
+java:S1192ø"QDefine a constant instead of duplicating this literal "CUSTOMIZE BUNDLE" 4 times.(òœœ†8÷ˆ¾ù/
+I
+java:S1444„"+Make this "public static skuId" field final(ÃçÓ÷8ë·˜¾ù/
+k
+java:S1192"HDefine a constant instead of duplicating this literal "Bearer " 3 times.(ÍŒŠ‘ùÿÿÿÿ8÷ˆ¾ù/
+s	java:S117Î
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†şö¸øÿÿÿÿ8÷ˆ¾ù/
+`
+java:S1117À"BRename "ProductCartId" which hides the field declared at line 153.(›¥Ó8ë·˜¾ù/
+j
+java:S1192à"GDefine a constant instead of duplicating this literal "bundle" 6 times.(üœ¿×ıÿÿÿÿ8÷ˆ¾ù/
+i
+java:S1117Ë
+"FRename "sharedPreferences" which hides the field declared at line 156.(½¸¶üùÿÿÿÿ8÷ˆ¾ù/
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(¨¢²éøÿÿÿÿ8÷ˆ¾ù/
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(ÉâÈñşÿÿÿÿ8÷ˆ¾ù/
+K
+java:S1481é"-Remove this unused "required" local variable.(Ù®àÁ8÷ˆ¾ù/
+M
+java:S1659À"/Declare "CustomerAddressId" on a separate line.(›¥Ó8÷ˆ¾ù/
+q
+java:S1192à"NDefine a constant instead of duplicating this literal "ProductCartId" 3 times.(Èö¶ãûÿÿÿÿ8‰Ü¡¾ù/
+l
+java:S1192ç"NDefine a constant instead of duplicating this literal "SubCategoryId" 3 times.(Íìßş8÷ˆ¾ù/
+w
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÇşÛ8÷ˆ¾ù/
+‰
+java:S11285"lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerProductCartRequest'.(Ü†Ôê8÷ˆ¾ù/
+T
+java:S1481À"6Remove this unused "CustomerAddressId" local variable.(›¥Ó8ë·˜¾ù/
+‡
+java:S11284"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerProductCart'.(é¬Óüøÿÿÿÿ8÷ˆ¾ù/
+h
+java:S1301¸
+"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8÷ˆ¾ù/
+v	java:S116b"URename this field "BundleList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚šğŞÿÿÿÿÿ8÷ˆ¾ù/
+^	java:S125·"<This block of commented-out lines of code should be removed.(«Éæÿÿÿÿÿ8÷ˆ¾ù/
+E
+java:S1659"'Declare "youremail" on a separate line.(€°Œ8÷ˆ¾ù/
+J
+java:S1659"'Declare "paybutton" on a separate line.(ÚŞâ¯úÿÿÿÿ8÷ˆ¾ù/
+f
+java:S1117½"CRename "mCartItemCount" which hides the field declared at line 150.(÷ºÊšøÿÿÿÿ8ë·˜¾ù/
+]
+java:S1117À"?Rename "CustomerId" which hides the field declared at line 153.(›¥Ó8ë·˜¾ù/
+H
+java:S1659¢"*Declare "textquantity" on a separate line.(À×ğÅ8÷ˆ¾ù/
+M
+java:S1066é
+"/Merge this if statement with the enclosing one.(³Öû¨8÷ˆ¾ù/
+b
+java:S1117¾"?Rename "CategoryId" which hides the field declared at line 151.(‘ÅÆùÿÿÿÿ8ë·˜¾ù/
+M
+java:S1659”"*Declare "revdownarrow" on a separate line.(Ì‘“øÿÿÿÿ8÷ˆ¾ù/
+\
+java:S1155«">Use isEmpty() to check whether the collection is empty or not.(µÒŠé8÷ˆ¾ù/
+[
+java:S1117Ÿ"8Rename "id1" which hides the field declared at line 100.(½«¾µÿÿÿÿÿ8÷ˆ¾ù/
+B
+java:S1659Œ"$Declare "review" on a separate line.(©·»˜8ë·˜¾ù/
+L
+java:S1659Œ".Declare "Mainlinearlayout" on a separate line.(©·»˜8ë·˜¾ù/
+–
+java:S1319…"xThe type of the "groupQunatity" object should be an interface such as "List" rather than the implementation "ArrayList".(ÜÙ®²8÷ˆ¾ù/
+B
+java:S1659‘"$Declare "goback" on a separate line.(µØó8÷ˆ¾ù/
+c
+java:S1117Á"FRename "textCartItemCount" which hides the field declared at line 149.(µ•Æ=8÷ˆ¾ù/
+S
+java:S1481Á"6Remove this unused "textCartItemCount" local variable.(µ•Æ=8÷ˆ¾ù/
+V
+java:S1481½"3Remove this unused "mCartItemCount" local variable.(÷ºÊšøÿÿÿÿ8ë·˜¾ù/
+s	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Áÿßıÿÿÿÿ8÷ˆ¾ù/
+E
+java:S1659"'Declare "yourquery" on a separate line.(€°Œ8÷ˆ¾ù/
+F
+java:S1604½"(Make this anonymous inner class a lambda(°âï8÷ˆ¾ù/
+;
+java:S2386…"Make this member "protected".(ÜÙ®²8Üåûˆ0
+Q
+java:S1481".Remove this unused "authToken" local variable.(ÍŒŠ‘ùÿÿÿÿ8÷ˆ¾ù/
+[
+java:S1481Ï
+"8Remove this unused "productCartResponse" local variable.(€Ùì±şÿÿÿÿ8÷ˆ¾ù/
+s	java:S116"QRename this field "Submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŞâ¯úÿÿÿÿ8÷ˆ¾ù/
+p
+java:S1192Œ"MDefine a constant instead of duplicating this literal "Unauthorised" 4 times.(™Í²ªøÿÿÿÿ8÷ˆ¾ù/
+S
+java:S1874˜
+"5Remove this use of "getActionView"; it is deprecated.(’·›8÷ˆ¾ù/
+P
+java:S1481À"2Remove this unused "ProductCartId" local variable.(›¥Ó8ë·˜¾ù/
+I
+java:S1659‘"+Declare "contactseller" on a separate line.(µØó8÷ˆ¾ù/
+¤
+java:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œƒƒ©ùÿÿÿÿ8÷ˆ¾ù/
+Y	java:S125Ö"<This block of commented-out lines of code should be removed.(ŞÍªÈ8÷ˆ¾ù/
+l
+java:S1192²"IDefine a constant instead of duplicating this literal "https://" 6 times.(ç‡ˆëüÿÿÿÿ8÷ˆ¾ù/
+{
+java:S1192¡"XDefine a constant instead of duplicating this literal "Product Json Uniform== " 4 times.(£áşŒùÿÿÿÿ8÷ˆ¾ù/
+E
+java:S1659‘"'Declare "fromprice" on a separate line.(µØó8÷ˆ¾ù/
+y	java:S116™"\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8÷ˆ¾ù/
+F
+java:S1604£"(Make this anonymous inner class a lambda(°âï8÷ˆ¾ù/
+d
+java:S1117Ô"FRename "sharedPreferences" which hides the field declared at line 156.( í»ÿ8÷ˆ¾ù/
+H
+java:S1659]"+Declare "recyclerView4" on a separate line.(³Ì8÷ˆ¾ù/
+F
+java:S1659“"#Declare "icard" on a separate line.(´ïåüÿÿÿÿ8ë·˜¾ù/
+N
+java:S1659”"+Declare "infodownarrow" on a separate line.(Ì‘“øÿÿÿÿ8ë·˜¾ù/
+C
+java:S1659‘"%Declare "toprice" on a separate line.(µØó8÷ˆ¾ù/
+I
+java:S1659™"+Declare "ProductCartId" on a separate line.(›¥Ó8÷ˆ¾ù/
+F
+java:S1659“"#Declare "rcard" on a separate line.(´ïåüÿÿÿÿ8ë·˜¾ù/
+w
+java:S1104…"YMake groupQunatity a static final constant or non-public and provide accessors if needed.(ÜÙ®²8÷ˆ¾ù/
+s	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÜ¿üÿÿÿÿ8÷ˆ¾ù/
+w	java:S116—"URename this field "CategoryId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÅÆùÿÿÿÿ8ë·˜¾ù/
+F
+java:S1604	"(Make this anonymous inner class a lambda(°âï8÷ˆ¾ù/
+w
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ğ°Ò8÷ˆ¾ù/
+|
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÔè˜ùÿÿÿÿ8Üåûˆ0
+L
+java:S1905î	")Remove this unnecessary cast to "String".(¼ÿ¶İúÿÿÿÿ8÷ˆ¾ù/
+i
+java:S1117å
+"FRename "sharedPreferences" which hides the field declared at line 156.(½¸¶üùÿÿÿÿ8÷ˆ¾ù/
+H
+java:S1659]"+Declare "recyclerView1" on a separate line.(³Ì8÷ˆ¾ù/
+g
+java:S1192±"IDefine a constant instead of duplicating this literal "shop_url" 5 times.(¦ØÚî8ë·˜¾ù/
+^	java:S125€"<This block of commented-out lines of code should be removed.(‹Ùûÿÿÿÿ8÷ˆ¾ù/
+c
+java:S1124´"EReorder the modifiers to comply with the Java Language Specification.(Ò÷Š8÷ˆ¾ù/
+c
+java:S1117Á"FRename "cartCountTextView" which hides the field declared at line 149.(µ•Æ=8÷ˆ¾ù/
+|
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºêÅšüÿÿÿÿ8÷ˆ¾ù/
+s	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ì¾õúÿÿÿÿ8÷ˆ¾ù/
+o	java:S116~"NRename this field "Min" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¼Àııÿÿÿÿ8÷ˆ¾ù/
+M
+java:S1659‘"/Declare "customizetextview" on a separate line.(µØó8÷ˆ¾ù/
+|
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü÷‡åşÿÿÿÿ8÷ˆ¾ù/
+E
+java:S1659‘"'Declare "fullprice" on a separate line.(µØó8÷ˆ¾ù/
+J
+java:S1659”"'Declare "imageView" on a separate line.(Ì‘“øÿÿÿÿ8÷ˆ¾ù/
+e
+java:S1117¿"BRename "SubCategoryId" which hides the field declared at line 152.(±Ì¾õúÿÿÿÿ8ë·˜¾ù/
+M
+java:S1659™"/Declare "CustomerAddressId" on a separate line.(›¥Ó8ë·˜¾ù/
+H
+java:S1659¢"*Declare "productskuid" on a separate line.(À×ğÅ8÷ˆ¾ù/
+@
+java:S1659¢""Declare "code" on a separate line.(À×ğÅ8÷ˆ¾ù/
+;
+java:S2386„"Make this member "protected".(ÃçÓ÷8÷ˆ¾ù/
+Q
+java:S1444…"3Make this "public static groupQunatity" field final(ÜÙ®²8÷ˆ¾ù/
+D
+java:S1659¢"&Declare "fullname" on a separate line.(À×ğÅ8÷ˆ¾ù/
+L
+java:S1659Á"/Declare "cartCountTextView" on a separate line.(µ•Æ=8÷ˆ¾ù/
+J
+java:S1481¸	",Remove this unused "shopUrl" local variable.(¦ØÚî8‰Ü¡¾ù/
+F
+java:S1659¢"(Declare "reviewname" on a separate line.(À×ğÅ8÷ˆ¾ù/
+M
+java:S1066õ
+"/Merge this if statement with the enclosing one.(±Á“ç8÷ˆ¾ù/
+L
+java:S1659”")Declare "infouparrow" on a separate line.(Ì‘“øÿÿÿÿ8÷ˆ¾ù/
+s	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Áÿßıÿÿÿÿ8÷ˆ¾ù/
+V
+java:S1128N"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8÷ˆ¾ù/
+C
+java:S1659¢"%Declare "InSTock" on a separate line.(À×ğÅ8÷ˆ¾ù/
+z	java:S116˜"XRename this field "SubCategoryId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ì¾õúÿÿÿÿ8ë·˜¾ù/
+^	java:S125¾	"<This block of commented-out lines of code should be removed.(¥ı¥ûÿÿÿÿ8‰Ü¡¾ù/
+V	java:S106…
+"9Replace this use of System.out or System.err by a logger.(ŸÏÍè8÷ˆ¾ù/
+R
+java:S1481¾"/Remove this unused "CategoryId" local variable.(‘ÅÆùÿÿÿÿ8÷ˆ¾ù/
+B
+java:S1659Œ"$Declare "detail" on a separate line.(©·»˜8ë·˜¾ù/
+n	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8÷ˆ¾ù/
+J
+java:S1659¡",Declare "quantitychange" on a separate line.(”¬£8ë·˜¾ù/
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Áÿßıÿÿÿÿ8÷ˆ¾ù/
+^
+java:S1117÷"@Rename "productLink" which hides the field declared at line 112.(Ö¿¤©8÷ˆ¾ù/
+D
+java:S1659"&Declare "yourname" on a separate line.(€°Œ8÷ˆ¾ù/
+I
+java:S1659À"+Declare "ProductCartId" on a separate line.(›¥Ó8÷ˆ¾ù/
+F
+java:S1659"#Declare "Reset" on a separate line.(ÚŞâ¯úÿÿÿÿ8÷ˆ¾ù/
+H
+java:S1659Œ"*Declare "containerLay" on a separate line.(©·»˜8÷ˆ¾ù/
+z	java:S116 "XRename this field "Customizecart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ô¿ìøÿÿÿÿ8÷ˆ¾ù/
+u	java:S116™"XRename this field "ProductCartId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8÷ˆ¾ù/
+y	java:S116¥"WRename this field "Productimage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ç«–ÿÿÿÿÿ8÷ˆ¾ù/
+n
+java:S1192ê"KDefine a constant instead of duplicating this literal "CustomerId" 3 times.(öƒ£¬ıÿÿÿÿ8÷ˆ¾ù/
+L
+java:S1905ï	")Remove this unnecessary cast to "String".(¸äŸÍûÿÿÿÿ8Üåûˆ0
+@
+java:S1659¢""Declare "size" on a separate line.(À×ğÅ8÷ˆ¾ù/
+H
+java:S5411ÿ"*Use the primitive boolean expression here.(ùÒŒì8÷ˆ¾ù/
+j
+java:S1192ß"LDefine a constant instead of duplicating this literal "StandAlone" 11 times.(Î´ı·8÷ˆ¾ù/
+n	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8÷ˆ¾ù/
+a
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(Ëè¯şÿÿÿÿ8÷ˆ¾ù/
+L
+java:S1659•"/Declare "cartCountTextView" on a separate line.(µ•Æ=8÷ˆ¾ù/
+w
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(†µú¶8÷ˆ¾ù/
+p
+java:S3776Â
+"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(‰Ìúñ8÷ˆ¾ù/
+o	java:S116¢"RRename this field "InSTock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À×ğÅ8÷ˆ¾ù/
+K
+java:S1659”"(Declare "revuparrow" on a separate line.(Ì‘“øÿÿÿÿ8÷ˆ¾ù/
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºêÅšüÿÿÿÿ8÷ˆ¾ù/
+U
+java:S1481Î
+"2Remove this unused "IsAllExecuted" local variable.(†şö¸øÿÿÿÿ8ë·˜¾ù/
+G
+java:S1659"$Declare "Submit" on a separate line.(ÚŞâ¯úÿÿÿÿ8÷ˆ¾ù/
+S
+java:S1481Á"6Remove this unused "cartCountTextView" local variable.(µ•Æ=8÷ˆ¾ù/
+U
+java:S1481ß
+"2Remove this unused "customerToken" local variable.(¤ÌŠ¬üÿÿÿÿ8Üåûˆ0
+Y	java:S125ı"<This block of commented-out lines of code should be removed.(³ŒÂƒ8÷ˆ¾ù/
+O
+java:S1659¤",Declare "quantityBundle" on a separate line.(ÓÀš¥üÿÿÿÿ8÷ˆ¾ù/
+t
+java:S1192"VDefine a constant instead of duplicating this literal "Internal server error" 4 times.(£©äŠ8÷ˆ¾ù/
+F
+java:S1604Õ"(Make this anonymous inner class a lambda(°âï8÷ˆ¾ù/
+[	java:S106ä	"9Replace this use of System.out or System.err by a logger.(û½¹Õşÿÿÿÿ8÷ˆ¾ù/
+s	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÅÆùÿÿÿÿ8ë·˜¾ù/
+n	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÈö—8÷ˆ¾ù/
+P
+java:S1659”"-Declare "detaildownarrow" on a separate line.(Ì‘“øÿÿÿÿ8÷ˆ¾ù/
+Q
+java:S1481¹".Remove this unused "authToken" local variable.(ÍŒŠ‘ùÿÿÿÿ8÷ˆ¾ù/
+y	java:S116‰"\Rename this field "Thumbnailimageurl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ§Ú¼8÷ˆ¾ù/
+o
+java:S1104„"QMake skuId a static final constant or non-public and provide accessors if needed.(ÃçÓ÷8ë·˜¾ù/
+x	java:S116Œ"[Rename this field "Mainlinearlayout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©·»˜8ë·˜¾ù/
+s	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÜ¿üÿÿÿÿ8÷ˆ¾ù/
+G
+java:S1659")Declare "yoursubject" on a separate line.(€°Œ8÷ˆ¾ù/
+N
+java:S1659 "+Declare "Customizecart" on a separate line.(›ô¿ìøÿÿÿÿ8÷ˆ¾ù/
+w
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ£âß8÷ˆ¾ù/
+F
+java:S1604ö"(Make this anonymous inner class a lambda(°âï8÷ˆ¾ù/
+u
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 92 to the 15 allowed.(˜‘¨öùÿÿÿÿ8÷ˆ¾ù/
+E
+java:S1659 ""Declare "qpay" on a separate line.(›ô¿ìøÿÿÿÿ8ë·˜¾ù/
+r	java:S116"PRename this field "Reset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŞâ¯úÿÿÿÿ8÷ˆ¾ù/
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(äÖ¤öşÿÿÿÿ8÷ˆ¾ù/
+p
+java:S1192¡"MDefine a constant instead of duplicating this literal "Product JSON" 5 times.(£áşŒùÿÿÿÿ8÷ˆ¾ù/
+|
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü÷‡åşÿÿÿÿ8÷ˆ¾ù/
+n	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8Üåûˆ0
+j
+java:S1192‰"LDefine a constant instead of duplicating this literal "Bad Request" 3 times.(™ÅŠÎ8‰Ü¡¾ù/
+s
+java:S1192’"UDefine a constant instead of duplicating this literal "Something went wrong" 5 times.(ó’¹”8÷ˆ¾ù/
+p
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(ã‰Ø½8÷ˆ¾ù/
+H
+java:S1659]"+Declare "recyclerView2" on a separate line.(³Ì8÷ˆ¾ù/
+\
+java:S1117
+"9Rename "size" which hides the field declared at line 162.(Óó¢äÿÿÿÿÿ8÷ˆ¾ù/
+Y	java:S125ü"<This block of commented-out lines of code should be removed.(­É‹8÷ˆ¾ù/
+Y	java:S125•"<This block of commented-out lines of code should be removed.(ôŠ¦Ç8÷ˆ¾ù/
+j
+java:S1192à"GDefine a constant instead of duplicating this literal "Bundle" 4 times.(üœ¿×ıÿÿÿÿ8÷ˆ¾ù/
+F
+java:S1604Ë"(Make this anonymous inner class a lambda(°âï8÷ˆ¾ù/
+r	java:S116™"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8÷ˆ¾ù/

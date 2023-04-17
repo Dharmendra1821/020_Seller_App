@@ -1,0 +1,154 @@
+
+K
+java:S1659W"/Declare "cartCountTextView" on a separate line.(µ•Æ=8œ™Ÿ½ù/
+^	java:S125È"<This block of commented-out lines of code should be removed.(¾Ü›Ùûÿÿÿÿ8«—ó¢ÿ/
+Q
+java:S1481Í".Remove this unused "custToken" local variable.(æ¾ øüÿÿÿÿ8Ì—¢½ù/
+^	java:S125²"<This block of commented-out lines of code should be removed.(™Ð±—þÿÿÿÿ8«—ó¢ÿ/
+^
+java:S1117ž"@Rename "productType" which hides the field declared at line 128.(ÐŽ¥ð8œ™Ÿ½ù/
+Ÿ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡Ý8œ™Ÿ½ù/
+c
+java:S1117ä"@Rename "productGson" which hides the field declared at line 103.(ûÿžñûÿÿÿÿ8Ì—¢½ù/
+F	java:S108°")Either remove or fill this block of code.(”ý¾8«—ó¢ÿ/
+Y
+java:S1068j"7Remove this unused "configProductModels" private field.(¤ø¤…ûÿÿÿÿ8éòš¬ð.
+q
+java:S1192Í"NDefine a constant instead of duplicating this literal "customerToken" 4 times.(æ¾ øüÿÿÿÿ8œ™Ÿ½ù/
+y	java:S116s"XRename this field "product_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÄÛ£üÿÿÿÿ8œ™Ÿ½ù/
+t
+java:S1192ð"VDefine a constant instead of duplicating this literal "Internal server error" 3 times.(Å›Ëç8Ì—¢½ù/
+R
+java:S1481Ì"/Remove this unused "adminToken" local variable.(¶òÏáúÿÿÿÿ8Óî¡½ù/
+[
+java:S1117œ"8Rename "sku" which hides the field declared at line 109.(òÎ‘¾ýÿÿÿÿ8«—ó¢ÿ/
+u	java:S116l"YRename this field "product_limage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¢–ˆ8œ™Ÿ½ù/
+t	java:S116["XRename this field "ProductCartId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8œ™Ÿ½ù/
+h
+java:S1301Å"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8Ì—¢½ù/
+K
+java:S1604­"(Make this anonymous inner class a lambda(ç³ìÇûÿÿÿÿ8Ì—¢½ù/
+Y	java:S125Õ"<This block of commented-out lines of code should be removed.(¡Õ±š8«—ó¢ÿ/
+F	java:S108í")Either remove or fill this block of code.(”ý¾8«—ó¢ÿ/
+F	java:S108º")Either remove or fill this block of code.(”ý¾8«—ó¢ÿ/
+I
+java:S1659l",Declare "product_simage" on a separate line.(Ì¢–ˆ8œ™Ÿ½ù/
+s	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†þö¸øÿÿÿÿ8«—ó¢ÿ/
+F	java:S108")Either remove or fill this block of code.(”ý¾8Ì—¢½ù/
+J
+java:S1481Œ",Remove this unused "shopUrl" local variable.(¦ØÚî8«—ó¢ÿ/
+q	java:S116["URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8œ™Ÿ½ù/
+J
+java:S1481Ò",Remove this unused "shopUrl" local variable.(¦ØÚî8«—ó¢ÿ/
+F	java:S108¡")Either remove or fill this block of code.(”ý¾8«—ó¢ÿ/
+]
+java:S1117š":Rename "price" which hides the field declared at line 118.(ãÜÚ±üÿÿÿÿ8«—ó¢ÿ/
+^	java:S125«"<This block of commented-out lines of code should be removed.(çÏï§ýÿÿÿÿ8«—ó¢ÿ/
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¶þ¦Óùÿÿÿÿ8«—ó¢ÿ/
+H
+java:S1659["+Declare "ProductCartId" on a separate line.(›¥Ó8œ™Ÿ½ù/
+v	java:S116Y"URename this field "CategoryId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÅÆùÿÿÿÿ8éòš¬ð.
+J
+java:S1481Å",Remove this unused "shopUrl" local variable.(¦ØÚî8Ì—¢½ù/
+X	java:S125Ò"<This block of commented-out lines of code should be removed.(•õ›X8«—ó¢ÿ/
+L
+java:S1659["/Declare "CustomerAddressId" on a separate line.(›¥Ó8œ™Ÿ½ù/
+[
+java:S1197º"8Move the array designator from the variable to the type.(Å¯³¦þÿÿÿÿ8Ì—¢½ù/
+‰
+java:S1128F"lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerProductCartRequest'.(Ü†Ôê8ˆÄŸ½ù/
+i
+java:S1192"KDefine a constant instead of duplicating this literal "StandAlone" 8 times.(Î´ý·8éòš¬ð.
+^	java:S125¿"<This block of commented-out lines of code should be removed.(¬ƒç¥üÿÿÿÿ8œ™Ÿ½ù/
+\
+java:S1155÷">Use isEmpty() to check whether the collection is empty or not.(˜“ü˜8ª•ƒÜû/
+^	java:S125é"<This block of commented-out lines of code should be removed.(Ý¯ü¾úÿÿÿÿ8Ì—¢½ù/
+k
+java:S1192ž"HDefine a constant instead of duplicating this literal "Bearer " 3 times.(¤ÌŠ¬üÿÿÿÿ8Ì—¢½ù/
+^	java:S125ó"<This block of commented-out lines of code should be removed.(€Û¹ãýÿÿÿÿ8«—ó¢ÿ/
+t	java:S116u"XRename this field "display_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°è…õ8œ™Ÿ½ù/
+^	java:S125ç"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8«—ó¢ÿ/
+x	java:S116["\Rename this field "CustomerAddressId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥Ó8œ™Ÿ½ù/
+y	java:S116Z"XRename this field "SubCategoryId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ì¾õúÿÿÿÿ8éòš¬ð.
+u	java:S116l"YRename this field "product_simage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¢–ˆ8œ™Ÿ½ù/
+‡
+java:S1128E"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerProductCart'.(é¬Óüøÿÿÿÿ8œ™Ÿ½ù/
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(£©È‘8«—ó¢ÿ/
+n
+java:S1192°"KDefine a constant instead of duplicating this literal "CustomerId" 4 times.(öƒ£¬ýÿÿÿÿ8œ™Ÿ½ù/
+b
+java:S1124f"EReorder the modifiers to comply with the Java Language Specification.(˜Õ©Î8œ™Ÿ½ù/
+S
+java:S1874¥"5Remove this use of "getActionView"; it is deprecated.(’·›8Ì—¢½ù/
+g
+java:S1068f"JRemove this unused "SHARED_PREFERENCES_FILE_USER_INFO_LIST" private field.(˜Õ©Î8œ™Ÿ½ù/
+^	java:S125ä"<This block of commented-out lines of code should be removed.(ßÊÄ’üÿÿÿÿ8«—ó¢ÿ/
+q
+java:S1192Ž"NDefine a constant instead of duplicating this literal "ProductCartId" 5 times.(Èö¶ãûÿÿÿÿ8œ™Ÿ½ù/
+^
+java:S1117"@Rename "productName" which hides the field declared at line 113.(Õ©‹²8éòš¬ð.
+^
+java:S1117ð"@Rename "productGson" which hides the field declared at line 103.(÷ê‚ê8«—ó¢ÿ/
+^	java:S125™"<This block of commented-out lines of code should be removed.(Žü‡ñøÿÿÿÿ8œ™Ÿ½ù/
+l
+java:S1192­"NDefine a constant instead of duplicating this literal "SubCategoryId" 3 times.(Íìßþ8œ™Ÿ½ù/
+^	java:S125Ë"<This block of commented-out lines of code should be removed.(»¤†üÿÿÿÿ8«—ó¢ÿ/
+A
+java:S1148‡"#Use a logger to log this exception.(Ç’Çê8«—ó¢ÿ/
+U
+java:S1481Ë"2Remove this unused "IsAllExecuted" local variable.(†þö¸øÿÿÿÿ8«—ó¢ÿ/
+^
+java:S1117Ü"@Rename "productGson" which hides the field declared at line 103.(æ¬†8«—ó¢ÿ/
+t	java:S116r"YRename this field "config_proname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¾Ÿ
+8éòš¬ð.
+Œ
+java:S1128?"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.fragments.BottomSheeetFragment'.(®‹š‰üÿÿÿÿ8ÔöšÇñ.
+F
+java:S1481±"(Remove this unused "ctx" local variable.(›ëíÏ8Ì—¢½ù/
+v
+java:S1192Û"XDefine a constant instead of duplicating this literal "Product Json Uniform== " 4 times.(ËíÜä8Ì—¢½ù/
+U
+java:S1481Þ"2Remove this unused "customerToken" local variable.(¤ÌŠ¬üÿÿÿÿ8”õûˆ0
+^	java:S125¶"<This block of commented-out lines of code should be removed.(–È·Çüÿÿÿÿ8”õûˆ0
+L
+java:S1068e"0Remove this unused "firstConnect" private field.(ç¿½Y8éòš¬ð.
+Y	java:S125¹"<This block of commented-out lines of code should be removed.(âÁïÆ8«—ó¢ÿ/
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(Ìü®ê8«—ó¢ÿ/
+
+java:S11285"bRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.MainRequest'.(õ÷±Ä8éòš¬ð.
+s	java:S117Ý"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÁó€ÿÿÿÿÿ8Ì—¢½ù/
+n
+java:S1192¬"KDefine a constant instead of duplicating this literal "CategoryId" 3 times.(Ð©…Ýúÿÿÿÿ8¿¨ò¢ÿ/
+h
+java:S1117È"ERename "sharedPreferences" which hides the field declared at line 94.(½¸¶üùÿÿÿÿ8«—ó¢ÿ/
+p
+java:S1192í"MDefine a constant instead of duplicating this literal "Unauthorised" 3 times.(â§…ˆÿÿÿÿÿ8Ì—¢½ù/
+^	java:S125á"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8«—ó¢ÿ/
+x
+java:S1192ó"UDefine a constant instead of duplicating this literal "Something went wrong" 5 times.(„Óä¤þÿÿÿÿ8Ì—¢½ù/
+T
+java:S2696€"6Make the enclosing method "static" or remove this set.(æïôí8ª•ƒÜû/
+c
+java:S1117ø"@Rename "productGson" which hides the field declared at line 103.(œÃÏ´üÿÿÿÿ8«—ó¢ÿ/
+[
+java:S1481Ì"8Remove this unused "productCartResponse" local variable.(€Ùì±þÿÿÿÿ8œ™Ÿ½ù/
+Y
+java:S1068k"7Remove this unused "productSizeDBModels" private field.(Ê¥Àþÿÿÿÿ8œ™Ÿ½ù/
+u
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(¿¼®Ðÿÿÿÿÿ8Ì—¢½ù/
+o
+java:S1192¯"RDefine a constant instead of duplicating this literal "CustomerAddressId" 4 times.(§ÁÙs8éòš¬ð.
+N
+java:S1128
+",Remove this unused import 'android.net.Uri'.(òêû‘ýÿÿÿÿ8ÔöšÇñ.
+J
+java:S1481è",Remove this unused "shopUrl" local variable.(¦ØÚî8µŸ¤¾ù/
+X	java:S125Ã"<This block of commented-out lines of code should be removed.(†“È8”õûˆ0
+g
+java:S1192Ò"IDefine a constant instead of duplicating this literal "shop_url" 5 times.(¦ØÚî8œ™Ÿ½ù/
+k
+java:S1192Û"MDefine a constant instead of duplicating this literal "Product JSON" 4 times.(ËíÜä8Ì—¢½ù/
+X
+java:S1481º"5Remove this unused "userInfoDtoArray" local variable.(Å¯³¦þÿÿÿÿ8Ì—¢½ù/
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(ä¢§Œ8«—ó¢ÿ/

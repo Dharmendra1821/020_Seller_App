@@ -1,0 +1,216 @@
+
+r
+java:S1192Ú"ODefine a constant instead of duplicating this literal "Please wait..." 7 times.(÷Šşİøÿÿÿÿ8–íìŞÀ/
+ƒ
+java:S1192ƒ"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 7 times.(Š¥Ç¾ıÿÿÿÿ8–íìŞÀ/
+`
+java:S1117…"=Rename "customers" which hides the field declared at line 79.(„ôã‚üÿÿÿÿ8¶›÷Áê.
+^	java:S125°"<This block of commented-out lines of code should be removed.(Â¿”øÿÿÿÿ8¶›÷Áê.
+Y	java:S125Ğ"<This block of commented-out lines of code should be removed.(Ú‹¯Â8©„öŸş/
+K
+java:S1604©"(Make this anonymous inner class a lambda(‹÷Áèùÿÿÿÿ8¶›÷Áê.
+L
+java:S1128*"/Remove this unused import 'retrofit2.Response'.(¾éçï8¶›÷Áê.
+P
+java:S1128#".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¶›÷Áê.
+^	java:S125…"<This block of commented-out lines of code should be removed.(¬ƒç¥üÿÿÿÿ8‰ó“Æª/
+Š
+java:S1128C"hRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.StoreCustomerListModel'.(çòÁ³şÿÿÿÿ8¶›÷Áê.
+K
+java:S1905İ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¶›÷Áê.
+M
+java:S1144Ù"0Remove this unused private "checkParams" method.(©¸ìG8¶›÷Áê.
+‹
+java:S1128<"iRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.StoreCustomerAdapter'.(‚¦İ¹ùÿÿÿÿ8¶›÷Áê.
+X
+java:S1659N"6Declare "card_delivery_management" on a separate line.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+Y	java:S125À"<This block of commented-out lines of code should be removed.(ßê‰À8–íìŞÀ/
+I
+java:S1659N"'Declare "dashboard" on a separate line.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+w	java:S116Q"VRename this field "seller_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ“š‰ÿÿÿÿÿ8¶›÷Áê.
+s
+java:S1192Œ"PDefine a constant instead of duplicating this literal "CustomerDetails" 3 times.(¹É·üüÿÿÿÿ8¶›÷Áê.
+K
+java:S1659N")Declare "place_order" on a separate line.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+J
+java:S1481Œ",Remove this unused "shopUrl" local variable.(¦ØÚî8¨„öŸş/
+‘
+java:S11287"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListActivity'.( ÏßÜ8¶›÷Áê.
+j
+java:S1192×"GDefine a constant instead of duplicating this literal "Url..." 8 times.(òì£Ğùÿÿÿÿ8¶›÷Áê.
+F
+java:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ü¸ØßÀ/
+ˆ
+java:S11283"kRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.ProfileActivity'.(°Éœğ8¶›÷Áê.
+a
+java:S1128"DRemove this unused import 'com.google.firebase.crash.FirebaseCrash'.(°àøõ8¶›÷Áê.
+^	java:S125·"<This block of commented-out lines of code should be removed.(¤¤¡ÿøÿÿÿÿ8©„öŸş/
+L
+java:S1659N"*Declare "out_of_stock" on a separate line.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+„	java:S116N"cRename this field "card_delivery_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+Y	java:S125”"<This block of commented-out lines of code should be removed.(çÜâï8©„öŸş/
+M
+java:S1144‡"0Remove this unused private "checkParams" method.(©¸ìG8–íìŞÀ/
+O
+java:S1481ù"1Remove this unused "mRequestBody" local variable.(£š‘8¨„öŸş/
+E
+java:S1604½"(Make this anonymous inner class a lambda(²» g8¶›÷Áê.
+w	java:S116N"VRename this field "place_order" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+U
+java:S1128"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ8¶›÷Áê.
+x	java:S116N"WRename this field "product_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+f
+java:S1117Ä"CRename "customerDetails" which hides the field declared at line 87.(¹É·üüÿÿÿÿ8¶›÷Áê.
+M
+java:S1144Ú"0Remove this unused private "checkParams" method.(©¸ìG8¶›÷Áê.
+l
+java:S1192ä"IDefine a constant instead of duplicating this literal "Response" 7 times.(ËÖ‡©ùÿÿÿÿ8–íìŞÀ/
+g
+java:S1192œ"IDefine a constant instead of duplicating this literal "shop_url" 8 times.(¦ØÚî8¶›÷Áê.
+F	java:S108µ")Either remove or fill this block of code.(”ı¾8¶›÷Áê.
+Y	java:S125È"<This block of commented-out lines of code should be removed.(×Ê±†8¶›÷Áê.
+‘
+java:S1128-"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.DeliveryBoyOrderActivity'.(İÊßğ8¶›÷Áê.
+K
+java:S1604á"(Make this anonymous inner class a lambda(‹÷Áèùÿÿÿÿ8¶›÷Áê.
+L
+java:S1659N"*Declare "product_list" on a separate line.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+F
+java:S1659N"$Declare "logout" on a separate line.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+‡
+java:S1128@"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerProductCart'.(é¬Óüøÿÿÿÿ8¶›÷Áê.
+u
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŒÌğÕùÿÿÿÿ8¥¢áÀ/
+D
+java:S1168Õ"&Return an empty array instead of null.(¥¹ï8–íìŞÀ/
+t
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¨Œşÿÿÿÿ8¶›÷Áê.
+?	java:S131Õ""Add a default case to this switch.(ºÖ8¶›÷Áê.
+J
+java:S1481œ",Remove this unused "shopUrl" local variable.(¦ØÚî8¨„öŸş/
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(€Šá½øÿÿÿÿ8©„öŸş/
+J
+java:S1481Ò",Remove this unused "shopUrl" local variable.(¦ØÚî8¾Ù ş/
+Q
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8¶›÷Áê.
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(×Ê±†8¶›÷Áê.
+Y	java:S125"<This block of commented-out lines of code should be removed.(áªşâ8©„öŸş/
+L
+java:S1659N"*Declare "store_credit" on a separate line.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+E
+java:S1604¼"(Make this anonymous inner class a lambda(²» g8¶›÷Áê.
+w
+java:S1192Û"TDefine a constant instead of duplicating this literal "Getting data......." 7 times.(ËÔÆÁÿÿÿÿÿ8–íìŞÀ/
+x	java:S116N"WRename this field "store_credit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+w	java:S116N"VRename this field "add_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+^	java:S125Ó"<This block of commented-out lines of code should be removed.(ïˆâÇúÿÿÿÿ8©„öŸş/
+F	java:S108¶")Either remove or fill this block of code.(”ı¾8–íìŞÀ/
+K
+java:S1905Š"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8–íìŞÀ/
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(ßê‰À8¶›÷Áê.
+q	java:S116X"URename this field "my_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒàÒ­8¶›÷Áê.
+h
+java:S1117¼"ERename "sharedPreferences" which hides the field declared at line 80.(çòØ«ıÿÿÿÿ8¶›÷Áê.
+f
+java:S1117¡"CRename "customerDetails" which hides the field declared at line 87.(¹É·üüÿÿÿÿ8¶›÷Áê.
+K
+java:S1905Ü"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¶›÷Áê.
+u	java:S116]"YRename this field "filter_applied" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹‡”8¶›÷Áê.
+h
+java:S1192i"KDefine a constant instead of duplicating this literal "StandAlone" 3 times.(Î´ı·8¶›÷Áê.
+x	java:S116N"WRename this field "out_of_stock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+Y	java:S125÷"<This block of commented-out lines of code should be removed.(ßê‰À8¶›÷Áê.
+‚
+java:S1128;"`Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.login.model.ProductCartResponse'.(ÃÆ¯âıÿÿÿÿ8¶›÷Áê.
+F
+java:S1148÷"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶›÷Áê.
+f
+java:S1192õ"HDefine a constant instead of duplicating this literal "request" 3 times.(Ø†İÄ8§ğßÀ/
+K
+java:S1604¢"(Make this anonymous inner class a lambda(¥ŠöÀüÿÿÿÿ8–íìŞÀ/
+F	java:S108í")Either remove or fill this block of code.(”ı¾8¶›÷Áê.
+K
+java:S1659N")Declare "add_product" on a separate line.(ÆŠôıÿÿÿÿ8¶›÷Áê.
+M
+java:S1128""0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¶›÷Áê.
+‰
+java:S1128A"lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerProductCartRequest'.(Ü†Ôê8¶›÷Áê.
+f
+java:S1117Œ"CRename "customerDetails" which hides the field declared at line 87.(¹É·üüÿÿÿÿ8¶›÷Áê.
+E
+java:S1604ô"(Make this anonymous inner class a lambda(²» g8–íìŞÀ/
+}	java:S116Z"\Rename this field "total_sale_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õì‚…ûÿÿÿÿ8¶›÷Áê.
+K
+java:S1604ú"(Make this anonymous inner class a lambda(‹÷Áèùÿÿÿÿ8¿ŞÛİŒ0
+E
+java:S1604Œ"(Make this anonymous inner class a lambda(²» g8¿ŞÛİŒ0
+K
+java:S1604Â"(Make this anonymous inner class a lambda(‹÷Áèùÿÿÿÿ8¿ŞÛİŒ0
+E
+java:S1604Ô"(Make this anonymous inner class a lambda(²» g8¿ŞÛİŒ0
+K
+java:S1604Š"(Make this anonymous inner class a lambda(‹÷Áèùÿÿÿÿ8¿ŞÛİŒ0
+E
+java:S1604œ"(Make this anonymous inner class a lambda(²» g8¿ŞÛİŒ0
+K
+java:S1604Ò"(Make this anonymous inner class a lambda(‹÷Áèùÿÿÿÿ8¿ŞÛİŒ0
+E
+java:S1604ã"(Make this anonymous inner class a lambda(²» g8¿ŞÛİŒ0
+N
+java:S1659O",Declare "card_marketing" on a separate line.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+I
+java:S1659O"'Declare "customers" on a separate line.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+L
+java:S1659O"*Declare "send_invoice" on a separate line.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+O
+java:S1659O"-Declare "card_myCustomer" on a separate line.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+M
+java:S1659O"+Declare "card_question" on a separate line.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+I
+java:S1659`",Declare "total_products" on a separate line.(ÄŞ«œ8¿ŞÛİŒ0
+I
+java:S1659`",Declare "total_customer" on a separate line.(ÄŞ«œ8¿ŞÛİŒ0
+y	java:S116O"XRename this field "request_trial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+z	java:S116O"YRename this field "card_marketing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+x	java:S116O"WRename this field "send_invoice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+{	java:S116O"ZRename this field "card_myCustomer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+y	java:S116O"XRename this field "card_question" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¹¬’ıÿÿÿÿ8¿ŞÛİŒ0
+s	java:S116`"WRename this field "total_orders" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŞ«œ8¿ŞÛİŒ0
+u	java:S116`"YRename this field "total_products" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŞ«œ8¿ŞÛİŒ0
+u	java:S116`"YRename this field "total_customer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŞ«œ8¿ŞÛİŒ0
+F	java:S108…")Either remove or fill this block of code.(”ı¾8¿ŞÛİŒ0
+K
+java:S1905¢"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¿ŞÛİŒ0
+F	java:S108Í")Either remove or fill this block of code.(”ı¾8¿ŞÛİŒ0
+K
+java:S1905ê"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¿ŞÛİŒ0
+F	java:S108•")Either remove or fill this block of code.(”ı¾8¿ŞÛİŒ0
+K
+java:S1905²"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¿ŞÛİŒ0
+F	java:S108Ü")Either remove or fill this block of code.(”ı¾8¿ŞÛİŒ0
+K
+java:S1905ù"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¿ŞÛİŒ0
+J
+java:S1481ë",Remove this unused "shopUrl" local variable.(¦ØÚî8¿ŞÛİŒ0
+J
+java:S1481³",Remove this unused "shopUrl" local variable.(¦ØÚî8¿ŞÛİŒ0
+J
+java:S1481û",Remove this unused "shopUrl" local variable.(¦ØÚî8¿ŞÛİŒ0
+J
+java:S1481Ã",Remove this unused "shopUrl" local variable.(¦ØÚî8¿ŞÛİŒ0
+^	java:S125ì"<This block of commented-out lines of code should be removed.(ïˆâÇúÿÿÿÿ8¿ŞÛİŒ0
+Y	java:S125"<This block of commented-out lines of code should be removed.(ßê‰À8¿ŞÛİŒ0
+^	java:S125´"<This block of commented-out lines of code should be removed.(ïˆâÇúÿÿÿÿ8¿ŞÛİŒ0
+Y	java:S125×"<This block of commented-out lines of code should be removed.(ßê‰À8¿ŞÛİŒ0
+^	java:S125ü"<This block of commented-out lines of code should be removed.(ïˆâÇúÿÿÿÿ8¿ŞÛİŒ0
+Y	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ßê‰À8¿ŞÛİŒ0
+^	java:S125Ä"<This block of commented-out lines of code should be removed.(ïˆâÇúÿÿÿÿ8¿ŞÛİŒ0
+Y	java:S125æ"<This block of commented-out lines of code should be removed.(ßê‰À8¿ŞÛİŒ0
+M
+java:S1144Ÿ"0Remove this unused private "checkParams" method.(©¸ìG8¿ŞÛİŒ0
+M
+java:S1144ç"0Remove this unused private "checkParams" method.(©¸ìG8¿ŞÛİŒ0
+M
+java:S1144¯"0Remove this unused private "checkParams" method.(©¸ìG8¿ŞÛİŒ0
+M
+java:S1144ö"0Remove this unused private "checkParams" method.(©¸ìG8¿ŞÛİŒ0

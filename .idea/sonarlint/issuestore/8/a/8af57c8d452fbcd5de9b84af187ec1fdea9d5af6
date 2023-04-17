@@ -1,0 +1,5 @@
+
+™squid:S1319%"}The type of the "imageProductModels" object should be an interface such as "List" rather than the implementation "ArrayList".(¨³²ïûÿÿÿÿ
+Rsquid:S2696o"6Make the enclosing method "static" or remove this set.(£ƒßÞùÿÿÿÿ
+ysquid:S4165("bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà
+ysquid:S1488/"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(¥·òû

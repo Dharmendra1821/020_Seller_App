@@ -1,0 +1,60 @@
+
+?	java:S108“")Either remove or fill this block of code.(”ı¾
+?
+java:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+k	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ëëëøÿÿÿÿ
+~
+java:S1128)"cRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.CustomerListModel'.(üËî¼øÿÿÿÿ
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(…“–‘
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®º’
+>
+java:S1659="(Declare "markSubmit" on a separate line.(„…éı
+R	java:S125À"<This block of commented-out lines of code should be removed.(ã’Éâ
+^	java:S125ò"<This block of commented-out lines of code should be removed.(âÇñ©üÿÿÿÿ8şüİ’ì.
+r	java:S116?"XRename this field "paying_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß½œÏÿÿÿÿÿ
+R	java:S125Ê"<This block of commented-out lines of code should be removed.(ã’Éâ
+?	java:S108«")Either remove or fill this block of code.(”ı¾
+I
+java:S1481n",Remove this unused "shopUrl" local variable.(¦ØÚî8‰Èğœş/
+K
+java:S1604ü"(Make this anonymous inner class a lambda(Í–Ş½ûÿÿÿÿ8ØœÔñı.
+k	java:S116@"VRename this field "mark_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¥ÃŞ
+D
+java:S1905»"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+Q
+java:S1117”";Rename "summary" which hides the field declared at line 63.(¹‡ñ8
+H
+java:S1602°",Remove useless curly braces around statement(ËÕ£Õúÿÿÿÿ
+R	java:S125±"<This block of commented-out lines of code should be removed.(ßê‰À
+V
+java:S1117æ"@Rename "mRequestBody" which hides the field declared at line 65.(¾ ¬
+=	java:S131È""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+E
+java:S1604š"(Make this anonymous inner class a lambda(²» g8ØœÔñı.
+F
+java:S1144¸"0Remove this unused private "checkParams" method.(©¸ìG
+=
+java:S1659>"(Declare "pendingamt" on a separate line.(Ÿ—Îk
+b
+java:S1192q"GDefine a constant instead of duplicating this literal "Url..." 4 times.(òì£Ğùÿÿÿÿ
+R	java:S125â"<This block of commented-out lines of code should be removed.(ƒ¤œœ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÙş
+‰
+java:S1128'"nRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.SellerCustomerListAdapter'.(¬İÊÅıÿÿÿÿ
+:
+java:S1659>"%Declare "paidamt" on a separate line.(Ÿ—Îk
+9
+java:S1659>"$Declare "noData" on a separate line.(Ÿ—Îk
+?
+java:S1659@")Declare "main_layout" on a separate line.(Í¥ÃŞ
+>
+java:S1659="(Declare "markCancel" on a separate line.(„…éı
+k	java:S116@"VRename this field "main_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¥ÃŞ
+=
+java:S1168³"&Return an empty array instead of null.(¥¹ï
+@
+java:S1659?"%Declare "summary" on a separate line.(ß½œÏÿÿÿÿÿ
+n
+java:S1128+"SRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.AppController'.(Í±°£ûÿÿÿÿ
+]	java:S125o"<This block of commented-out lines of code should be removed.(§œî“úÿÿÿÿ8üÕ’ì.
+R	java:S125"<This block of commented-out lines of code should be removed.(ßê‰À

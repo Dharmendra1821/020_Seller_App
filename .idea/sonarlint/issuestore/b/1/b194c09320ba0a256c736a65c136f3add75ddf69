@@ -1,0 +1,69 @@
+
+r	java:S116<"XRename this field "expiry_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û¢Òúÿÿÿÿ
+@
+java:S1659;"*Declare "company_name" on a separate line.(±§©š
+K
+java:S1905Õ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ıÍÅìê.
+=
+java:S1659?""Declare "mDay" on a separate line.(íæŠØùÿÿÿÿ
+<
+java:S1659;"&Declare "email_id" on a separate line.(±§©š
+J
+java:S1481’",Remove this unused "shopUrl" local variable.(¦ØÚî8…¶İªş/
+9
+java:S1659;"#Declare "gstin" on a separate line.(±§©š
+B
+java:S1659="-Declare "expiry_date_txt" on a separate line.(É÷p
+:
+java:S1659;"$Declare "amount" on a separate line.(±§©š
+l	java:S116;"WRename this field "company_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±§©š
+h	java:S116;"SRename this field "email_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±§©š
+;
+java:S1659;"%Declare "address" on a separate line.(±§©š
+?
+java:S1659?"$Declare "mMonth" on a separate line.(íæŠØùÿÿÿÿ
+{
+java:S11281"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.DeliveryBoyList'.(íñ™f
+G
+java:S1128"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ
+s	java:S116<"YRename this field "invoice_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û¢Òúÿÿÿÿ
+y	java:S116M"XRename this field "help_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÊÿÜşÿÿÿÿ8 ğÄìê.
+o	java:S116="[Rename this field "invoice_date_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É÷p
+£
+java:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8ıÍÅìê.
+K
+java:S1604"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ıÍÅìê.
+F
+java:S1659<"+Declare "expiry_layout" on a separate line.(”Û¢Òúÿÿÿÿ
+Š
+java:S1128/"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.DeliveryBoyOrderActivity'.(İÊßğ
+A
+java:S1659;"+Declare "mobile_number" on a separate line.(±§©š
+?
+java:S1659;")Declare "description" on a separate line.(±§©š
+
+java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8ıÍÅìê.
+m	java:S116;"XRename this field "mobile_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±§©š
+¤
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ8ıÍÅìê.
+|
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(€×ĞŸúÿÿÿÿ8ıÍÅìê.
+m	java:S116;"XRename this field "customer_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±§©š
+Y
+java:S1481’";Remove this unused "invoiceMerchantIdModel" local variable.(õ‚8ıÍÅìê.
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(ßê‰À8ıÍÅìê.
+M
+java:S1144Ò"0Remove this unused private "checkParams" method.(©¸ìG8ıÍÅìê.
+n	java:S116="ZRename this field "expiry_date_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É÷p
+|
+java:S11282"gRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.DeliveryBoyOrder'.(İ¶áR
+o	java:S116>"ZRename this field "invoice_nextBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¯·Ä
+Q
+java:S1128*"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
+D	java:S131­""Add a default case to this switch.(×“¾ñùÿÿÿÿ8ıÍÅìê.
+p
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¡é††8ıÍÅìê.
+E
+java:S1604¿"(Make this anonymous inner class a lambda(²» g8ıÍÅìê.
+‹
+java:S11280"pRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.DeliveryboyListAdapter'.(İÖÃşÿÿÿÿ

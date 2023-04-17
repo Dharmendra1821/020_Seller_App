@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/plain_background"
+    tools:context="standalone.eduqfix.qfixinfo.com.app.login.activity.WelcomeActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="10dp"
+        android:id="@+id/welcome_screen_logout"
+        android:src="@drawable/ic_logout"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="10dp">
+
+
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/profile_pic"
+        android:padding="10dp"
+        app:civ_border_color="#fff"
+        app:civ_border_width="2dp"
+        app:civ_shadow="true"
+        app:civ_shadow_radius="5"
+        app:civ_shadow_color="#8BC34A"/>
+
+    <TextView android:id="@+id/welcomeMessageTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Welcome Mr.Rishabh"
+        android:textColor="#fff"/>
+
+    <androidx.legacy.widget.Space
+        android:layout_width="0dp"
+        android:layout_height="10dp" />
+
+    <Button android:id="@+id/placeOrderButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Place Order"
+        android:textColor="@color/button_text_color"
+        android:background="@drawable/rounded_corner_button"/>
+
+    <androidx.legacy.widget.Space
+        android:layout_width="0dp"
+        android:layout_height="20dp" />
+
+
+    <Button android:id="@+id/viewDashboardButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Dashboard"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/view_order_rounded_background"/>
+        <androidx.legacy.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="20dp" />
+
+        <Button android:id="@+id/add_product_listpage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Product Image"
+            android:textColor="@color/colorWhite"
+            android:background="@drawable/view_order_rounded_background"/>
+
+    </LinearLayout>
+</LinearLayout>

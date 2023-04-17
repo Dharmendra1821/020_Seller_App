@@ -1,0 +1,9 @@
+
+Isquid:S1068"+Remove this unused "charset" private field.(í¥ª8èŒŸğ-
+xsquid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(“¶ŠÚ8Ğëùï-
+osquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(Íºõ»úÿÿÿÿ8À ÇŸğ-
+nsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(çöùøÿÿÿÿ8èŒŸğ-
+isquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(·ôñ8å€¾™ğ-
+ksquid:S2095k"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¡¢Î›8—®íùï-
+Esquid:S1068"'Remove this unused "out" private field.(Ìì˜ø8ò”ÆŸğ-
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Ä¦¼øÿÿÿÿ8Òêğ-

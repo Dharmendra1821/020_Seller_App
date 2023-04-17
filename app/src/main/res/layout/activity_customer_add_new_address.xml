@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:bind="http://schemas.android.com/tools">
+    <data>
+        <import type="android.view.View"/>
+        <variable
+            name="customerNewAddress"
+            type="standalone.eduqfix.qfixinfo.com.app.customer.fragment.CustomerAddNewAddressFragment"/>
+
+        <variable
+            name="customernewaddressViewModel"
+            type="standalone.eduqfix.qfixinfo.com.app.customer.viewmodel.CustomerNewAddressViewModel"/>
+    </data>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <TextView android:id="@+id/errorAddressTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address is empty"
+            android:textColor="@color/exit_button_color"
+            android:visibility="@{customernewaddressViewModel.showAddressErrorMessage ? View.VISIBLE : View.GONE}"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Address Line 1"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom">
+
+            <EditText android:id="@+id/address1EditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint=""
+                android:afterTextChanged="@{(editable)->customernewaddressViewModel.afterAddress1TextChanged(editable)}"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Address Line 2"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom">
+
+            <EditText android:id="@+id/address2EditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint=""
+                android:afterTextChanged="@{(editable)->customernewaddressViewModel.afterAddress2TextChanged(editable)}"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView android:id="@+id/errorStateTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="State is empty"
+            android:textColor="@color/exit_button_color"
+            android:visibility="@{customernewaddressViewModel.showStateErrorMessage ? View.VISIBLE : View.GONE}"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="State"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom">
+
+            <EditText android:id="@+id/stateEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint=""
+                android:afterTextChanged="@{(editable)->customernewaddressViewModel.afterStateTextChanged(editable)}"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView android:id="@+id/errorPostCodeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Postcode is empty"
+            android:textColor="@color/exit_button_color"
+            android:visibility="@{customernewaddressViewModel.showPostCodeErrorMessage ? View.VISIBLE : View.GONE}"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pincode"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom">
+
+            <EditText android:id="@+id/PincodeEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint=""
+                android:afterTextChanged="@{(editable)->customernewaddressViewModel.afterPostCodeTextChanged(editable)}"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button android:id="@+id/nextButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NEXT"
+            android:background="@drawable/button_rounded_gradient_border"
+            android:textColor="@color/button_text_color"
+            android:onClick="@{(view)->customernewaddressViewModel.onNextClick()}"
+            bind:processStatus="@{customernewaddressViewModel.processStatus}"/>
+    </LinearLayout>
+    </ScrollView>
+</layout>

@@ -1,0 +1,38 @@
+
+>
+java:S1659q"#Declare "price" on a separate line.(½Ôúÿÿÿÿ
+€
+java:S1128"eRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.invoice_seller.CreateInvoiceActivity'.(¸‹œ€üÿÿÿÿ
+w
+java:S1128"aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.ComplaintsModel'.(»ã”í
+L
+java:S1659q"1Declare "invoice_product_tax" on a separate line.(½Ôúÿÿÿÿ
+;
+java:S1659q" Declare "id" on a separate line.(½Ôúÿÿÿÿ
+M
+java:S2696‰"6Make the enclosing method "static" or remove this set.(›ƒ˜®
+P	java:S125d"<This block of commented-out lines of code should be removed.(¥£Ûf
+<
+java:S1659q"!Declare "qty" on a separate line.(½Ôúÿÿÿÿ
+x	java:S116q"^Rename this field "invoice_product_tax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ôúÿÿÿÿ
+Q	java:S125^"<This block of commented-out lines of code should be removed.(ŠãÈ¤
+}	java:S116q"cRename this field "invoice_product_taxvalue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ôúÿÿÿÿ
+=
+java:S1659q""Declare "cgst" on a separate line.(½Ôúÿÿÿÿ
+P
+java:S1128
+"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+M
+java:S1128	"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ
+=
+java:S1659q""Declare "igst" on a separate line.(½Ôúÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+:
+java:S1659r"$Declare "delete" on a separate line.(È’¿è
+Q
+java:S1659q"6Declare "invoice_product_taxvalue" on a separate line.(½Ôúÿÿÿÿ
+
+java:S1128"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.ComplaintsAdapter'.(ÓÑªûÿÿÿÿ
+w
+java:S1128"aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.invoice_seller.constant.Constant'.(¬’—¦

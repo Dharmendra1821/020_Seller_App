@@ -1,0 +1,49 @@
+
+l	java:S114‚"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(âá¹Ûÿÿÿÿÿ
+h	java:S101†"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íû¹åÿÿÿÿÿ
+f	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õùâó
+S
+java:S1128"8Remove this unused import 'android.widget.LinearLayout'.(çîšçúÿÿÿÿ
+G
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'android.widget.DatePicker'.(µö—şÿÿÿÿ
+h
+java:S1128&"RRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.login.model.Login'.(‡Àµ²
+T
+java:S1128"9Remove this unused import 'android.app.DatePickerDialog'.(„å“ˆùÿÿÿÿ
+i
+java:S1128("NRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.Constant'.(°ÆËéøÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'android.content.ActivityNotFoundException'.(Û‚¨
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+E
+java:S1128#"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+L
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'android.webkit.ValueCallback'.(§Ëˆ¨
+|
+java:S1128'"gRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.NewWebviewActivity'.( •ü6
+r
+java:S1450,"\Remove the "clickListener" field and declare it as a local variable in the relevant methods.(ÙÙ¯
+|
+java:S1450-"aRemove the "closeClickListener" field and declare it as a local variable in the relevant methods.(ºÊç¢ıÿÿÿÿ
+L
+java:S2696w"6Make the enclosing method "static" or remove this set.(êáğ
+Q
+java:S2696{"6Make the enclosing method "static" or remove this set.(ôĞÃşÿÿÿÿ
+D
+java:S1185‰"(Remove this method to simply inherit it.(ı¤Ğüùÿÿÿÿ
+N
+java:S1135Š"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135™"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+G
+java:S1068,"1Remove this unused "clickListener" private field.(ÙÙ¯
+Q
+java:S1068-"6Remove this unused "closeClickListener" private field.(ºÊç¢ıÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(Õñòà

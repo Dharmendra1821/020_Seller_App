@@ -1,0 +1,32 @@
+
+†
+java:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(½”ßê
+
+java:S1319$"uThe type of the "invoiceIds" object should be an interface such as "List" rather than the implementation "ArrayList".(×«º¸úÿÿÿÿ
+Š
+java:S1319)"uThe type of the "invoiceIds" object should be an interface such as "List" rather than the implementation "ArrayList".(é®ôw
+™
+java:S1319/"~The type of the "sellerInvoiceModels" object should be an interface such as "List" rather than the implementation "ArrayList".(·íİƒüÿÿÿÿ
+x
+java:S41652"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà
+E
+java:S1444)"0Make this "public static invoiceIds" field final(é®ôw
+k
+java:S1104)"VMake invoiceIds a static final constant or non-public and provide accessors if needed.(é®ôw
+}
+java:S1488:"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(Ûù£²şÿÿÿÿ
+€
+java:S1128"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.MyOrderListModelNew'.(®¹Ç¥
+
+java:S1128"sRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.MyOrderProductListAdapter'.(”ö ½ıÿÿÿÿ
+2
+java:S2386)"Make this member "protected".(é®ôw
+L
+java:S1117b"7Rename "pos" which hides the field declared at line 26.(âìó7
+s	java:S116}"YRename this field "invoice_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ïÜ±øÿÿÿÿ
+n	java:S116~"YRename this field "payment_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùğ™‘
+j	java:S116"TRename this field "cust_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‰Ã·
+r	java:S116ƒ"WRename this field "download_pdf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğáø¿ûÿÿÿÿ
+y	java:S116„"^Rename this field "invoice_id_checkbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¦Šÿÿÿÿÿ
+R
+java:S2696—"6Make the enclosing method "static" or remove this set.(“æßÀşÿÿÿÿ

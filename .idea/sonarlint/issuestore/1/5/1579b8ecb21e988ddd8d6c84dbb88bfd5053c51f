@@ -1,0 +1,280 @@
+
+N
+java:S1659O",Declare "payment_status" on a separate line.(ÃÙ¸­ıÿÿÿÿ8Ÿ”Ö„å.
+Y	java:S125¢"<This block of commented-out lines of code should be removed.(ïûàï8Ÿ”Ö„å.
+o
+java:S1192×"LDefine a constant instead of duplicating this literal "methodTitle" 4 times.(ÁáÒßùÿÿÿÿ8Ÿ”Ö„å.
+q
+java:S1192ï"SDefine a constant instead of duplicating this literal "shippingstate_code" 4 times.(Î ˜ô8Ÿ”Ö„å.
+]
+java:S1128"@Remove this unused import 'android.widget.AutoCompleteTextView'.(™å®Â8Ÿ”Ö„å.
+s	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâß¶ùÿÿÿÿ8„èÄ¨ş/
+n	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹©ë¢8Ÿ”Ö„å.
+p
+java:S1192Ø"RDefine a constant instead of duplicating this literal "paymentModeStatus" 4 times.(”ƒ­8Ÿ”Ö„å.
+s	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®â§øÿÿÿÿ8ª¨ï.
+w
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ïáı8Ÿ”Ö„å.
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(ßê‰À8Ÿ”Ö„å.
+E
+java:S1604Â"(Make this anonymous inner class a lambda(²» g8°ëßæì.
+z	java:S116O"YRename this field "payment_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÙ¸­ıÿÿÿÿ8Ÿ”Ö„å.
+p
+java:S1192´"MDefine a constant instead of duplicating this literal "increment_id" 5 times.(¢í‡şÿÿÿÿ8Ÿ”Ö„å.
+s	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâß¶ùÿÿÿÿ8„èÄ¨ş/
+k
+java:S1192È"MDefine a constant instead of duplicating this literal "productPrice" 4 times.(÷Õ–…8Ÿ”Ö„å.
+r
+java:S1192Ü"ODefine a constant instead of duplicating this literal "billingDetails" 4 times.(“ëë™ûÿÿÿÿ8Ÿ”Ö„å.
+s	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâß¶ùÿÿÿÿ8„èÄ¨ş/
+Y	java:S125®"<This block of commented-out lines of code should be removed.(ßê‰À8Ÿ”Ö„å.
+s	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®â§øÿÿÿÿ8ª¨ï.
+r
+java:S1192º"TDefine a constant instead of duplicating this literal "shippingDescription" 4 times.(²•âÔ8Ÿ”Ö„å.
+y
+java:S1128:"\Remove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.SKURequest'.(„Ëˆé8Ÿ”Ö„å.
+m
+java:S1192®"JDefine a constant instead of duplicating this literal "entity_id" 5 times.(Ü£ìÖüÿÿÿÿ8Ÿ”Ö„å.
+i
+java:S1192¤"FDefine a constant instead of duplicating this literal "utf-8" 8 times.(§ßŞÕúÿÿÿÿ8Ÿ”Ö„å.
+l
+java:S1192ã"NDefine a constant instead of duplicating this literal "billingstreet" 4 times.(ğ“Íš8Ÿ”Ö„å.
+–
+java:S11288"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListingModel'.(Æüïµûÿÿÿÿ8Ÿ”Ö„å.
+s
+java:S1192¾"PDefine a constant instead of duplicating this literal "tracking_number" 5 times.(Ñâß¶ùÿÿÿÿ8Ÿ”Ö„å.
+n	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹©ë¢8Ÿ”Ö„å.
+n	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8„èÄ¨ş/
+F
+java:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ÿ”Ö„å.
+K
+java:S1128."/Remove this unused import 'retrofit2.Callback'.(›¨,8Ÿ”Ö„å.
+r
+java:S1192±"ODefine a constant instead of duplicating this literal "shippingAmount" 4 times.(¡í‰ şÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125Â"<This block of commented-out lines of code should be removed.(Ÿ‡Ğ¡úÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125È"<This block of commented-out lines of code should be removed.(ä÷åôşÿÿÿÿ8Ÿ”Ö„å.
+X
+java:S1117¸":Rename "status" which hides the field declared at line 79.(Úâô¬8Ÿ”Ö„å.
+K
+java:S1905Ì"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ÿ”Ö„å.
+F
+java:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ÿ”Ö„å.
+n
+java:S1192à"QDefine a constant instead of duplicating this literal "billingtelephone" 4 times.(Â¥Ë)8Ÿ”Ö„å.
+n	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8„èÄ¨ş/
+K
+java:S1604"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8°ëßæì.
+K
+java:S1604À"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8°ëßæì.
+s
+java:S1128;"VRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.services.MPOSServices'.(»·ºî8Ÿ”Ö„å.
+F
+java:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ÿ”Ö„å.
+n	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹©ë¢8Ÿ”Ö„å.
+H
+java:S1659P"+Declare "paymentStatus" on a separate line.(š›Æê8Ÿ”Ö„å.
+g
+java:S1192¶"IDefine a constant instead of duplicating this literal "subtotal" 4 times.(œ¦°ı8Ÿ”Ö„å.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8Ÿ”Ö„å.
+
+java:S11283"bRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.MainRequest'.(õ÷±Ä8Ÿ”Ö„å.
+P
+java:S1659K".Declare "visibleItemCount" on a separate line.(üÆö›ıÿÿÿÿ8Ÿ”Ö„å.
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(¯½¿‹8„èÄ¨ş/
+m
+java:S1192ñ"ODefine a constant instead of duplicating this literal "shippingstreet" 4 times.(”–€é8Ÿ”Ö„å.
+n	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8„èÄ¨ş/
+¤
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8Ÿ”Ö„å.
+m
+java:S1192Á"ODefine a constant instead of duplicating this literal "productDetails" 5 times.(¯œ¸’8Ÿ”Ö„å.
+n
+java:S1192¯"PDefine a constant instead of duplicating this literal "totalQtyOrdered" 4 times.(—Áœ8Ÿ”Ö„å.
+D
+java:S1168§"&Return an empty array instead of null.(¥¹ï8Ÿ”Ö„å.
+X
+java:S1117Ô":Rename "status" which hides the field declared at line 79.(Úâô¬8Ÿ”Ö„å.
+j
+java:S1192³"GDefine a constant instead of duplicating this literal "weight" 4 times.(Ô™èıÿÿÿÿ8Ÿ”Ö„å.
+S
+java:S1659Q"1Declare "paymentStatusFilter" on a separate line.(ÒìÈüùÿÿÿÿ8Ÿ”Ö„å.
+n	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹©ë¢8Ÿ”Ö„å.
+p
+java:S1192Ò"RDefine a constant instead of duplicating this literal "customer_lastname" 4 times.(ÄŞñã8Ÿ”Ö„å.
+l
+java:S1192Ã"IDefine a constant instead of duplicating this literal "https://" 3 times.(Ñ¤–œûÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125¿"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Ÿ”Ö„å.
+M
+java:S1144¬"0Remove this unused private "checkParams" method.(©¸ìG8Ÿ”Ö„å.
+E
+java:S1604"(Make this anonymous inner class a lambda(²» g8°ëßæì.
+Y	java:S125À"<This block of commented-out lines of code should be removed.(¢›¾—8Ÿ”Ö„å.
+o
+java:S1192É"LDefine a constant instead of duplicating this literal "productType" 4 times.(ÈõÆõüÿÿÿÿ8ª¨ï.
+s	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®â§øÿÿÿÿ8ª¨ï.
+s	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8ª¨ï.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125¬"<This block of commented-out lines of code should be removed.(†ÌÛ‰ıÿÿÿÿ8Ÿ”Ö„å.
+u
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(µ†ÀÕÿÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125¨"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8Ÿ”Ö„å.
+s	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâß¶ùÿÿÿÿ8„èÄ¨ş/
+q
+java:S1192Ñ"SDefine a constant instead of duplicating this literal "customer_firstname" 4 times.(®±²8Ÿ”Ö„å.
+R
+java:S1066"/Merge this if statement with the enclosing one.(±÷»üùÿÿÿÿ8Ÿ”Ö„å.
+D
+java:S1168"&Return an empty array instead of null.(¥¹ï8Ÿ”Ö„å.
+s
+java:S1192ß"PDefine a constant instead of duplicating this literal "billingpostcode" 4 times.(ÛèÆÀøÿÿÿÿ8Ÿ”Ö„å.
+n	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8„èÄ¨ş/
+m
+java:S1192²"JDefine a constant instead of duplicating this literal "taxAmount" 4 times.(½Óıÿÿÿÿ8Ÿ”Ö„å.
+H
+java:S1128-"+Remove this unused import 'retrofit2.Call'.(Çö÷›8Ÿ”Ö„å.
+|
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷²ÉÇûÿÿÿÿ8Ÿ”Ö„å.
+m
+java:S1192»"ODefine a constant instead of duplicating this literal "shippingMethod" 5 times.(ä¨¢Œ8Ÿ”Ö„å.
+^	java:S125Ê"<This block of commented-out lines of code should be removed.(Ÿ‡Ğ¡úÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125ı"<This block of commented-out lines of code should be removed.(Æãåüÿÿÿÿ8Ÿ”Ö„å.
+j
+java:S1192’"GDefine a constant instead of duplicating this literal "Url..." 8 times.(òì£Ğùÿÿÿÿ8Ÿ”Ö„å.
+t
+java:S1192í"QDefine a constant instead of duplicating this literal "shippingpostcode" 4 times.(í¾öóøÿÿÿÿ8Ÿ”Ö„å.
+m
+java:S1192Õ"ODefine a constant instead of duplicating this literal "paymentDetails" 4 times.(û„õ±8Ÿ”Ö„å.
+k
+java:S1192ì"MDefine a constant instead of duplicating this literal "shippingcity" 4 times.(åüöÌ8Ÿ”Ö„å.
+W
+java:S1659Q"5Declare "modePaymentStatusFilter" on a separate line.(ÒìÈüùÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125ÿ"<This block of commented-out lines of code should be removed.(‰Î«®ÿÿÿÿÿ8Ÿ”Ö„å.
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(ßê‰À8Ÿ”Ö„å.
+F
+java:S1148¼"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(†ÌÛ‰ıÿÿÿÿ8Ÿ”Ö„å.
+d
+java:S1128"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8Ÿ”Ö„å.
+s	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8Ÿ”Ö„å.
+M
+java:S1144É"0Remove this unused private "checkParams" method.(©¸ìG8Ÿ”Ö„å.
+u
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(êúÊúüÿÿÿÿ8Ÿ”Ö„å.
+l
+java:S1192¦"IDefine a constant instead of duplicating this literal "Response" 4 times.(ËÖ‡©ùÿÿÿÿ8Ÿ”Ö„å.
+s	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8Ÿ”Ö„å.
+K
+java:S1905ã"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ÿ”Ö„å.
+g
+java:S1192­"IDefine a constant instead of duplicating this literal "order_id" 5 times.(ší„ÿ8Ÿ”Ö„å.
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(Ñ´«Š8Ÿ”Ö„å.
+¤
+java:S1186ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8Ÿ”Ö„å.
+‰
+java:S11284"gRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.MyOrderListModel'.(¢™òĞûÿÿÿÿ8Ÿ”Ö„å.
+x	java:S116_"]Rename this field "shippingstate_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ö·68Ÿ”Ö„å.
+i
+java:S1192¹"KDefine a constant instead of duplicating this literal "invoice_id" 5 times.(’œÕÃ8Ÿ”Ö„å.
+P
+java:S1128(".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ÿ”Ö„å.
+i
+java:S1192Ç"LDefine a constant instead of duplicating this literal "productName" 4 times.(şãá{8Ÿ”Ö„å.
+r
+java:S1192Ó"ODefine a constant instead of duplicating this literal "customer_email" 4 times.(ÏëÿÕúÿÿÿÿ8Ÿ”Ö„å.
+‘
+java:S11287"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListActivity'.( ÏßÜ8Ÿ”Ö„å.
+n
+java:S1192°"KDefine a constant instead of duplicating this literal "grandTotal" 4 times.(Û‹‹ñûÿÿÿÿ8Ÿ”Ö„å.
+|
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠÊÑ³úÿÿÿÿ8Ÿ”Ö„å.
+d
+java:S1192œ"FDefine a constant instead of duplicating this literal "limit" 4 times.(—•É†8Ÿ”Ö„å.
+M
+java:S1144‘"0Remove this unused private "checkParams" method.(©¸ìG8Ÿ”Ö„å.
+K
+java:S1905¯"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ÿ”Ö„å.
+K
+java:S1604Ö"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8°ëßæì.
+e
+java:S1192¸"GDefine a constant instead of duplicating this literal "status" 7 times.(Úâô¬8Ÿ”Ö„å.
+d
+java:S1192·"FDefine a constant instead of duplicating this literal "state" 4 times.(ÌôÃÅ8Ÿ”Ö„å.
+N
+java:S1659K",Declare "totalItemCount" on a separate line.(üÆö›ıÿÿÿÿ8Ÿ”Ö„å.
+¦
+java:S1192¦"‚Define a constant instead of duplicating this literal "Unsupported Encoding while trying to get the bytes of %s using %s" 4 times.(Ùğôøûÿÿÿÿ8Ÿ”Ö„å.
+E
+java:S1604ö"(Make this anonymous inner class a lambda(²» g8°ëßæì.
+s
+java:S1192Ï"PDefine a constant instead of duplicating this literal "customerDetails" 4 times.(ó¹şîşÿÿÿÿ8Ÿ”Ö„å.
+H
+java:S1659P"+Declare "modeOfPayment" on a separate line.(š›Æê8Ÿ”Ö„å.
+j
+java:S1192¼"LDefine a constant instead of duplicating this literal "shipment_id" 5 times.(¹©ë¢8Ÿ”Ö„å.
+L
+java:S1659O"*Declare "mode_payment" on a separate line.(ÃÙ¸­ıÿÿÿÿ8Ÿ”Ö„å.
+ƒ
+java:S1192"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 4 times.(Š¥Ç¾ıÿÿÿÿ8Ÿ”Ö„å.
+p
+java:S1192½"MDefine a constant instead of duplicating this literal "carrier_name" 5 times.(¢®â§øÿÿÿÿ8Ÿ”Ö„å.
+u
+java:S1192á"RDefine a constant instead of duplicating this literal "billingstate_code" 4 times.(Ÿ«Æùÿÿÿÿ8Ÿ”Ö„å.
+X
+java:S1117¢":Rename "status" which hides the field declared at line 79.(Úâô¬8Ÿ”Ö„å.
+N
+java:S1659T",Declare "shippingStreet" on a separate line.(½Şéåùÿÿÿÿ8Ÿ”Ö„å.
+¤
+java:S1186ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125Ğ"<This block of commented-out lines of code should be removed.(š±–úÿÿÿÿ8Ÿ”Ö„å.
+^	java:S125Ò"<This block of commented-out lines of code should be removed.(Ÿ‡Ğ¡úÿÿÿÿ8Ÿ”Ö„å.
+J
+java:S1481Š",Remove this unused "shopUrl" local variable.(¦ØÚî8„èÄ¨ş/
+p
+java:S1192î"RDefine a constant instead of duplicating this literal "shippingtelephone" 4 times.(Ï½î“8Ÿ”Ö„å.
+K
+java:S1604£"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8„èÄ¨ş/
+K
+java:S1905”"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ÿ”Ö„å.
+D
+java:S1168Û"&Return an empty array instead of null.(¥¹ï8Ÿ”Ö„å.
+h
+java:S1192›"JDefine a constant instead of duplicating this literal "seller_id" 4 times.(Å‚´¤8Ÿ”Ö„å.
+X
+java:S1117ê":Rename "status" which hides the field declared at line 79.(Úâô¬8Ÿ”Ö„å.
+u
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¯ê†ùÿÿÿÿ8Ÿ”Ö„å.
+s	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢®â§øÿÿÿÿ8Ÿ”Ö„å.
+O
+java:S1172ˆ",Remove this unused method parameter "limit".(µ†ÀÕÿÿÿÿÿ8Ÿ”Ö„å.
+m
+java:S1192ê"PDefine a constant instead of duplicating this literal "shippingDetails" 4 times.(•ô®/8Ÿ”Ö„å.
+o
+java:S1192Ş"LDefine a constant instead of duplicating this literal "billingcity" 4 times.(§’’çùÿÿÿÿ8Ÿ”Ö„å.
+L
+java:S1128/"/Remove this unused import 'retrofit2.Response'.(¾éçï8Ÿ”Ö„å.
+}	java:S116["\Rename this field "billingstate_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒúéÊıÿÿÿÿ8Ÿ”Ö„å.
+t
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ8Ÿ”Ö„å.
+L
+java:S11280"/Remove this unused import 'retrofit2.Retrofit'.(ŠĞİ8Ÿ”Ö„å.
+M
+java:S1144à"0Remove this unused private "checkParams" method.(©¸ìG8Ÿ”Ö„å.
+E
+java:S1604«"(Make this anonymous inner class a lambda(²» g8°ëßæì.
+D
+java:S1168Ä"&Return an empty array instead of null.(¥¹ï8Ÿ”Ö„å.
+f
+java:S1192"HDefine a constant instead of duplicating this literal "request" 4 times.(Ø†İÄ8Ÿ”Ö„å.
+i
+java:S1192µ"KDefine a constant instead of duplicating this literal "created_at" 4 times.(«œÍ³8Ÿ”Ö„å.
+g
+java:S1192Š"IDefine a constant instead of duplicating this literal "shop_url" 4 times.(¦ØÚî8Ÿ”Ö„å.
+x	java:S116O"WRename this field "mode_payment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÙ¸­ıÿÿÿÿ8Ÿ”Ö„å.
+u
+java:S1128="XRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.MPOSRetrofitClient'.(€ÑÃ÷8Ÿ”Ö„å.
+u
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ìÂôµşÿÿÿÿ8Ÿ”Ö„å.
+Y	java:S125¹"<This block of commented-out lines of code should be removed.(ïûàï8Ÿ”Ö„å.
+{
+java:S1192Ã"XDefine a constant instead of duplicating this literal "customapi/getOrdersList" 3 times.(Ñ¤–œûÿÿÿÿ8Ÿ”Ö„å.

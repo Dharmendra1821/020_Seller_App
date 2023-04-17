@@ -1,0 +1,17 @@
+
+Fsquid:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ‘­ãá-
+Msquid:S1066a"/Merge this if statement with the enclosing one.(Ë‰¥»8 ‘­ãá-
+}squid:S00116*"YRename this field "REQUEST_CAMERA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ô°Ïùÿÿÿÿ8¹ôÕáá-
+usquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü½«øÿÿÿÿ8 ‘­ãá-
+¨squid:UselessImportCheck#"xRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.DetectSwipeDirectionActivity'.(¦–îàıÿÿÿÿ8®£Äµâ-
+isquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(—úí8 ‘­ãá-
+osquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ëç§Äûÿÿÿÿ8 ‘­ãá-
+Ysquid:S26968"6Make the enclosing method "static" or remove this set.(ºÈŸÉûÿÿÿÿ8½Ş‰âá-
+‚"squid:ClassVariableVisibilityCheck("TMake fragment a static final constant or non-public and provide accessors if needed.(¢ø÷õ
+osquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(Ä¨Ñşÿÿÿÿ8•ÕÍ­â-
+Esquid:S1444(".Make this "public static fragment" field final(¢ø÷õ
+Isquid:S1659-"&Declare "advanced" on a separate line.(„µ¤õÿÿÿÿÿ8°Ò†âá-
+ysquid:S00116-"URename this field "save_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„µ¤õÿÿÿÿÿ8°Ò†âá-
+nsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(ıîæÏøÿÿÿÿ8 ‘­ãá-
+nsquid:S00100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äµĞ½8šÌûÿ-
+vsquid:S00116."WRename this field "image_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ãïÆ8°Ò†âá-

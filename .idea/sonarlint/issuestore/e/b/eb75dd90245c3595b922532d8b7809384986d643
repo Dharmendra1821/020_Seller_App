@@ -1,0 +1,36 @@
+
+m
+java:S1192o"KDefine a constant instead of duplicating this literal "StandAlone" 3 times.(“Ψ»ϊÿÿÿÿ8©θη†/
+{
+java:S30084"^Rename this field "ProfileLinearLayout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½δΊ„8©θη†/
+b
+java:S1117u"ERename "sharedPreferences" which hides the field declared at line 62.(ξεβ8©θη†/
+b
+java:S1117½"ERename "sharedPreferences" which hides the field declared at line 62.(ή‹ι8©θη†/
+Y	java:S125"<This block of commented-out lines of code should be removed.(ξΓάώ8©θη†/
+Q
+java:S16598"/Declare "addCustomerButton" on a separate line.(ο¬·ϋύÿÿÿÿ8©θη†/
+T
+java:S14445"7Make this "public static CustomerTabLayout" field final(μƒε8©θη†/
+y
+java:S30085"\Rename this field "CustomerTabLayout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(μƒε8©θη†/
+Q
+java:S1481v"/Remove this unused "adminToken" local variable.(‘Ηϊÿÿÿÿ8©θη†/
+o	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ί’¨ώÿÿÿÿ8©θη†/
+n	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΅Φ²8©θη†/
+I
+java:S1481p",Remove this unused "shopUrl" local variable.(¦ΨΪξ8΅Η‘¨ώ/
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(ΰ¤Δν8©θη†/
+]	java:S125["<This block of commented-out lines of code should be removed.(μΧ“ªϊÿÿÿÿ8©θη†/
+k	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΅Φ²8©θη†/
+F	java:S108§")Either remove or fill this block of code.(”ύΎ8©θη†/
+z
+java:S11045"]Make CustomerTabLayout a static final constant or non-public and provide accessors if needed.(μƒε8©θη†/
+@
+java:S1659="#Declare "phone" on a separate line.(ΝΊ³Κ8©θη†/
+l
+java:S1192"NDefine a constant instead of duplicating this literal "GSONData=====" 4 times.(…Ι Ν8©θη†/
+|
+java:S11044"_Make ProfileLinearLayout a static final constant or non-public and provide accessors if needed.(½δΊ„8©θη†/
+V
+java:S14444"9Make this "public static ProfileLinearLayout" field final(½δΊ„8©θη†/

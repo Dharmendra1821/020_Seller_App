@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".add_new_product.activities.ProfileActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:scrollbars="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contact No."
+            android:textSize="13dp"
+            android:textColor="@color/greysilver"/>
+
+        <EditText
+            android:id="@+id/myprofile_contact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:inputType="number"
+            android:maxLength="10"
+            android:textSize="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shop Title"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <EditText
+            android:id="@+id/myprofile_shoptitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+
+            android:textSize="16dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Banner"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:visibility="gone"
+            android:textColor="@color/greysilver"/>
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginTop="5dp"
+            android:visibility="gone"
+            android:id="@+id/myprofile_banner"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Company logo"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginTop="5dp"
+            android:id="@+id/myprofile_company_logo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Company Description"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+
+        <EditText
+            android:id="@+id/myprofile_company_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Company Description"
+            android:textColor="@color/colorBlack"
+            android:textSize="16dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Company locality"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+
+        <EditText
+            android:id="@+id/myprofile_company_locality"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:textSize="16dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Return Policy"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <EditText
+            android:id="@+id/myprofile_return_policy_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <TextView
+            android:id="@+id/myprofile_return_policy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginTop="5dp"
+            android:maxLines="3"
+            android:textColor="@color/greysilver"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right">
+
+            <TextView
+                android:id="@+id/read_more_return"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/new_btn_color"
+                android:textSize="14dp"
+                android:text="Read More..."/>
+
+            <TextView
+                android:id="@+id/read_less_retutn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/new_btn_color"
+                android:textSize="14dp"
+                android:visibility="gone"
+                android:text="Read Less..."/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Company Policy"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <EditText
+            android:id="@+id/myprofile_company_policy_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <TextView
+            android:id="@+id/myprofile_company_policy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginTop="5dp"
+            android:maxLines="3"
+            android:textColor="@color/greysilver"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right">
+
+           <TextView
+               android:id="@+id/read_more"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:textColor="@color/new_btn_color"
+               android:textSize="14dp"
+               android:text="Read More..."/>
+
+            <TextView
+                android:id="@+id/read_less"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/new_btn_color"
+                android:textSize="14dp"
+                android:visibility="gone"
+                android:text="Read Less..."/>
+
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Privacy policy"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <EditText
+            android:id="@+id/myprofile_privacy_policy_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <TextView
+            android:id="@+id/myprofile_privacy_policy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Company Description"
+            android:maxLines="3"
+            android:textColor="@color/colorBlack"
+            android:textSize="16dp"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right">
+
+            <TextView
+                android:id="@+id/read_more_privacy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/new_btn_color"
+                android:textSize="14dp"
+                android:text="Read More..."/>
+
+            <TextView
+                android:id="@+id/read_less_privacy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/new_btn_color"
+                android:textSize="14dp"
+                android:visibility="gone"
+                android:text="Read Less..."/>
+
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GSTIN"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <EditText
+            android:id="@+id/myprofile_company_gstin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PAN Number"
+            android:textSize="13dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/greysilver"/>
+
+        <EditText
+            android:id="@+id/myprofile_company_pan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/greysilver"/>
+
+
+
+
+    </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+    <ImageView
+        android:id="@+id/myprofile_save_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/profile_check"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:visibility="gone"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="40dp"/>
+
+
+    <ImageView
+        android:id="@+id/myprofile_edit_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/pencil"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="40dp"/>
+
+
+
+</RelativeLayout>

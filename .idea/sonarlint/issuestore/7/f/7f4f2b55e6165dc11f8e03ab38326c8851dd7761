@@ -1,0 +1,318 @@
+
+m
+java:S1192ù"ODefine a constant instead of duplicating this literal "paymentDetails" 6 times.(…ö©õ8ï—Ò‹Á/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€“±ùÿÿÿÿ8ï—Ò‹Á/
+^	java:S125ó"<This block of commented-out lines of code should be removed.(±ü¸üÿÿÿÿ8ï—Ò‹Á/
+p
+java:S1192"RDefine a constant instead of duplicating this literal "shippingtelephone" 6 times.(Ï½î“8ï—Ò‹Á/
+`
+java:S1117ã"=Rename "jsonArray" which hides the field declared at line 81.(úã€Ÿÿÿÿÿÿ8ï—Ò‹Á/
+K
+java:S1604Ü"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ï—Ò‹Á/
+o
+java:S1192ş"LDefine a constant instead of duplicating this literal "billingcity" 6 times.(‡¯õ˜ıÿÿÿÿ8ï—Ò‹Á/
+t
+java:S1192"QDefine a constant instead of duplicating this literal "shippingpostcode" 6 times.(í¾öóøÿÿÿÿ8ï—Ò‹Á/
+M
+java:S1144Æ"0Remove this unused private "checkParams" method.(©¸ìG8ï—Ò‹Á/
+q
+java:S1104`"TMake entityId a static final constant or non-public and provide accessors if needed.(´¨•ç8ï—Ò‹Á/
+K
+java:S1444`".Make this "public static entityId" field final(´¨•ç8ï—Ò‹Á/
+s	java:S116W"WRename this field "unassign_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÎÇô8ï—Ò‹Á/
+e
+java:S1192"GDefine a constant instead of duplicating this literal "status" 7 times.(©©­ı8ï—Ò‹Á/
+^	java:S125»"<This block of commented-out lines of code should be removed.(ì—Œøÿÿÿÿ8ï—Ò‹Á/
+^	java:S125Ğ"<This block of commented-out lines of code should be removed.(öÎê«ûÿÿÿÿ8ó‡©©ş/
+r
+java:S1192ğ"ODefine a constant instead of duplicating this literal "Please wait..." 4 times.(÷Šşİøÿÿÿÿ8ï—Ò‹Á/
+n	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8ó‡©©ş/
+s	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€“±ùÿÿÿÿ8ï—Ò‹Á/
+K
+java:S1905â"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ï—Ò‹Á/
+X	java:S125¿"<This block of commented-out lines of code should be removed.(ûÔÙp8ï—Ò‹Á/
+u
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Š¢¸¨ûÿÿÿÿ8ï—Ò‹Á/
+y	java:S116V"XRename this field "assign_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ„˜øÿÿÿÿÿ8ï—Ò‹Á/
+n	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8ó‡©©ş/
+z
+java:S1450\"XRemove the "radioroup" field and declare it as a local variable in the relevant methods.(€ÕØ›ıÿÿÿÿ8ï—Ò‹Á/
+Y
+java:S1117‰"<Rename "entityId" which hides the field declared at line 96.(´?8ï—Ò‹Á/
+r
+java:S1192ı"ODefine a constant instead of duplicating this literal "billingDetails" 6 times.(‚÷¶Àÿÿÿÿÿ8ï—Ò‹Á/
+
+java:S1319b"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­”¸Ğ8ï—Ò‹Á/
+n	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8ó‡©©ş/
+J
+java:S1481é",Remove this unused "shopUrl" local variable.(¦ØÚî8â«©ş/
+j
+java:S1192ê"GDefine a constant instead of duplicating this literal "weight" 6 times.(Ô™èıÿÿÿÿ8ï—Ò‹Á/
+^	java:S125‚"<This block of commented-out lines of code should be removed.(‹Ò‚Óüÿÿÿÿ8ï—Ò‹Á/
+K
+java:S1905×"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ï—Ò‹Á/
+^	java:S125©"<This block of commented-out lines of code should be removed.(ì—Œøÿÿÿÿ8ï—Ò‹Á/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€“±ùÿÿÿÿ8ï—Ò‹Á/
+K
+java:S1905É"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ï—Ò‹Á/
+u
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(‚û¡¬şÿÿÿÿ8ï—Ò‹Á/
+W
+java:S2209g"5Change this instance-reference to a static reference.(¬£¾éüÿÿÿÿ8ï—Ò‹Á/
+l
+java:S1192Ù"IDefine a constant instead of duplicating this literal "https://" 6 times.(Ì™„‰úÿÿÿÿ8â«©ş/
+n	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8ó‡©©ş/
+W
+java:S2209o"5Change this instance-reference to a static reference.(ò¶Çÿıÿÿÿÿ8ï—Ò‹Á/
+[
+java:S1117û"=Rename "invoiceId" which hides the field declared at line 95.(’œÕÃ8ï—Ò‹Á/
+M
+java:S1144ß"0Remove this unused private "checkParams" method.(©¸ìG8ï—Ò‹Á/
+‘
+java:S1319_"tThe type of the "invoiceId" object should be an interface such as "List" rather than the implementation "ArrayList".(ÉòÊò8ï—Ò‹Á/
+m
+java:S1192é"JDefine a constant instead of duplicating this literal "taxAmount" 6 times.(½Óıÿÿÿÿ8ï—Ò‹Á/
+r
+java:S1192÷"ODefine a constant instead of duplicating this literal "customer_email" 6 times.(ÏëÿÕúÿÿÿÿ8ï—Ò‹Á/
+•
+java:S1128."sRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.MyOrderProductListAdapter'.(”ö ½ıÿÿÿÿ8ï—Ò‹Á/
+s	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8ï—Ò‹Á/
+q	java:S116W"URename this field "assign_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÎÇô8ï—Ò‹Á/
+`
+java:S1117…"=Rename "jsonArray" which hides the field declared at line 81.(úã€Ÿÿÿÿÿÿ8ï—Ò‹Á/
+`
+java:S1117ò"=Rename "jsonArray" which hides the field declared at line 81.(úã€Ÿÿÿÿÿÿ8ï—Ò‹Á/
+[
+java:S1117ğ"=Rename "invoiceId" which hides the field declared at line 95.(’œÕÃ8ï—Ò‹Á/
+^	java:S125°"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8ï—Ò‹Á/
+ƒ
+java:S1192¬"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 8 times.(Š¥Ç¾ıÿÿÿÿ8ï—Ò‹Á/
+p
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(é¸•Õ8ï—Ò‹Á/
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(ì—Œøÿÿÿÿ8ï—Ò‹Á/
+M
+java:S1144¹"0Remove this unused private "checkParams" method.(©¸ìG8ï—Ò‹Á/
+F
+java:S1148ˆ	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ï—Ò‹Á/
+:
+java:S2386`"Make this member "protected".(´¨•ç8ï—Ò‹Á/
+u
+java:S1192"RDefine a constant instead of duplicating this literal "billingstate_code" 6 times.(€“±ùÿÿÿÿ8ï—Ò‹Á/
+Y	java:S125è"<This block of commented-out lines of code should be removed.(Û÷¿8ï—Ò‹Á/
+e
+java:S1192ñ"HDefine a constant instead of duplicating this literal "invoice" 6 times.(×¼Ú18ï—Ò‹Á/
+r
+java:S1192ò"ODefine a constant instead of duplicating this literal "deliveryboy_id" 6 times.(ÛÇ¡úÿÿÿÿ8ï—Ò‹Á/
+‹
+java:S11286"iRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.container.BundleSizeContainer'.(ş‡öìüÿÿÿÿ8ï—Ò‹Á/
+m
+java:S1192‰"PDefine a constant instead of duplicating this literal "shippingDetails" 6 times.(•ô®/8ï—Ò‹Á/
+[
+java:S1117ö"=Rename "invoiceId" which hides the field declared at line 95.(’œÕÃ8ï—Ò‹Á/
+x	java:S116K"]Rename this field "shippingstate_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ö·68ï—Ò‹Á/
+s	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8ï—Ò‹Á/
+p
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(äš8ï—Ò‹Á/
+u
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¨Íè—ùÿÿÿÿ8ï—Ò‹Á/
+`
+java:S1117î"=Rename "jsonArray" which hides the field declared at line 81.(úã€Ÿÿÿÿÿÿ8ï—Ò‹Á/
+Y	java:S125è"<This block of commented-out lines of code should be removed.(–Û¸8ï—Ò‹Á/
+^	java:S125´"<This block of commented-out lines of code should be removed.(ì—Œøÿÿÿÿ8ï—Ò‹Á/
+Y	java:S125¶"<This block of commented-out lines of code should be removed.(ßê‰À8ï—Ò‹Á/
+M
+java:S1144Ã"0Remove this unused private "checkParams" method.(©¸ìG8ï—Ò‹Á/
+K
+java:S1604ø"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ï—Ò‹Á/
+^	java:S125è"<This block of commented-out lines of code should be removed.(†ÌÛ‰ıÿÿÿÿ8ï—Ò‹Á/
+`
+java:S1117é"=Rename "jsonArray" which hides the field declared at line 81.(úã€Ÿÿÿÿÿÿ8ï—Ò‹Á/
+o
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¾Ç¹8ï—Ò‹Á/
+[
+java:S1117‹"=Rename "invoiceId" which hides the field declared at line 95.(’œÕÃ8ï—Ò‹Á/
+q
+java:S1192õ"SDefine a constant instead of duplicating this literal "customer_firstname" 6 times.(®±²8ï—Ò‹Á/
+K
+java:S1604í"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ï—Ò‹Á/
+
+java:S1319j"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(›Ô¥8ï—Ò‹Á/
+s	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8ï—Ò‹Á/
+E
+java:S1604°"(Make this anonymous inner class a lambda(²» g8ï—Ò‹Á/
+t
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(¨Œşÿÿÿÿ8ï—Ò‹Á/
+:
+java:S2386_"Make this member "protected".(ÉòÊò8ï—Ò‹Á/
+Y	java:S125½"<This block of commented-out lines of code should be removed.(ßê‰À8ï—Ò‹Á/
+X	java:S125Ü"<This block of commented-out lines of code should be removed.(âóã%8ï—Ò‹Á/
+g
+java:S1192é"IDefine a constant instead of duplicating this literal "shop_url" 8 times.(¦ØÚî8ï—Ò‹Á/
+l
+java:S1192Ş"IDefine a constant instead of duplicating this literal "&filter=" 4 times.(‰¨«¾ıÿÿÿÿ8ï—Ò‹Á/
+E
+java:S1604"(Make this anonymous inner class a lambda(²» g8ï—Ò‹Á/
+`
+java:S1117ú"=Rename "jsonArray" which hides the field declared at line 81.(úã€Ÿÿÿÿÿÿ8ï—Ò‹Á/
+M
+java:S1144Ù"0Remove this unused private "checkParams" method.(©¸ìG8ï—Ò‹Á/
+n
+java:S1192ÿ"PDefine a constant instead of duplicating this literal "billingpostcode" 6 times.(’Œîê8ï—Ò‹Á/
+s
+java:S1192ó"PDefine a constant instead of duplicating this literal "customerDetails" 6 times.(ó¹şîşÿÿÿÿ8ï—Ò‹Á/
+¤
+java:S1186Ç	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ¸™áúÿÿÿÿ8ï—Ò‹Á/
+I
+java:S1172Ë"&Remove these unused method parameters.(‚û¡¬şÿÿÿÿ8ó‡©©ş/
+G
+java:S1659W"*Declare "unassign_btn" on a separate line.(–ÎÇô8ï—Ò‹Á/
+t
+java:S1192€"QDefine a constant instead of duplicating this literal "billingtelephone" 6 times.(ŠíÅäÿÿÿÿÿ8ï—Ò‹Á/
+E
+java:S1604³"(Make this anonymous inner class a lambda(²» g8ï—Ò‹Á/
+K
+java:S1604ó"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ï—Ò‹Á/
+‡
+java:S11282"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.MyOrderListModelNew'.(®¹Ç¥8ï—Ò‹Á/
+n
+java:S1192ç"KDefine a constant instead of duplicating this literal "grandTotal" 6 times.(Û‹‹ñûÿÿÿÿ8ï—Ò‹Á/
+[
+java:S1117‡"=Rename "invoiceId" which hides the field declared at line 95.(’œÕÃ8ï—Ò‹Á/
+^	java:S125ô"<This block of commented-out lines of code should be removed.(†ÌÛ‰ıÿÿÿÿ8ï—Ò‹Á/
+e
+java:S1192²"GDefine a constant instead of duplicating this literal "Url..." 8 times.(ˆËÕ8ï—Ò‹Á/
+K
+java:S1905Ğ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ï—Ò‹Á/
+J
+java:S1481Ï",Remove this unused "shopUrl" local variable.(¦ØÚî8ó‡©©ş/
+L
+java:S1068]"/Remove this unused "radioButton" private field.(˜Äïü8ï—Ò‹Á/
+q
+java:S1192"SDefine a constant instead of duplicating this literal "shippingstate_code" 6 times.(Î ˜ô8ï—Ò‹Á/
+E
+java:S1604Ì"(Make this anonymous inner class a lambda(²» g8ï—Ò‹Á/
+K
+java:S1604è"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ï—Ò‹Á/
+i
+java:S1192³"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(§ßŞÕúÿÿÿÿ8ï—Ò‹Á/
+P
+java:S1659M".Declare "visibleItemCount" on a separate line.(üÆö›ıÿÿÿÿ8ï—Ò‹Á/
+r
+java:S1104_"UMake invoiceId a static final constant or non-public and provide accessors if needed.(ÉòÊò8ï—Ò‹Á/
+N
+java:S1659M",Declare "totalItemCount" on a separate line.(üÆö›ıÿÿÿÿ8ï—Ò‹Á/
+E
+java:S1604	"(Make this anonymous inner class a lambda(²» g8ï—Ò‹Á/
+s	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8ï—Ò‹Á/
+M
+java:S1144Í"0Remove this unused private "checkParams" method.(©¸ìG8ï—Ò‹Á/
+Y	java:S125Ï"<This block of commented-out lines of code should be removed.(ßê‰À8ï—Ò‹Á/
+s	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8ï—Ò‹Á/
+E
+java:S1604º"(Make this anonymous inner class a lambda(²» g8ï—Ò‹Á/
+R
+java:S1066"/Merge this if statement with the enclosing one.(±÷»üùÿÿÿÿ8ï—Ò‹Á/
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(©ïò8ï—Ò‹Á/
+Y	java:S125É"<This block of commented-out lines of code should be removed.(ßê‰À8ï—Ò‹Á/
+M
+java:S1144Ô"0Remove this unused private "checkParams" method.(©¸ìG8ï—Ò‹Á/
+^	java:S125Ş"<This block of commented-out lines of code should be removed.(ˆŠÖ“øÿÿÿÿ8ï—Ò‹Á/
+K
+java:S1604ş"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8ï—Ò‹Á/
+K
+java:S1905¼"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ï—Ò‹Á/
+D
+java:S1168¶"&Return an empty array instead of null.(¥¹ï8ï—Ò‹Á/
+K
+java:S1604ş"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8ï—Ò‹Á/
+–
+java:S1319f"tThe type of the "invoiceId" object should be an interface such as "List" rather than the implementation "ArrayList".(×ûÜıÿÿÿÿ8ï—Ò‹Á/
+N
+java:S1659@",Declare "shippingStreet" on a separate line.(½Şéåùÿÿÿÿ8ï—Ò‹Á/
+E
+java:S1604Æ"(Make this anonymous inner class a lambda(²» g8ï—Ò‹Á/
+K
+java:S1604ã"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ï—Ò‹Á/
+[
+java:S1117ÿ"=Rename "invoiceId" which hides the field declared at line 95.(’œÕÃ8ï—Ò‹Á/
+Y	java:S125á"<This block of commented-out lines of code should be removed.(¾ ¿›8ï—Ò‹Á/
+^	java:S125À"<This block of commented-out lines of code should be removed.(ì—Œøÿÿÿÿ8ï—Ò‹Á/
+s	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢í‡şÿÿÿÿ8ï—Ò‹Á/
+k
+java:S1192Œ"MDefine a constant instead of duplicating this literal "shippingcity" 6 times.(åüöÌ8ï—Ò‹Á/
+u
+java:S1192û"RDefine a constant instead of duplicating this literal "paymentModeStatus" 6 times.(ÿÈ¿¨øÿÿÿÿ8ï—Ò‹Á/
+n
+java:S1192æ"PDefine a constant instead of duplicating this literal "totalQtyOrdered" 6 times.(—Áœ8ï—Ò‹Á/
+Y	java:S125³"<This block of commented-out lines of code should be removed.(ßê‰À8ï—Ò‹Á/
+p
+java:S1192ö"RDefine a constant instead of duplicating this literal "customer_lastname" 6 times.(ÄŞñã8ï—Ò‹Á/
+M
+java:S1144ª	"0Remove this unused private "checkParams" method.(©¸ìG8ï—Ò‹Á/
+r
+java:S1192è"ODefine a constant instead of duplicating this literal "shippingAmount" 6 times.(¡í‰ şÿÿÿÿ8ï—Ò‹Á/
+E
+java:S1604Á"(Make this anonymous inner class a lambda(²» g8ï—Ò‹Á/
+Y	java:S125Ä"<This block of commented-out lines of code should be removed.(ßê‰À8ï—Ò‹Á/
+p
+java:S1192ë"MDefine a constant instead of duplicating this literal "increment_id" 6 times.(¢í‡şÿÿÿÿ8ï—Ò‹Á/
+[
+java:S1128"9Remove this unused import 'android.content.IntentFilter'.(ò³ñ£ÿÿÿÿÿ8ï—Ò‹Á/
+d
+java:S1192î"FDefine a constant instead of duplicating this literal "state" 6 times.(ÌôÃÅ8ï—Ò‹Á/
+l
+java:S1192"IDefine a constant instead of duplicating this literal "Response" 8 times.(ËÖ‡©ùÿÿÿÿ8ï—Ò‹Á/
+k
+java:S1192Ù"HDefine a constant instead of duplicating this literal "&limit=" 5 times.(Ì™„‰úÿÿÿÿ8ï—Ò‹Á/
+L
+java:S1444_"/Make this "public static invoiceId" field final(ÉòÊò8ï—Ò‹Á/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€“±ùÿÿÿÿ8ï—Ò‹Á/
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€“±ùÿÿÿÿ8ï—Ò‹Á/
+i
+java:S1192ì"KDefine a constant instead of duplicating this literal "created_at" 6 times.(«œÍ³8ï—Ò‹Á/
+l
+java:S1192„"NDefine a constant instead of duplicating this literal "billingstreet" 6 times.(¾ø¢Ó8ï—Ò‹Á/
+F
+java:S1148ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ï—Ò‹Á/
+X
+java:S2696g"6Make the enclosing method "static" or remove this set.(¬£¾éüÿÿÿÿ8ï—Ò‹Á/
+j
+java:S1192ú"LDefine a constant instead of duplicating this literal "methodTitle" 6 times.(ï¡ÕÑ8ï—Ò‹Á/
+m
+java:S1192‘"ODefine a constant instead of duplicating this literal "shippingstreet" 6 times.(”–€é8ï—Ò‹Á/
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(êïØıÿÿÿÿÿ8ï—Ò‹Á/
+K
+java:S1905Ü"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ï—Ò‹Á/
+Y	java:S125³"<This block of commented-out lines of code should be removed.(©ïò8ï—Ò‹Á/
+^	java:S125¾	"<This block of commented-out lines of code should be removed.(‡×øşÿÿÿÿ8ï—Ò‹Á/
+Œ
+java:S1192Ù"iDefine a constant instead of duplicating this literal "customapi/getDeliveryOderList?seller_id=" 5 times.(Ì™„‰úÿÿÿÿ8ï—Ò‹Á/
+…
+java:S11285"hRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.ProductListActivity'.(ïãìÚ8ï—Ò‹Á/
+s	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€“±ùÿÿÿÿ8ï—Ò‹Á/
+D
+java:S1168§	"&Return an empty array instead of null.(¥¹ï8ï—Ò‹Á/
+K
+java:S1905Æ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ï—Ò‹Á/
+
+java:S1319`"sThe type of the "entityId" object should be an interface such as "List" rather than the implementation "ArrayList".(´¨•ç8ï—Ò‹Á/
+g
+java:S1192í"IDefine a constant instead of duplicating this literal "subtotal" 6 times.(«‘¹ƒ8ï—Ò‹Á/
+n
+java:S1192É"KDefine a constant instead of duplicating this literal "invoice_id" 7 times.(ş¨¾Œıÿÿÿÿ8ï—Ò‹Á/
+`
+java:S1117ş"=Rename "jsonArray" which hides the field declared at line 81.(úã€Ÿÿÿÿÿÿ8ï—Ò‹Á/
+n	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8ó‡©©ş/
+X
+java:S2696o"6Make the enclosing method "static" or remove this set.(ò¶Çÿıÿÿÿÿ8ï—Ò‹Á/
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8ï—Ò‹Á/
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(‹Ò‚Óüÿÿÿÿ8ï—Ò‹Á/
+•
+java:S1319n"sThe type of the "entityId" object should be an interface such as "List" rather than the implementation "ArrayList".(ºÊ˜§øÿÿÿÿ8ï—Ò‹Á/
+w
+java:S1192ñ"YDefine a constant instead of duplicating this literal "Loading My Orders......." 4 times.(ÙÉ¨8ï—Ò‹Á/
+K
+java:S1905­	"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ï—Ò‹Á/
+^	java:S125Í"<This block of commented-out lines of code should be removed.(šÇşÿÿÿÿ8ï—Ò‹Á/
+n	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«œÍ³8ó‡©©ş/

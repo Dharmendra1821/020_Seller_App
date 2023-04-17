@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:weightSum="2">
+
+<!--        <CheckBox-->
+<!--            android:id="@+id/sms_sub_contact_checkbox"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_height="wrap_content">-->
+
+<!--        </CheckBox>-->
+
+        <TextView
+            android:id="@+id/sms_sub_contact_id"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:layout_weight="1"
+            android:text=""
+            android:textSize="14dp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/sms_sub_contact_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textColor="#333333"
+            android:layout_weight="1"
+            android:text=""
+            android:textSize="14dp">
+        </TextView>
+
+
+
+    </LinearLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

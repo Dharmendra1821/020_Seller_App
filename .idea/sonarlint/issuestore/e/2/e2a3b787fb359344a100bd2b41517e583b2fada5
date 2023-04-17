@@ -1,0 +1,53 @@
+
+Z
+java:S2589ί"7Remove this expression which always evaluates to "true"(¥ί‡ςϋÿÿÿÿ8ΰΠώρυ.
+D
+java:S1172υ"&Remove these unused method parameters.(Έ8ΰΠώρυ.
+[
+java:S1128"9Remove this unused import 'android.webkit.CookieManager'.(¤µΛύÿÿÿÿ8–—‹ςυ.
+S
+java:S1172d"1Remove this unused method parameter "acceptType".(µ‹ςσύÿÿÿÿ8ΰΠώρυ.
+Y	java:S125β"<This block of commented-out lines of code should be removed.(ΫύªΨ8ΰΠώρυ.
+U
+java:S1135¨"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ8ΰΠώρυ.
+ƒ
+java:S4165‹"eRemove this useless assignment; "results" already holds the assigned value along all execution paths.(Ρς8ΰΠώρυ.
+F
+java:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ΰΠώρυ.
+‡
+java:S4165ω"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(‘σΦύÿÿÿÿ8ΰΠώρυ.
+p
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•Αξ¤8ΰΠώρυ.
+L
+java:S1128"/Remove this unused import 'retrofit2.Retrofit'.(Πέ8Ί·ου.
+d
+java:S1192i"HDefine a constant instead of duplicating this literal "image/*" 3 times.(Λ­τ}8ΰΠώρυ.
+I
+java:S1172"&Remove these unused method parameters.(“ΩβΌόÿÿÿÿ8ΰΠώρυ.
+X	java:S125]"<This block of commented-out lines of code should be removed.(Υρςΰ8ΰΠώρυ.
+o	java:S101¤"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(νϋΉεÿÿÿÿÿ8ΰΠώρυ.
+b
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(­Ωέ8Ί·ου.
+Y	java:S125ύ"<This block of commented-out lines of code should be removed.(±Ζΰ8ΰΠώρυ.
+U
+java:S1135·"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ8ΰΠώρυ.
+F
+java:S1148€"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ΰΠώρυ.
+K
+java:S1185§"(Remove this method to simply inherit it.(ύ¤Πόωÿÿÿÿ8ΰΠώρυ.
+u
+java:S1104-"YMake uploadMessage a static final constant or non-public and provide accessors if needed.(Α­¶08Ί·ου.
+K
+java:S1172p"/Remove this unused method parameter "mWebView".(οΏΑ78ΰΠώρυ.
+U
+java:S1135®"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ8ΰΠώρυ.
+K
+java:S1185ΐ"(Remove this method to simply inherit it.(ΊΪΡÒώÿÿÿÿ8ΰΠώρυ.
+[
+java:S2589Ψ"8Remove this expression which always evaluates to "false"(ΰό†•ϊÿÿÿÿ8ΰΠώρυ.
+u
+java:S1128""XRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.util.MPOSRetrofitClient'.(€ΡΓχ8Ί·ου.
+Y	java:S125›"<This block of commented-out lines of code should be removed.(¤ΟΥ”8ΰΠώρυ.
+^	java:S125Η"<This block of commented-out lines of code should be removed.(ÒΜβ–ψÿÿÿÿ8ΰΠώρυ.
+p
+java:S3776Π"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(κΐ8ΰΠώρυ.

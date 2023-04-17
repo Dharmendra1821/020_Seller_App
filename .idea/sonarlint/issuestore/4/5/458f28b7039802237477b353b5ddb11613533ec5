@@ -1,0 +1,19 @@
+
+rsquid:UselessImportCheck"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8Õ‡‚úå-
+msquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ï‚œ8ı§‹úå-
+ssquid:S00116"TRename this field "entity_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù™Î8–äËëß-
+tsquid:S00116"URename this field "media_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ìÏÖ8–äËëß-
+usquid:S00117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èô²©ÿÿÿÿÿ8ı§‹úå-
+wsquid:S00116	"SRename this field "value_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ïŞşÿÿÿÿ8–äËëß-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÙÍÁşÿÿÿÿ8ı§‹úå-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÙÍÁşÿÿÿÿ8ı§‹úå-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÉ8ı§‹úå-
+…"squid:ClassVariableVisibilityCheck
+"PMake file a static final constant or non-public and provide accessors if needed.( ©„ı8ÂÌ‰úå-
+rsquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èô²©ÿÿÿÿÿ8ı§‹úå-
+rsquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â²âˆşÿÿÿÿ8ı§‹úå-
+psquid:S00117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ï‚œ8ı§‹úå-
+"squid:ClassVariableVisibilityCheck	"TMake value_id a static final constant or non-public and provide accessors if needed.(¹ïŞşÿÿÿÿ8ÂÌ‰úå-
+Š"squid:ClassVariableVisibilityCheck"UMake entity_id a static final constant or non-public and provide accessors if needed.(Ù™Î8ÂÌ‰úå-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´®ÿÿÿÿÿ8ı§‹úå-
+‹"squid:ClassVariableVisibilityCheck"VMake media_type a static final constant or non-public and provide accessors if needed.(¶ìÏÖ8ÂÌ‰úå-

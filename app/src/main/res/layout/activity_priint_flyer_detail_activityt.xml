@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:id="@+id/main_templateId"
+    tools:context=".seller_app.activity.PriintFlyerDetailActivityt">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/template_banner"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"></ImageView>
+
+        <LinearLayout
+            android:id="@+id/title_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="6dp"
+            android:visibility="gone"
+            android:layout_marginTop="-180dp"
+            android:background="#FACA23">
+
+            <EditText
+                android:id="@+id/template_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textColor="#FFFFFF"
+                android:background="@null"
+                android:text="dfgdfgfdg">
+
+            </EditText>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/summary_layout"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginTop="-60dp"
+                android:background="#FACA23"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:padding="15dp">
+
+                <EditText
+                    android:id="@+id/template_summary"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="#FFFFFF"
+                    android:background="@null"
+                    android:textSize="12dp">
+
+                </EditText>
+
+
+            </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/flyproduct_layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:visibility="gone"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/print_productImage1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/download">
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/print_productName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:singleLine="true"
+                android:layout_marginTop="5dp"
+                android:text=""></TextView>
+
+            <TextView
+                android:id="@+id/print_productPrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:layout_marginTop="5dp"
+                android:text=""></TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/print_productImage2"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/download">
+
+            </ImageView>
+
+            <TextView
+             android:id="@+id/print_productName2"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textSize="16dp"
+             android:textColor="#333"
+                android:singleLine="true"
+             android:text=""></TextView>
+
+            <TextView
+                android:id="@+id/print_productPrice2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:layout_marginTop="5dp"
+                android:text=""></TextView>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/print_productImage3"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/download">
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/print_productName3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:singleLine="true"
+                android:text=""></TextView>
+
+            <TextView
+                android:id="@+id/print_productPrice3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:layout_marginTop="5dp"
+                android:text=""></TextView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/flyproduct_layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:visibility="gone"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/print_productImage4"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/download">
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/print_productName4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:singleLine="true"
+                android:text=""></TextView>
+
+
+            <TextView
+                android:id="@+id/print_productPrice4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:layout_marginTop="5dp"
+                android:text=""></TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/print_productImage5"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/download">
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/print_productName5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:singleLine="true"
+                android:text=""></TextView>
+
+            <TextView
+                android:id="@+id/print_productPrice5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:layout_marginTop="5dp"
+                android:text=""></TextView>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/print_productImage6"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/download">
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/print_productName6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:singleLine="true"
+                android:text=""></TextView>
+
+            <TextView
+                android:id="@+id/print_productPrice6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#333"
+                android:layout_marginTop="5dp"
+                android:text=""></TextView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/flyer_divider"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="#FACA23"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:layout_marginTop="10dp"
+        android:padding="10dp">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/flyer_footer"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:visibility="gone"
+        android:background="#333333"
+        android:weightSum="3">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/shop_logo"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:foregroundGravity="center"
+                android:layout_margin="10dp">
+
+            </ImageView>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#FACA23"
+            android:layout_margin="5dp"></View>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textColor="#FFFFFF"
+                    android:text="Call us:">
+
+                </TextView>
+
+                <TextView
+                    android:id="@+id/flyer_contact_detail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textColor="#FFFFFF"
+                    android:text="">
+
+                </TextView>
+
+            </LinearLayout>
+
+        </LinearLayout>
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#FACA23"
+            android:layout_margin="5dp"></View>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1">
+
+
+            <TextView
+                android:id="@+id/flyer_store_url"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="#FFFFFF"
+                android:text="">
+
+            </TextView>
+            <ImageView
+                android:id="@+id/flyer_qrcode"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:foregroundGravity="center"
+                android:visibility="gone"
+                android:layout_margin="10dp">
+
+            </ImageView>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/save_template"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="@color/new_btn_color"
+        android:textColor="#FFFFFF"
+        android:padding="10dp"
+        android:visibility="gone"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Save Template">
+
+    </Button>
+        </LinearLayout>
+
+    </ScrollView>
+</androidx.appcompat.widget.LinearLayoutCompat>

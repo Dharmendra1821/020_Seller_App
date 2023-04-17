@@ -1,0 +1,29 @@
+
+r
+java:S1192a"PDefine a constant instead of duplicating this literal "SelectedInvoice" 3 times.(Ò—òƒşÿÿÿÿ8ÜŞİå.
+O
+java:S16594"-Declare "contactTextView" on a separate line.(ŠÉÅ˜şÿÿÿÿ8ÜŞİå.
+Y	java:S125”"<This block of commented-out lines of code should be removed.( ƒöÖ8ÜŞİå.
+N
+java:S16597"1Declare "onlinePaymentButton" on a separate line.(¦ê¨Æ8ÜŞİå.
+J
+java:S1874;"-Remove this use of "Space"; it is deprecated.(ú²Õ8ÜŞİå.
+`
+java:S1155t">Use isEmpty() to check whether the collection is empty or not.(ëè¨úÿÿÿÿ8µÀÅ¶/
+h
+java:S1301Â"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8ÜŞİå.
+N
+java:S16594",Declare "amountTextView" on a separate line.(ŠÉÅ˜şÿÿÿÿ8ÜŞİå.
+O
+java:S16594"-Declare "invoiceTextView" on a separate line.(ŠÉÅ˜şÿÿÿÿ8ÜŞİå.
+Z
+java:S16594"8Declare "somethingWentWrongTextView" on a separate line.(ŠÉÅ˜şÿÿÿÿ8ÜŞİå.
+R
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8ó¾•Å¶/
+w
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó…Ï»8ÜŞİå.
+^	java:S125ª"<This block of commented-out lines of code should be removed.(ø£¦×üÿÿÿÿ8ºóèå.
+O
+java:S16594"-Declare "addressTextView" on a separate line.(ŠÉÅ˜şÿÿÿÿ8ÜŞİå.
+F
+java:S1604ı"(Make this anonymous inner class a lambda(„ÑñŒ8ÜŞİå.

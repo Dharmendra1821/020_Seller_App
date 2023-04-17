@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:bind="http://schemas.android.com/tools">
+
+    <data>
+        <import type="android.view.View"/>
+        <variable
+            name="loginActivity"
+            type="standalone.eduqfix.qfixinfo.com.app.login.activity.LoginActivity"/>
+
+        <variable
+            name="loginViewModel"
+            type="standalone.eduqfix.qfixinfo.com.app.login.viewmodel.LoginViewModel"/>
+    </data>
+
+
+
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/home_bg"
+        tools:context="shopping_pos.eduqfix.qfixinfo.com.shoppingmpos.Login.activity.LoginActivity">
+
+        <androidx.legacy.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="30dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/email_screen_logo"/>
+
+        <!--<android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="5dp"
+            android:elevation="5dp"
+            app:cardElevation="5dp">-->
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Login to continue"
+                    android:textColor="#fff"
+                    android:textStyle="bold"
+                    android:textSize="16sp"
+                    android:layout_gravity="center_horizontal"/>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="20dp" />
+
+                <TextView android:id="@+id/errorMessageTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="*Invalid username/password"
+                    android:textColor="@color/exit_button_color"
+                    android:visibility="@{loginViewModel.showLoginErrorMessage ? View.VISIBLE : View.GONE}"
+                    android:textStyle="bold"/>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/TextLabel">
+
+                    <EditText android:id="@+id/usernameEditText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Enter Username"
+                        android:textColor="#fff"
+                        android:inputType="textEmailAddress"
+                        android:singleLine="true"
+                        android:afterTextChanged="@{(editable)->loginViewModel.afterUsernameTextChanged(editable)}"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="10dp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:theme="@style/TextLabel">
+
+                    <EditText android:id="@+id/passwordEditText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Enter Password"
+                        android:textColor="#fff"
+                        android:inputType="textPassword"
+                        android:singleLine="true"
+                        android:afterTextChanged="@{(editable)->loginViewModel.afterPasswordTextChanged(editable)}"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView android:id="@+id/show_password"
+                    android:padding="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Show password"
+                    android:textColor="@color/new_start_color"
+                    android:layout_gravity="start"
+                    />
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="10dp" />
+
+                <TextView android:id="@+id/errorTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="*Invalid username/password provided"
+                    android:textColor="#da0808"
+                    android:textStyle="bold"
+                    android:visibility="gone"/>
+
+
+                <TextView android:id="@+id/forgotPasswordTextView"
+                    android:padding="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Forgot Password"
+                    android:textColor="@color/new_start_color"
+                    android:layout_gravity="end"
+                    android:onClick="@{(view)->loginViewModel.forgotPassword()}"/>
+
+
+
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="15dp" />
+
+
+                <Button android:id="@+id/loginButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Login"
+                    android:background="@drawable/new_login_button"
+                    android:textColor="@color/colorWhite"
+                    android:onClick="@{(view)->loginViewModel.doLogin()}"
+                    bind:toastMessage="@{loginViewModel.toastMessage}"/>
+
+                <androidx.legacy.widget.Space
+                    android:layout_width="0dp"
+                    android:layout_height="10dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="OR"
+                    android:textSize="20dp"
+                    android:layout_marginTop="0dp"
+                    android:textColor="@color/colorWhite"
+                    android:layout_gravity="center"
+                    android:gravity="center"/>
+
+
+
+
+                <Button
+                    android:id="@+id/continue_with_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Continue with Mobile"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/new_login_button"
+                    android:textColor="@color/colorWhite"/>
+
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="App Version : 1.0 "
+                    android:textStyle="bold|italic"
+                    android:textSize="16sp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/new_start_color"
+                    android:layout_gravity="center_horizontal"/>
+
+            </LinearLayout>
+
+        <!--</android.support.v7.widget.CardView>-->
+
+    </LinearLayout>
+
+</layout>

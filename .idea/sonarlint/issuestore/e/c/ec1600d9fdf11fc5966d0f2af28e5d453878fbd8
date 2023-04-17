@@ -1,0 +1,48 @@
+
+K
+java:S1905ê"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8 ¶Ãç†/
+Y	java:S125Ğ"<This block of commented-out lines of code should be removed.(ßê‰À8 ¶Ãç†/
+z	java:S1165"YRename this field "sub_categoryid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×²Úšüÿÿÿÿ8 ¶Ãç†/
+ƒ
+java:S1128&"aRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.GroupModel'.(–…ê°şÿÿÿÿ8 ¶Ãç†/
+ƒ	java:S116<"bRename this field "product_category_submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿•Éˆıÿÿÿÿ8 ¶Ãç†/
+s	java:S1167"WRename this field "sub_parentid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼í©¾8 ¶Ãç†/
+{
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÀÍ¦ÿÿÿÿÿ8 ¶Ãç†/
+n	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áô‰æ8 ¶Ãç†/
+J
+java:S2326-"(categoriesname is not used in the class.(¾šøáúÿÿÿÿ8 ¶Ãç†/
+v
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Ëû8 ¶Ãç†/
+J
+java:S1481†",Remove this unused "shopUrl" local variable.(¦ØÚî8¦¶û¦ş/
+X
+java:S1141˜"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 ¶Ãç†/
+`
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(Ÿç‰¨ıÿÿÿÿ8 ¶Ãç†/
+p
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¾Š”«8 ¶Ãç†/
+x	java:S1166"WRename this field "sub_imageurl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÏ¼ÿÿÿÿÿ8 ¶Ãç†/
+Y	java:S125‰"<This block of commented-out lines of code should be removed.(Ø£®£8 ¶Ãç†/
+M
+java:S1144ç"0Remove this unused private "checkParams" method.(©¸ìG8 ¶Ãç†/
+n	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¡†’8 ¶Ãç†/
+j	java:S119-"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¾šøáúÿÿÿÿ8 ¶Ãç†/
+F
+java:S1148Ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ¶Ãç†/
+{
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ½¨Üşÿÿÿÿ8 ¶Ãç†/
+E
+java:S1604Ì"(Make this anonymous inner class a lambda(²» g8 ¶Ãç†/
+Y	java:S125á"<This block of commented-out lines of code should be removed.(­Îá¾8 ¶Ãç†/
+h
+java:S1192r"LDefine a constant instead of duplicating this literal "category_id" 3 times.(«¡¼8 ¶Ãç†/
+{
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÏúşÿÿÿÿ8 ¶Ãç†/
+K
+java:S1604‘"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8 ¶Ãç†/
+t	java:S1168"SRename this field "sub_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÁÍùÿÿÿÿ8 ¶Ãç†/
+v
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(†µú¶8 ¶Ãç†/
+|
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8 ¶Ãç†/

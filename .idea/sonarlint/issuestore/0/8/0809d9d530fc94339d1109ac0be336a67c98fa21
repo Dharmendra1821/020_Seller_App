@@ -1,0 +1,6 @@
+
+‡squid:S13198"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(®¼ê“
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ÆÉŒÎúÿÿÿÿ
+usquid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰°õôýÿÿÿÿ
+usquid:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ¶ªØúÿÿÿÿ
+Œsquid:S1319R"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ßœÊáüÿÿÿÿ

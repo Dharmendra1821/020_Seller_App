@@ -1,0 +1,232 @@
+
+
+java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+8
+java:S16599"#Declare "igst2" on a separate line.(®ª•O
+
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+?	java:S108û")Either remove or fill this block of code.(”ı¾
+=
+java:S1659:"(Declare "removeBtn3" on a separate line.(¶ş­
+e
+java:S1104R"OMake Ids a static final constant or non-public and provide accessors if needed.(ÇÌƒÁ
+<
+java:S1659:"'Declare "removeBtn" on a separate line.(¶ş­
+C
+java:S1659="(Declare "checkigst2" on a separate line.(ƒ’Ö­ÿÿÿÿÿ
+
+java:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+C
+java:S1659<"(Declare "checkcgst3" on a separate line.(›ÿñùÿÿÿÿ
+R	java:S125ç"<This block of commented-out lines of code should be removed.(ÊÖ«
+8
+java:S16599"#Declare "igst4" on a separate line.(®ª•O
+9
+java:S16596"$Declare "price2" on a separate line.(ä£î
+3
+java:S1116¼"Remove this empty statement.(¶ñÿá
+3
+java:S1116½"Remove this empty statement.(¶ñÿá
+R	java:S125é"<This block of commented-out lines of code should be removed.(®ƒ÷
+˜
+java:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+˜
+java:S1186ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+R	java:S125…"<This block of commented-out lines of code should be removed.(ºâèó
+„
+java:S1319R"nThe type of the "Ids" object should be an interface such as "List" rather than the implementation "ArrayList".(ÇÌƒÁ
+:
+java:S1659P"%Declare "linear2" on a separate line.(ü÷¥#
+
+java:S1319S"tThe type of the "removeIds" object should be an interface such as "List" rather than the implementation "ArrayList".(£³Î‚úÿÿÿÿ
+3
+java:S1116Î"Remove this empty statement.(¶ñÿá
+˜
+java:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+d
+java:S3008R"NRename this field "Ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÌƒÁ
+@
+java:S16593"%Declare "layout5" on a separate line.(Ø±û‚şÿÿÿÿ
+G
+java:S1481©"1Remove this unused "initiateData" local variable.(÷û”#
+3
+java:S1116œ"Remove this empty statement.(¶ñÿá
+;
+java:S16595"&Declare "product2" on a separate line.(«öÒN
+9
+java:S16596"$Declare "price4" on a separate line.(ä£î
+C
+java:S1659<"(Declare "checkcgst4" on a separate line.(›ÿñùÿÿÿÿ
+9
+java:S1659:"$Declare "addBtn" on a separate line.(¶ş­
+˜
+java:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+=
+java:S16597""Declare "qty3" on a separate line.(°ÓÄ‚ûÿÿÿÿ
+
+java:S1186û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+9
+java:S16596"$Declare "price5" on a separate line.(ä£î
+;
+java:S16595"&Declare "product4" on a separate line.(«öÒN
+9
+java:S16596"$Declare "price3" on a separate line.(ä£î
+3
+java:S1116í"Remove this empty statement.(¶ñÿá
+F
+java:S1144 "0Remove this unused private "checkParams" method.(©¸ìG
+C
+java:S1659="(Declare "checkigst4" on a separate line.(ƒ’Ö­ÿÿÿÿÿ
+=
+java:S16597""Declare "qty4" on a separate line.(°ÓÄ‚ûÿÿÿÿ
+
+java:S1128*"dRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.SellerInvoiceModel'.(‚©‡ñÿÿÿÿÿ
+˜
+java:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+˜
+java:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+˜
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+3
+java:S1116…"Remove this empty statement.(¶ñÿá
+8
+java:S16599"#Declare "igst5" on a separate line.(®ª•O
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Á¸ãşÿÿÿÿ
+˜
+java:S1186Á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+@
+java:S16593"%Declare "layout3" on a separate line.(Ø±û‚şÿÿÿÿ
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(Å‡Ò¼
+
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+3
+java:S1116Û"Remove this empty statement.(¶ñÿá
+C
+java:S1659="(Declare "checkigst3" on a separate line.(ƒ’Ö­ÿÿÿÿÿ
+
+java:S1186Ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+3
+java:S1116Ó"Remove this empty statement.(¶ñÿá
+=
+java:S1659:"(Declare "removeBtn2" on a separate line.(¶ş­
+
+java:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+<
+java:S16594"!Declare "id2" on a separate line.(ß­ÑÖÿÿÿÿÿ
+˜
+java:S1186¯"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+3
+java:S1116¶"Remove this empty statement.(¶ñÿá
+3
+java:S1116¤"Remove this empty statement.(¶ñÿá
+R	java:S125…"<This block of commented-out lines of code should be removed.(ßê‰À
+;
+java:S16595"&Declare "product3" on a separate line.(«öÒN
+J
+java:S16593"/Declare "productListLayout" on a separate line.(Ø±û‚şÿÿÿÿ
+
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+=
+java:S1659:"(Declare "removeBtn4" on a separate line.(¶ş­
+„
+java:S1319Y"nThe type of the "ids" object should be an interface such as "List" rather than the implementation "ArrayList".(©¼Ú
+<
+java:S16594"!Declare "id5" on a separate line.(ß­ÑÖÿÿÿÿÿ
+9
+java:S16598"#Declare "cgst5" on a separate line.(éùåõ
+˜
+java:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+<
+java:S16594"!Declare "id4" on a separate line.(ß­ÑÖÿÿÿÿÿ
+=
+java:S16597""Declare "qty5" on a separate line.(°ÓÄ‚ûÿÿÿÿ
+C
+java:S1659="(Declare "checkigst5" on a separate line.(ƒ’Ö­ÿÿÿÿÿ
+C
+java:S1659<"(Declare "checkcgst2" on a separate line.(›ÿñùÿÿÿÿ
+3
+java:S1116ó"Remove this empty statement.(¶ñÿá
+˜
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+˜
+java:S1186˜"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+3
+java:S1116Š"Remove this empty statement.(¶ñÿá
+;
+java:S16595"&Declare "product5" on a separate line.(«öÒN
+@
+java:S16593"%Declare "layout4" on a separate line.(Ø±û‚şÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+=
+java:S1168›"&Return an empty array instead of null.(¥¹ï
+Š
+java:S1319a"tThe type of the "removeIds" object should be an interface such as "List" rather than the implementation "ArrayList".(³É»œ
+‹
+java:S1319U"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¥«™ÿÿÿÿÿ
+D
+java:S1604ì"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ
+9
+java:S16598"#Declare "cgst4" on a separate line.(éùåõ
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¡é††
+D
+java:S1905£"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ
+<
+java:S16594"!Declare "id3" on a separate line.(ß­ÑÖÿÿÿÿÿ
+9
+java:S16598"#Declare "cgst3" on a separate line.(éùåõ
+˜
+java:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+8
+java:S16599"#Declare "igst3" on a separate line.(®ª•O
+=	java:S131ò""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+N
+java:S1135¿"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+C
+java:S1659<"(Declare "checkcgst5" on a separate line.(›ÿñùÿÿÿÿ
+3
+java:S1116å"Remove this empty statement.(¶ñÿá
+
+java:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+=
+java:S1659:"(Declare "removeBtn5" on a separate line.(¶ş­
+@
+java:S16593"%Declare "layout2" on a separate line.(Ø±û‚şÿÿÿÿ
+J
+java:S1444S"/Make this "public static removeIds" field final(£³Î‚úÿÿÿÿ
+?
+java:S1444R")Make this "public static Ids" field final(ÇÌƒÁ
+
+java:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+
+java:S1186É"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+=
+java:S16597""Declare "qty2" on a separate line.(°ÓÄ‚ûÿÿÿÿ
+˜
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ
+
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(Ğ†ôúÿÿÿÿ
+p
+java:S1104S"UMake removeIds a static final constant or non-public and provide accessors if needed.(£³Î‚úÿÿÿÿ
+8
+java:S2386S"Make this member "protected".(£³Î‚úÿÿÿÿ
+
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÓ¨¹üÿÿÿÿ
+9
+java:S16598"#Declare "cgst2" on a separate line.(éùåõ
+L
+java:S1481®"0Remove this unused "jsonObject1" local variable.(ÍÒ‰ñşÿÿÿÿ
+>
+java:S1604‚"(Make this anonymous inner class a lambda(²» g
+‹
+java:S1319]"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©Ûâüúÿÿÿÿ
+3
+java:S2386R"Make this member "protected".(ÇÌƒÁ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(¦‘Î±ÿÿÿÿÿ

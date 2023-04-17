@@ -1,0 +1,164 @@
+
+K
+java:S1659H")Declare "companyLogo" on a separate line.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+s	java:S116E"WRename this field "privacy_less" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÎ…ê8ğ‡«ç†/
+Q
+java:S1128&"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8ğ‡«ç†/
+Y	java:S125¨"<This block of commented-out lines of code should be removed.(ßê‰À8ğ‡«ç†/
+u
+java:S1128#"XRemove this unused import 'com.ms.square.android.expandabletextview.ExpandableTextView'.(š‡ Ñ8ğ‡«ç†/
+D
+java:S1659V""Declare "save" on a separate line.(š×€ıÿÿÿÿ8ğ‡«ç†/
+z	java:S116D"YRename this field "privacy_policy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èìêıÿÿÿÿ8ğ‡«ç†/
+N
+java:S1659H",Declare "shippingPolicy" on a separate line.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+T
+java:S1659F"2Declare "shipping_policy_edit" on a separate line.(—±ı•ÿÿÿÿÿ8ğ‡«ç†/
+m	java:S116R"QRename this field "gst_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çô‚8ğ‡«ç†/
+i
+java:S1192Ù"KDefine a constant instead of duplicating this literal "Take Photo" 4 times.(ŠÛ£‚8ğ‡«ç†/
+”
+java:S11286"rRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.AddNewProductListAdapter'.(·§óôşÿÿÿÿ8ğ‡«ç†/
+Œ
+java:S11288"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.AddNewProductImages'.(±ÆÖùÿÿÿÿ8ğ‡«ç†/
+X
+java:S11283"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8ğ‡«ç†/
+	java:S116F"^Rename this field "privacy_policy_edit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—±ı•ÿÿÿÿÿ8ğ‡«ç†/
+E
+java:S1604¢"(Make this anonymous inner class a lambda(²» g8ğ‡«ç†/
+w
+java:S1192Û"TDefine a constant instead of duplicating this literal "Choose from Library" 4 times.(¬Ó‰üÿÿÿÿ8ğ‡«ç†/
+’
+java:S11289"pRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.AddNewProductMediaGallery'.(’úÈâúÿÿÿÿ8ğ‡«ç†/
+K
+java:S1659I")Declare "SELECT_FILE" on a separate line.(¸é€ûÿÿÿÿ8ğ‡«ç†/
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ‡«ç†/
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ‡«ç†/
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8ğ‡«ç†/
+L
+java:S1659H"*Declare "returnPolicy" on a separate line.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+N
+java:S1659H",Declare "companyBannner" on a separate line.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+C
+java:S1659B"!Declare "pan" on a separate line.(ÄäÖ®ûÿÿÿÿ8ğ‡«ç†/
+F
+java:S1148É"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ‡«ç†/
+	java:S116B"^Rename this field "company_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄäÖ®ûÿÿÿÿ8ğ‡«ç†/
+O
+java:S1659H"-Declare "companyLocality" on a separate line.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+F
+java:S1148Ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ‡«ç†/
+w	java:S116I"VRename this field "SELECT_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸é€ûÿÿÿÿ8ğ‡«ç†/
+‹
+java:S11287"nRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.AddNewProductAttributes'.(†õäŠ8ğ‡«ç†/
+~	java:S116F"]Rename this field "retutn_policy_edit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—±ı•ÿÿÿÿÿ8ğ‡«ç†/
+z	java:S116I"YRename this field "REQUEST_CAMERA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸é€ûÿÿÿÿ8ğ‡«ç†/
+h
+java:S2259q"KA "NullPointerException" could be thrown; "loginResponse" is nullable here.(ˆš„Ô8ğ‡«ç†/
+q	java:S116H"PRename this field "GSTIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+F
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ‡«ç†/
+F
+java:S1148¶"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ‡«ç†/
+s	java:S116E"WRename this field "privacy_more" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÎ…ê8ğ‡«ç†/
+y	java:S116D"XRename this field "retutn_policy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èìêıÿÿÿÿ8ğ‡«ç†/
+K
+java:S1905Â"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ğ‡«ç†/
+?	java:S131ò""Add a default case to this switch.(ºÖ8ğ‡«ç†/
+^	java:S899±"BDo something with the "boolean" value returned by "createNewFile".(ÌŞ±>8ğ‡«ç†/
+u	java:S116D"TRename this field "read_more" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èìêıÿÿÿÿ8ğ‡«ç†/
+ƒ
+java:S1845H"aRename field "GSTIN" to prevent any misunderstanding/clash with field "gstin" defined on line 66.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+p	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¯ìˆıÿÿÿÿ8ğ‡«ç†/
+Y	java:S125¹"<This block of commented-out lines of code should be removed.(­Îá¾8ğ‡«ç†/
+D
+java:S1659C""Declare "logo" on a separate line.(È­·Âüÿÿÿÿ8ğ‡«ç†/
+l	java:S116Q"QRename this field "pan_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¸áI8ğ‡«ç†/
+L
+java:S1659I"*Declare "SELECT_FILE1" on a separate line.(¸é€ûÿÿÿÿ8ğ‡«ç†/
+^	java:S125Ö"<This block of commented-out lines of code should be removed.(Äş“úÿÿÿÿ8ğ‡«ç†/
+u	java:S116N"TRename this field "seller_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÿÑùÿÿÿÿ8ğ‡«ç†/
+I
+java:S1659H"'Declare "shopTitle" on a separate line.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+w	java:S116D"VRename this field "retutn_more" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èìêıÿÿÿÿ8ğ‡«ç†/
+I
+java:S1659H"'Declare "PanNumber" on a separate line.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+|	java:S116B"[Rename this field "company_locality" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄäÖ®ûÿÿÿÿ8ğ‡«ç†/
+K
+java:S1604“"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8ğ‡«ç†/
+M
+java:S1128/"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ğ‡«ç†/
+I
+java:S1659D"'Declare "read_less" on a separate line.(Èìêıÿÿÿÿ8ğ‡«ç†/
+K
+java:S1659D")Declare "retutn_more" on a separate line.(Èìêıÿÿÿÿ8ğ‡«ç†/
+k	java:S100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äµĞ½8ğ‡«ç†/
+M
+java:S1144¿"0Remove this unused private "checkParams" method.(©¸ìG8ğ‡«ç†/
+N
+java:S1144ä"0Remove this unused private "selectImage" method.(çÎû8ğ‡«ç†/
+n
+java:S1301Ö"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8ğ‡«ç†/
+P
+java:S1659B".Declare "company_locality" on a separate line.(ÄäÖ®ûÿÿÿÿ8ğ‡«ç†/
+x	java:S116I"WRename this field "SELECT_FILE1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸é€ûÿÿÿÿ8ğ‡«ç†/
+u	java:S116D"TRename this field "read_less" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èìêıÿÿÿÿ8ğ‡«ç†/
+K
+java:S1905Â"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ğ‡«ç†/
+Y	java:S125…"<This block of commented-out lines of code should be removed.(…Ç8ğ‡«ç†/
+S
+java:S1659F"1Declare "privacy_policy_edit" on a separate line.(—±ı•ÿÿÿÿÿ8ğ‡«ç†/
+I
+java:S1659D"'Declare "read_more" on a separate line.(Èìêıÿÿÿÿ8ğ‡«ç†/
+c
+java:S2147·"ECombine this catch with the one at line 565, which has the same body.(ï­£Ä8ğ‡«ç†/
+E
+java:S1659H"#Declare "GSTIN" on a separate line.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+t
+java:S1192ü"QDefine a constant instead of duplicating this literal "[^a-zA-Z0-9\\s+]" 3 times.(âÇ¼ûÿÿÿÿ8ğ‡«ç†/
+F
+java:S1148¸"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ‡«ç†/
+S
+java:S1659B"1Declare "company_description" on a separate line.(ÄäÖ®ûÿÿÿÿ8ğ‡«ç†/
+N
+java:S1659D",Declare "privacy_policy" on a separate line.(Èìêıÿÿÿÿ8ğ‡«ç†/
+Y	java:S125î"<This block of commented-out lines of code should be removed.(€º»ë8ğ‡«ç†/
+K
+java:S1659D")Declare "retutn_less" on a separate line.(Èìêıÿÿÿÿ8ğ‡«ç†/
+u	java:S116H"TRename this field "PanNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/
+l
+java:S2095²"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ûŸ‰ï8ğ‡«ç†/
+G
+java:S1659E"*Declare "privacy_less" on a separate line.(ËÎ…ê8ğ‡«ç†/
+]	java:S125["<This block of commented-out lines of code should be removed.(ˆ‰·æùÿÿÿÿ8ğ‡«ç†/
+V
+java:S1128$"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8ğ‡«ç†/
+K
+java:S1604á"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ğ‡«ç†/
+D
+java:S1168¼"&Return an empty array instead of null.(¥¹ï8ğ‡«ç†/
+E
+java:S1604¥"(Make this anonymous inner class a lambda(²» g8ğ‡«ç†/
+M
+java:S1144¿"0Remove this unused private "checkParams" method.(©¸ìG8ğ‡«ç†/
+w	java:S116D"VRename this field "retutn_less" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èìêıÿÿÿÿ8ğ‡«ç†/
+i
+java:S1301ò"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8ğ‡«ç†/
+I
+java:S1659B"'Declare "shoptitle" on a separate line.(ÄäÖ®ûÿÿÿÿ8ğ‡«ç†/
+M
+java:S1659D"+Declare "retutn_policy" on a separate line.(Èìêıÿÿÿÿ8ğ‡«ç†/
+D	java:S131Ö""Add a default case to this switch.(×ö³–úÿÿÿÿ8ğ‡«ç†/
+E
+java:S1659B"#Declare "gstin" on a separate line.(ÄäÖ®ûÿÿÿÿ8ğ‡«ç†/
+{	java:S116D"ZRename this field "shipping_policy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èìêıÿÿÿÿ8ğ‡«ç†/
+€	java:S116F"_Rename this field "shipping_policy_edit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—±ı•ÿÿÿÿÿ8ğ‡«ç†/
+‹
+java:S1128:"iRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.AddNewProductModel'.(Ú€‰åûÿÿÿÿ8ğ‡«ç†/
+|
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8ğ‡«ç†/
+‹
+java:S1845H"iRename field "shopTitle" to prevent any misunderstanding/clash with field "shoptitle" defined on line 66.(Ë‹”ÿÿÿÿÿ8ğ‡«ç†/

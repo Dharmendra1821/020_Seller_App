@@ -1,0 +1,40 @@
+
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(ÎôÈ¼ùÿÿÿÿ8¤âûˆ0
+^	java:S125ö"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¤âûˆ0
+Y	java:S125ı"<This block of commented-out lines of code should be removed.(êùÙ8¤âûˆ0
+Y	java:S125€"<This block of commented-out lines of code should be removed.(®‹„®8¤âûˆ0
+~
+java:S3923‹"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ú¸±Óúÿÿÿÿ8¤âûˆ0
+o	java:S1169"NRename this field "QTY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İßÀÂøÿÿÿÿ8¤âûˆ0
+^	java:S125­"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¤âûˆ0
+Y	java:S125µ"<This block of commented-out lines of code should be removed.(ãÍşÇ8¤âûˆ0
+^	java:S125ñ"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ8¤âûˆ0
+Y	java:S125é"<This block of commented-out lines of code should be removed.(¬ŸÈé8¤âûˆ0
+;
+java:S16597"Declare "c" on a separate line.(Öï³i8¤âûˆ0
+x	java:S116="WRename this field "Productimage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ç«–ÿÿÿÿÿ8¤âûˆ0
+G
+java:S1659Ç"*Declare "productprice" on a separate line.(Ì½‰8¤âûˆ0
+X	java:S125Â"<This block of commented-out lines of code should be removed.(ÇñŞB8¤âûˆ0
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(Ìü®ê8¤âûˆ0
+^	java:S125¦"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¤âûˆ0
+Y	java:S125ç"<This block of commented-out lines of code should be removed.(–šÍ8¤âûˆ0
+^	java:S125î"<This block of commented-out lines of code should be removed.(â¼„ˆşÿÿÿÿ8¤âûˆ0
+^	java:S125Ô"<This block of commented-out lines of code should be removed.(ã×©ßÿÿÿÿÿ8¤âûˆ0
+Y	java:S125"<This block of commented-out lines of code should be removed.(ƒ§†è8¤âûˆ0
+^	java:S125°"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ8¤âûˆ0
+X	java:S125Ø"<This block of commented-out lines of code should be removed.(¶Ã‘]8¤âûˆ0
+^	java:S125†"<This block of commented-out lines of code should be removed.(ş÷¨®ùÿÿÿÿ8¤âûˆ0
+J
+java:S1481Õ"'Remove this unused "n1" local variable.(¯¥«ùúÿÿÿÿ8¤âûˆ0
+^	java:S125Ñ"<This block of commented-out lines of code should be removed.(®ˆ‰³üÿÿÿÿ8¤âûˆ0
+^	java:S125µ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¤âûˆ0
+Y	java:S125·"<This block of commented-out lines of code should be removed.(ÀÁª§8¤âûˆ0
+^	java:S125ú"<This block of commented-out lines of code should be removed.(×€›Èûÿÿÿÿ8¤âûˆ0
+a
+java:S1117W"?Rename "productLink" which hides the field declared at line 54.(Òéá„øÿÿÿÿ8¤âûˆ0
+^	java:S125"<This block of commented-out lines of code should be removed.(ƒ˜çïùÿÿÿÿ8¤âûˆ0
+Y	java:S125“"<This block of commented-out lines of code should be removed.(÷µæ®8¤âûˆ0
+^	java:S125Î"<This block of commented-out lines of code should be removed.(¤ÊÚÿøÿÿÿÿ8¤âûˆ0
+^	java:S125¤"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¤âûˆ0
+^	java:S125¨"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ8¤âûˆ0

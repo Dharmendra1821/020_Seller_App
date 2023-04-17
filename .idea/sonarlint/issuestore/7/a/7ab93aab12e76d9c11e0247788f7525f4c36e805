@@ -1,0 +1,10 @@
+
+‰"squid:ClassVariableVisibilityCheck("TMake imageUri a static final constant or non-public and provide accessors if needed.(Ñ©»ß8òà±ýÿ-
+?squid:S1170'"!Make this final field static too.(¥Õ§Ä8òà±ýÿ-
+lsquid:MaximumInheritanceDepth$"<This class has 6 parents which is greater than 5 authorized.(ÃÅÉÓ8òà±ýÿ-
+Psquid:S1153™"1Directly append the argument of String.valueOf().(ˆÇÙº8òà±ýÿ-
+Asquid:S1148u"#Use a logger to log this exception.(òçøì8òà±ýÿ-
+nsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(ÊÁ¾Ðûÿÿÿÿ8òà±ýÿ-
+osquid:CommentedOutCodeLineÔ"<This block of commented-out lines of code should be removed.(Þ«ï˜þÿÿÿÿ8òà±ýÿ-
+\squid:S3516U"9Refactor this method to not always return the same value.(µÛÎ°üÿÿÿÿ8òà±ýÿ-
+ˆsquid:S4165ñ"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(‘óÖýÿÿÿÿ8òà±ýÿ-

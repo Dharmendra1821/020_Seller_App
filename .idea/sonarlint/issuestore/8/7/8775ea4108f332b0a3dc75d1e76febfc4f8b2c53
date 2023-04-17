@@ -1,0 +1,99 @@
+
+D
+java:S1659<""Declare "code" on a separate line.(¸ª”şÿÿÿÿ8ã •›ô.
+H
+java:S1659>"&Declare "b_mobile" on a separate line.(Óïâşÿÿÿÿ8ã •›ô.
+M
+java:S1144ó"0Remove this unused private "checkParams" method.(©¸ìG8¯Úø›ô.
+u	java:S116>"TRename this field "b_pincode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïâşÿÿÿÿ8ã •›ô.
+F
+java:S1659>"$Declare "b_city" on a separate line.(Óïâşÿÿÿÿ8ã •›ô.
+F	java:S108Í")Either remove or fill this block of code.(”ı¾8êí²›ô.
+^	java:S125¿"<This block of commented-out lines of code should be removed.(³˜Ô¯ùÿÿÿÿ8Õ÷²œô.
+r	java:S116>"QRename this field "b_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïâşÿÿÿÿ8ã •›ô.
+Y	java:S125Ù"<This block of commented-out lines of code should be removed.(ßê‰À8¯Úø›ô.
+{	java:S116>"ZRename this field "b_merchant_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïâşÿÿÿÿ8ã •›ô.
+I
+java:S1659>"'Declare "b_address" on a separate line.(Óïâşÿÿÿÿ8ã •›ô.
+J
+java:S1481½",Remove this unused "shopUrl" local variable.(¦ØÚî8éá³œô.
+O
+java:S1659>"-Declare "b_merchant_name" on a separate line.(Óïâşÿÿÿÿ8ã •›ô.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(è£¥R8êí²›ô.
+A
+java:S1148¢"#Use a logger to log this exception.(Ç’Çê8êí²›ô.
+F	java:S108Ï")Either remove or fill this block of code.(”ı¾8¯Úø›ô.
+K
+java:S1905ö"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8¯Úø›ô.
+s	java:S116>"RRename this field "b_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïâşÿÿÿÿ8ã •›ô.
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒØü ûÿÿÿÿ8êí²›ô.
+D
+java:S1168ï"&Return an empty array instead of null.(¥¹ï8¯Úø›ô.
+
+java:S1128-"lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.invoice_seller.model.InvoiceMerchantIdModel'.(¡ô°Ëúÿÿÿÿ8Æ®°›ô.
+u	java:S116<"TRename this field "region_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ª”şÿÿÿÿ8ã •›ô.
+F
+java:S1148²"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§²É›ô.
+k	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÙë 8êí²›ô.
+J
+java:S1481¨",Remove this unused "shopUrl" local variable.(¦ØÚî8êí²›ô.
+j
+java:S1192®"GDefine a constant instead of duplicating this literal "Url..." 3 times.(òì£Ğùÿÿÿÿ8¯Úø›ô.
+C
+java:S1659?"&Declare "category" on a separate line.(òö¤8ã •›ô.
+G
+java:S1659>"%Declare "b_email" on a separate line.(Óïâşÿÿÿÿ8¢¤·˜ô.
+u	java:S116>"TRename this field "b_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïâşÿÿÿÿ8ã •›ô.
+K
+java:S1905ë"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8êí²›ô.
+G
+java:S1172")Remove this unused method parameter "id".(ı§„Ô8™ğ©Æô.
+^	java:S125ª"<This block of commented-out lines of code should be removed.(Š‘€ùÿÿÿÿ8êí²›ô.
+J
+java:S1659>"(Declare "b_shop_url" on a separate line.(Óïâşÿÿÿÿ8ã •›ô.
+|
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(œãÊşÿÿÿÿ8êí²›ô.
+M
+java:S1144è"0Remove this unused private "checkParams" method.(©¸ìG8êí²›ô.
+
+java:S11282"kRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.SMSContactListActivity'.(Ù¡£¤ÿÿÿÿÿ8ùòş›ô.
+r	java:S116>"QRename this field "b_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïâşÿÿÿÿ8ã •›ô.
+Y	java:S125×"<This block of commented-out lines of code should be removed.(ßê‰À8êí²›ô.
+Š
+java:S1128*"mRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.OrderListActivity'.(œš×¦8äø«Æô.
+I
+java:S1659<"'Declare "region_id" on a separate line.(¸ª”şÿÿÿÿ8ã •›ô.
+t	java:S116>"SRename this field "b_mobile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïâşÿÿÿÿ8ã •›ô.
+‰
+java:S1128/"mRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.CreditMemoDetailActivity'.(Û½‚)8ïÆÜšô.
+I
+java:S1659>"'Declare "b_pincode" on a separate line.(Óïâşÿÿÿÿ8ã •›ô.
+P
+java:S1128 ".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8à„‰œô.
+Š
+java:S1128+"mRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.customer.activity.AddCustomerAddressActivity'.(Èù÷¢8ã •›ô.
+£
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8¿­±›ô.
+£
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ8êí²›ô.
+g
+java:S1192‚"IDefine a constant instead of duplicating this literal "shop_url" 4 times.(¦ØÚî8ÅêÌ›ô.
+v	java:S116>"URename this field "b_shop_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïâşÿÿÿÿ8ã •›ô.
+
+java:S11283"nRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.SellerInvoiceListActivity'.(™·şŸÿÿÿÿÿ8ã •›ô.
+Œ
+java:S11281"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.MainDashboardActivity'.(Şèúÿÿÿÿ8‹ÇÚšô.
+‰
+java:S1128."gRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.AddInvoiceActivity'.(èÚªÿÿÿÿÿ8€€ê›ô.
+K
+java:S1604´"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8ÆœÔñı.
+E
+java:S1604Ô"(Make this anonymous inner class a lambda(²» g8ÆœÔñı.
+K
+java:S1604É"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8ÆœÔñı.
+E
+java:S1604Ö"(Make this anonymous inner class a lambda(²» g8ÆœÔñı.
+X
+java:S1481¿"5Remove this unused "mastercategoryId" local variable.(úŞö¯ùÿÿÿÿ8ÆœÔñı.

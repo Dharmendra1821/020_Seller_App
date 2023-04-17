@@ -1,0 +1,19 @@
+
+nsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(¨×Ü¼üÿÿÿÿ8áÉóúÿ-
+wsquid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(İıàÙ8áÉóúÿ-
+…squid:S1488D"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ8áÉóúÿ-
+xsquid:S00116·"SRename this field "order_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜ¶¨ıÿÿÿÿ8áÉóúÿ-
+¥squid:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ8áÉóúÿ-
+Tsquid:S1068&"1Remove this unused "clickListener" private field.(´ùÉøÿÿÿÿ8áÉóúÿ-
+@squid:S2386-"Make this member "protected".(ğ¡ñèøÿÿÿÿ8áÉóúÿ-
+Usquid:S2696È"6Make the enclosing method "static" or remove this set.(ò³ŞÚ8áÉóúÿ-
+|squid:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ¡ñèøÿÿÿÿ8áÉóúÿ-
+nsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(ÚúğÇøÿÿÿÿ8áÉóúÿ-
+|squid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(„‚“ùÿÿÿÿ8áÉóúÿ-
+squid:S1450&"\Remove the "clickListener" field and declare it as a local variable in the relevant methods.(´ùÉøÿÿÿÿ8áÉóúÿ-
+Ysquid:S1444-"6Make this "public static selectionSpinner" field final(ğ¡ñèøÿÿÿÿ8áÉóúÿ-
+¢squid:S13198"„The type of the "deliveryBoyOrderArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(»¯Úk8áÉóúÿ-
+tsquid:S00116¶"TRename this field "cust_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‰Ã·8áÉóúÿ-
+–"squid:ClassVariableVisibilityCheck-"\Make selectionSpinner a static final constant or non-public and provide accessors if needed.(ğ¡ñèøÿÿÿÿ8áÉóúÿ-
+€squid:S4165;"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà8áÉóúÿ-
+nsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8áÉóúÿ-

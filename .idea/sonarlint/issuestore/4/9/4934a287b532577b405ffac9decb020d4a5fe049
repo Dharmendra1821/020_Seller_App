@@ -1,0 +1,22 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ì›÷Áê.
+c
+java:S1192^"FDefine a constant instead of duplicating this literal "email" 3 times.(Ÿ¦õÚ8ª¹Âïª/
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8Ì›÷Áê.
+v
+java:S1128*"YRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.model.Product'.(°ñûÜ8Ì›÷Áê.
+M
+java:S16592"+Declare "phoneEditText" on a separate line.(“—²ûüÿÿÿÿ8Àõ­ïª/
+V
+java:S1128"9Remove this unused import 'net.hydromatic.linq4j.Linq4j'.(ùì®‘8Ì›÷Áê.
+…
+java:S1128)"cRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.adapters.ProductAdapter'.(Ÿîøÿÿÿÿ8Ì›÷Áê.
+N
+java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8Ì›÷Áê.
+N
+java:S1128 "1Remove this unused import 'okhttp3.ResponseBody'.(Õ«ø8Ì›÷Áê.
+c
+java:S1128"FRemove this unused import 'net.hydromatic.linq4j.function.Predicate1'.(âàÓÜ8Ì›÷Áê.
+X	java:S125ƒ"<This block of commented-out lines of code should be removed.(ôöâO8¥½ÀŞÀ/

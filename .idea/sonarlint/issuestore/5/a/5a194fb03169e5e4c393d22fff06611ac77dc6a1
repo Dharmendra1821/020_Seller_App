@@ -1,0 +1,20 @@
+
+J
+java:S1481‹",Remove this unused "shopUrl" local variable.(¦ØÚî8ÖÌ›‘ù/
+C
+java:S1481C"'Remove this unused "id" local variable.(¦şÜ48ÏÑÒ–ô.
+m	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¼Şı8ÏÑÒ–ô.
+A
+java:S1148¹"#Use a logger to log this exception.(Ç’Çê8ÏÑÒ–ô.
+G
+java:S5411a"*Use the primitive boolean expression here.(Óå³8ÏÑÒ–ô.
+J
+java:S1659&".Declare "passwordEditText" on a separate line.(ê´58ÏÑÒ–ô.
+H
+java:S1659&",Declare "mobileEdittext" on a separate line.(ê´58ÏÑÒ–ô.
+E	java:S108O")Either remove or fill this block of code.(”ı¾8ÏÑÒ–ô.
+J
+java:S1659&".Declare "lastNameEditText" on a separate line.(ê´58ÏÑÒ–ô.
+Y	java:S125¾"<This block of commented-out lines of code should be removed.(Ôö§ó8ÏÑÒ–ô.
+G
+java:S1659&"+Declare "emailEditText" on a separate line.(ê´58ÏÑÒ–ô.

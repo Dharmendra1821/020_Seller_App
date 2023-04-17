@@ -1,0 +1,11 @@
+
+ysquid:S41651"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà
+~squid:S14888"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ
+bsquid:UselessImportCheck
+"7Remove this unused import 'android.widget.AdapterView'.(¶¾éæ8Ä¸ıä-
+Msquid:S2696l"6Make the enclosing method "static" or remove this set.(Ùšº”
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8Ä¸ıä-
+~squid:UselessImportCheck"TRemove this unused import 'com.toptoche.searchablespinnerlibrary.SearchableSpinner'.(ÃúºY8Ó…ºıä-
+‘squid:UselessImportCheck"gRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.DeliveryBoyOrder'.(İ¶áR8Ú­¹ıä-
+’squid:S1319."{The type of the "deliveryBoyLists" object should be an interface such as "List" rather than the implementation "ArrayList".(ÿøšÚ
+hsquid:UselessImportCheck"8Remove this unused import 'android.widget.ArrayAdapter'.( €ŠÑÿÿÿÿÿ8Ä¸ıä-

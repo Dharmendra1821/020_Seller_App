@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    android:layout_marginTop="10dp"
+    tools:context=".customer.fragment.SearchCustomerDetailsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        >
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/SearchTextLabel"
+            android:layout_gravity="bottom"
+            app:hintTextAppearance="@style/TextAppearance.AppCompat.Small"
+            >
+
+            <EditText android:id="@+id/emailIdOrMobileNoEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter registered email id or mobile no"
+                android:singleLine="true"
+                android:imeOptions="actionDone"
+
+                />
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <Button android:id="@+id/searchCustomerButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:text="Search"
+            android:background="@drawable/button_rounded_gradient_border"
+            android:textColor="@color/new_btn_color"/>
+
+        <androidx.legacy.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OR"
+            android:layout_gravity="center_horizontal"/>
+
+        <androidx.legacy.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="10dp" />
+
+        <Button android:id="@+id/addCustomerButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Add Customer"
+            android:background="@drawable/button_rounded_gradient_border"
+            android:textColor="@color/new_btn_color"/>
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/customerdetailsRecyclerView"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+</LinearLayout>

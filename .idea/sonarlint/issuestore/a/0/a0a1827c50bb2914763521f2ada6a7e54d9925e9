@@ -1,0 +1,144 @@
+
+M
+java:S1659î"/Declare "incrementTextView" on a separate line.(—Ø¿Ò8ÛÛ´‹ù/
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(º³8ÛÛ´‹ù/
+Y	java:S125ò"<This block of commented-out lines of code should be removed.(Šš–¡8ÛÛ´‹ù/
+{
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ¡ñèøÿÿÿÿ8ÛÛ´‹ù/
+Y
+java:S2696ã"6Make the enclosing method "static" or remove this set.(£ëºşÿÿÿÿ8ÛÛ´‹ù/
+s	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†şö¸øÿÿÿÿ8ÛÛ´‹ù/
+z	java:S116Z"YRename this field "AutorizedToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áıôúÿÿÿÿ8ÛÛ´‹ù/
+^	java:S125¬"<This block of commented-out lines of code should be removed.(¤¡¯úıÿÿÿÿ8Ü÷ûˆ0
+U
+java:S1481Ú"2Remove this unused "IsAllExecuted" local variable.(†şö¸øÿÿÿÿ8ÛÛ´‹ù/
+u
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 80 to the 15 allowed.(œÑ ¡ûÿÿÿÿ8ÛÛ´‹ù/
+{	java:S116ô"YRename this field "config_variant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì×„Óÿÿÿÿÿ8ÛÛ´‹ù/
+E
+java:S1604Õ"(Make this anonymous inner class a lambda(²» g8Ü÷ûˆ0
+{
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(„‚“ùÿÿÿÿ8ÛÛ´‹ù/
+b
+java:S1117Ğ"ERename "sharedPreferences" which hides the field declared at line 92.(Ş‹é8ÛÛ´‹ù/
+X	java:S125¸"<This block of commented-out lines of code should be removed.(‹‰ J8ÛÛ´‹ù/
+^	java:S125Â"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ü÷ûˆ0
+z	java:S116÷"XRename this field "share_product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÙÈ«ıÿÿÿÿ8ÛÛ´‹ù/
+j
+java:S1192é"MDefine a constant instead of duplicating this literal "Product JSON" 3 times.(æ‹ğ|8ÛÛ´‹ù/
+T
+java:S1444V"2Make this "public static cartTextView" field final(Şã’»şÿÿÿÿ8ÛÛ´‹ù/
+k	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÉÁ8ÛÛ´‹ù/
+¤
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ8ÛÛ´‹ù/
+N
+java:S1659Z",Declare "AutorizedToken" on a separate line.(Áıôúÿÿÿÿ8ÛÛ´‹ù/
+D
+java:S1168ï"&Return an empty array instead of null.(¥¹ï8Ü÷ûˆ0
+R
+java:S1128-"0Remove this unused import 'java.net.SocketImpl'.(£¯ĞÇùÿÿÿÿ8ÛÛ´‹ù/
+z
+java:S1104V"XMake cartTextView a static final constant or non-public and provide accessors if needed.(Şã’»şÿÿÿÿ8ÛÛ´‹ù/
+…
+java:S1128>"cRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.ProductDetails'.(¡şé€øÿÿÿÿ8ÛÛ´‹ù/
+Q
+java:S1128)"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8ÛÛ´‹ù/
+u	java:S116ó"XRename this field "variant_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±—–¯8ÛÛ´‹ù/
+…
+java:S1128A"hRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.container.ConfigProductModel'.(½áğ8ÛÛ´‹ù/
+^	java:S125û"<This block of commented-out lines of code should be removed.(ªšûÚúÿÿÿÿ8ÛÛ´‹ù/
+I
+java:S1659î"+Declare "rupeeTextView" on a separate line.(—Ø¿Ò8ÛÛ´‹ù/
+^	java:S125Í"<This block of commented-out lines of code should be removed.(·Ì¨ˆûÿÿÿÿ8ÛÛ´‹ù/
+\
+java:S1155…">Use isEmpty() to check whether the collection is empty or not.(ºÙæÙ8ÒÊ¼áú/
+^	java:S125·"<This block of commented-out lines of code should be removed.(•Ùøÿÿÿÿ8¿Êª¾ù/
+Y	java:S125°"<This block of commented-out lines of code should be removed.(¬ŸÈé8Ü÷ûˆ0
+u	java:S116õ"YRename this field "variant_layout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ú·$8ÛÛ´‹ù/
+^	java:S125“"<This block of commented-out lines of code should be removed.(÷ÇÁ•ıÿÿÿÿ8Ü÷ûˆ0
+g
+java:S1192¬"IDefine a constant instead of duplicating this literal "shop_url" 8 times.(¦ØÚî8ÛÛ´‹ù/
+F
+java:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ü÷ûˆ0
+b
+java:S1117Ï"ERename "sharedPreferences" which hides the field declared at line 92.(Ş‹é8ÛÛ´‹ù/
+^	java:S125ô"<This block of commented-out lines of code should be removed.(’è·îüÿÿÿÿ8ÛÛ´‹ù/
+‡
+java:S1128B"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.container.ProductSizeContainer'.(¹ì“”8ÛÛ´‹ù/
+Y	java:S125"<This block of commented-out lines of code should be removed.(èÑ®×8Ü÷ûˆ0
+
+java:S11289"rRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.AddDeliveryBoyActivity'.(°ˆîë8Ü÷ûˆ0
+w
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(³­ìÜ8ÛÛ´‹ù/
+‚
+java:S1128;"fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.DeliveryBoyList'.(íñ™f8ÛÛ´‹ù/
+J
+java:S1481Ô",Remove this unused "shopUrl" local variable.(¦ØÚî8Ü÷ûˆ0
+V
+java:S1128'"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8ÛÛ´‹ù/
+r
+java:S1192"UDefine a constant instead of duplicating this literal "Something went wrong" 3 times.(ø…´y8ÛÛ´‹ù/
+J
+java:S1659í",Declare "rupeeImageview" on a separate line.(ê˜¦È8ÛÛ´‹ù/
+Y	java:S125ó"<This block of commented-out lines of code should be removed.(º³8ÛÛ´‹ù/
+n
+java:S1764¥"KCorrect one of the identical sub-expressions on both sides of operator "||"(Ôâ¶Øûÿÿÿÿ8ÛÛ´‹ù/
+x	java:S116ò"VRename this field "addcart_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¢í‰ûÿÿÿÿ8ÛÛ´‹ù/
+J
+java:S1481¬",Remove this unused "shopUrl" local variable.(¦ØÚî8¹ÎÑù/
+^	java:S125È"<This block of commented-out lines of code should be removed.(ªšûÚúÿÿÿÿ8ÛÛ´‹ù/
+]
+java:S1117Î":Rename "price" which hides the field declared at line 103.(öæ„™ùÿÿÿÿ8ÛÛ´‹ù/
+R
+java:S1128*"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8ÛÛ´‹ù/
+M
+java:S1144ò"0Remove this unused private "checkParams" method.(©¸ìG8Ü÷ûˆ0
+X
+java:S1117©":Rename "price" which hides the field declared at line 103.(Üƒ¼ï8ÛÛ´‹ù/
+n
+java:S1192«"KDefine a constant instead of duplicating this literal "StandAlone" 8 times.(ÕâÀûÿÿÿÿ8ÛÛ´‹ù/
+]
+java:S1117™":Rename "price" which hides the field declared at line 103.(öæ„™ùÿÿÿÿ8ÛÛ´‹ù/
+˜
+java:S1128:"vRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.DeliveryManagementActivity'.(öÖîĞşÿÿÿÿ8Ü÷ûˆ0
+X
+java:S1444e"6Make this "public static selectionSpinner" field final(ğ¡ñèøÿÿÿÿ8ÛÛ´‹ù/
+K
+java:S1604Å"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8Ü÷ûˆ0
+y	java:S116Z"XRename this field "ProductCartId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áıôúÿÿÿÿ8ÛÛ´‹ù/
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(ˆüÉ±8ÛÛ´‹ù/
+^	java:S125ë"<This block of commented-out lines of code should be removed.(¤¡¯úıÿÿÿÿ8Ü÷ûˆ0
+~
+java:S1104e"\Make selectionSpinner a static final constant or non-public and provide accessors if needed.(ğ¡ñèøÿÿÿÿ8ÛÛ´‹ù/
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(¤İÓØ8¿Êª¾ù/
+H
+java:S1659î"*Declare "linktextview" on a separate line.(—Ø¿Ò8ÛÛ´‹ù/
+J
+java:S1481ª",Remove this unused "shopUrl" local variable.(¦ØÚî8Ü÷ûˆ0
+^	java:S125"<This block of commented-out lines of code should be removed.(„‘õõÿÿÿÿÿ8¿Êª¾ù/
+Ÿ
+java:S1186ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıı²Ú8ÛÛ´‹ù/
+K
+java:S1905õ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8Ü÷ûˆ0
+S
+java:S1481ˆ"5Remove this unused "selectedQuantity" local variable.(ÎŸÍñ8ÛÛ´‹ù/
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(ƒ˜çïùÿÿÿÿ8Ü÷ûˆ0
+…
+java:S1128@"hRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.ProductListActivity'.(ïãìÚ8ÛÛ´‹ù/
+Y	java:S125¨"<This block of commented-out lines of code should be removed.(Ìü®ê8Ü÷ûˆ0
+X	java:S125 "<This block of commented-out lines of code should be removed.(ÇñŞB8Ü÷ûˆ0
+M
+java:S1659î"/Declare "decrementTextView" on a separate line.(—Ø¿Ò8ÛÛ´‹ù/
+R
+java:S1659î"4Declare "productSubNameTextView" on a separate line.(—Ø¿Ò8ÛÛ´‹ù/
+^	java:S125Š"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÛÛ´‹ù/
+?
+java:S2386e"Make this member "protected".(ğ¡ñèøÿÿÿÿ8ÛÛ´‹ù/
+l
+java:S1192¾"IDefine a constant instead of duplicating this literal "https://" 5 times.(…åÓ°ûÿÿÿÿ8ÛÛ´‹ù/
+Y	java:S125®"<This block of commented-out lines of code should be removed.(¿õ¡Õ8Ü÷ûˆ0
+Y	java:S125–"<This block of commented-out lines of code should be removed.(ÉÃÌ†8¿Êª¾ù/
+T
+java:S1068`"2Remove this unused "itemStateArray" private field.(óª”·şÿÿÿÿ8ÛÛ´‹ù/
+F
+java:S1481‰"(Remove this unused "sku" local variable.(“Ş³8ÛÛ´‹ù/

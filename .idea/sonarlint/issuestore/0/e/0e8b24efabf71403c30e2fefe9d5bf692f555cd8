@@ -1,0 +1,32 @@
+
+E
+java:S1874“".Remove this use of "Scheme"; it is deprecated.(‰šÀö
+>
+java:S1604œ"(Make this anonymous inner class a lambda(ç’ƒL
+S
+java:S1874“"<Remove this use of "getConnectionManager"; it is deprecated.(‰šÀö
+G
+java:S1659.",Declare "downloadSample" on a separate line.(‰½„–úÿÿÿÿ
+k
+java:S2095€"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(‹Æ¥ıÿÿÿÿ
+O
+java:S1874“"8Remove this use of "SSLSocketFactory"; it is deprecated.(‰šÀö
+Q	java:S125n"<This block of commented-out lines of code should be removed.(¯’Ò¬
+<	java:S131J""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+?
+java:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Q	java:S125O"<This block of commented-out lines of code should be removed.(ª„÷²
+>
+java:S1604º"(Make this anonymous inner class a lambda(ç’ƒL
+f
+java:S1301J"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+U
+java:S1874€"9Remove this use of "DefaultHttpClient"; it is deprecated.(‹Æ¥ıÿÿÿÿ
+J
+java:S1066b"/Merge this if statement with the enclosing one.(¾üÖÄşÿÿÿÿ
+>
+java:S1604¦"(Make this anonymous inner class a lambda(ç’ƒL
+?	java:S108À")Either remove or fill this block of code.(”ı¾
+W	java:S125‡"<This block of commented-out lines of code should be removed.(£ìÍåüÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¾öÎ´ÿÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ÏÊ†¾şÿÿÿÿ

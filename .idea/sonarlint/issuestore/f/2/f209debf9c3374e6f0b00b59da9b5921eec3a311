@@ -1,0 +1,62 @@
+
+N
+java:S16593",Declare "totalItemCount" on a separate line.(üÆö›ýÿÿÿÿ8–×àšô.
+i
+java:S1192Ž"FDefine a constant instead of duplicating this literal "email" 3 times.(˜¬õÁÿÿÿÿÿ8–×àšô.
+K
+java:S1905²"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8–×àšô.
+E
+java:S1148~"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8–×àšô.
+E
+java:S1604“"(Make this anonymous inner class a lambda(²» g8–×àšô.
+^	java:S125Ž"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8–×àšô.
+P
+java:S16593".Declare "visibleItemCount" on a separate line.(üÆö›ýÿÿÿÿ8–×àšô.
+Q
+java:S1066["/Merge this if statement with the enclosing one.(±÷»üùÿÿÿÿ8–×àšô.
+D
+java:S1168¬"&Return an empty array instead of null.(¥¹ï8–×àšô.
+K
+java:S1604‚"(Make this anonymous inner class a lambda(­Ë—Ïÿÿÿÿÿ8–×àšô.
+P
+java:S1481ü"-Remove this unused "lastname" local variable.(®ÙÇçüÿÿÿÿ8–×àšô.
+Y	java:S125Ö"<This block of commented-out lines of code should be removed.(Û÷¿8–×àšô.
+M
+java:S1144Â"0Remove this unused private "checkParams" method.(©¸ìG8–×àšô.
+X	java:S125l"<This block of commented-out lines of code should be removed.(Ý«ùÛ8Æ¢—¤ÿ/
+K
+java:S1604î"(Make this anonymous inner class a lambda(“õê—ûÿÿÿÿ8–×àšô.
+I
+java:S1481m",Remove this unused "shopUrl" local variable.(¦ØÚî8Ñƒ˜¤ÿ/
+D
+java:S1168¿"&Return an empty array instead of null.(¥¹ï8–×àšô.
+M
+java:S1144¯"0Remove this unused private "checkParams" method.(©¸ìG8–×àšô.
+E
+java:S1604¦"(Make this anonymous inner class a lambda(²» g8–×àšô.
+F
+java:S1148ê"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8–×àšô.
+K
+java:S1905Å"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8–×àšô.
+g
+java:S1192"JDefine a constant instead of duplicating this literal "entity_id" 3 times.(´Ž?8–×àšô.
+i
+java:S1192¼"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(§ßÞÕúÿÿÿÿ8–×àšô.
+J
+java:S1481ù"-Remove this unused "entityId" local variable.(´Ž?8–×àšô.
+e
+java:S1192’"GDefine a constant instead of duplicating this literal "status" 3 times.(©©­ý8–×àšô.
+M
+java:S1481ú"*Remove this unused "email" local variable.(˜¬õÁÿÿÿÿÿ8–×àšô.
+K
+java:S1481û".Remove this unused "firstname" local variable.(íóæ38–×àšô.
+^	java:S125Ý"<This block of commented-out lines of code should be removed.(†ÌÛ‰ýÿÿÿÿ8–×àšô.
+J
+java:S1481ý",Remove this unused "contact" local variable.(Ó€­‰8–×àšô.
+f
+java:S1192‘"HDefine a constant instead of duplicating this literal "contact" 3 times.(Ó€­‰8–×àšô.
+I
+java:S1481þ"+Remove this unused "status" local variable.(©©­ý8–×àšô.
+Y	java:S125€"<This block of commented-out lines of code should be removed.(¡ÄøÜ8–×àšô.
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(‰Èÿüÿÿÿÿ8–×àšô.
+^	java:S125–"<This block of commented-out lines of code should be removed.(ö´Š§ÿÿÿÿÿ8–×àšô.

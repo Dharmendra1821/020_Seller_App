@@ -1,0 +1,35 @@
+
+X	java:S125h"<This block of commented-out lines of code should be removed.(Ò²–ª8 ”Ö„å.
+Y
+java:S2696¼"6Make the enclosing method "static" or remove this set.(É„ışÿÿÿÿ8 ”Ö„å.
+’
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(—…–Ğøÿÿÿÿ8 ”Ö„å.
+V
+java:S1128"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×8 ”Ö„å.
+R
+java:S1444:"0Make this "public static productIds" field final(ËñÙŠùÿÿÿÿ8 ”Ö„å.
+
+java:S4165E"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ˆ²Üà8 ”Ö„å.
+E	java:S108o")Either remove or fill this block of code.(”ı¾8 ”Ö„å.
+s	java:S116ª"VRename this field "visible_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç´ãÇ8 ”Ö„å.
+„
+java:S1488L"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(ÚÂ³Îúÿÿÿÿ8 ”Ö„å.
+[
+java:S1128">Remove this unused import 'com.squareup.picasso.MemoryPolicy'.(Àÿ“8 ”Ö„å.
+–
+java:S1128!"tRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.image_add_product.activities.AddProductListingModel'.(Æüïµûÿÿÿÿ8 ”Ö„å.
+—
+java:S1319:"uThe type of the "productIds" object should be an interface such as "List" rather than the implementation "ArrayList".(ËñÙŠùÿÿÿÿ8 ”Ö„å.
+x
+java:S1104:"VMake productIds a static final constant or non-public and provide accessors if needed.(ËñÙŠùÿÿÿÿ8 ”Ö„å.
+X	java:S125j"<This block of commented-out lines of code should be removed.(ï¿ê8 ”Ö„å.
+Z
+java:S1117‰"7Rename "pos" which hides the field declared at line 42.(ÈÜõÏıÿÿÿÿ8 ”Ö„å.
+?
+java:S2386:"Make this member "protected".(ËñÙŠùÿÿÿÿ8 ”Ö„å.
+’
+java:S13195"uThe type of the "productIds" object should be an interface such as "List" rather than the implementation "ArrayList".(Õù£™8 ”Ö„å.
+[
+java:S1128"?Remove this unused import 'com.squareup.picasso.NetworkPolicy'.(òÎå]8 ”Ö„å.
+v	java:S116¨"TRename this field "add_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÑÂ­ûÿÿÿÿ8 ”Ö„å.
+|	java:S116©"ZRename this field "product_visible" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¯»ûÿÿÿÿ8 ”Ö„å.

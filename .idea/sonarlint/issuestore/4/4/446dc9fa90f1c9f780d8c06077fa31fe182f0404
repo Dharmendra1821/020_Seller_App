@@ -1,0 +1,6 @@
+
+Š"squid:ClassVariableVisibilityCheck"UMake seller_id a static final constant or non-public and provide accessors if needed.(ß¿Ö8ª¼Èøæ-
+ssquid:S00116"TRename this field "seller_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¿Ö8ª¼Èøæ-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ä 8¤êÓøæ-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ä 8¤êÓøæ-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÿŞ­ûÿÿÿÿ8¤êÓøæ-

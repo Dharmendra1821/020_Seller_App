@@ -1,0 +1,57 @@
+
+ˆ
+java:S1128"kRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.ProfileActivity'.(°Éœğ8¨€¤èÀ/
+E
+java:S1604¼"(Make this anonymous inner class a lambda(²» g8ÉßšìÀ/
+˜
+java:S1128"vRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.activities.DeliveryBoyListingActivity'.(ß‹Œ¸úÿÿÿÿ8ïë­ìÀ/
+M
+java:S1659,"+Declare "readLessTerms" on a separate line.(£â‰…ûÿÿÿÿ8ÃŠ×èÀ/
+K
+java:S1905Ñ"(Remove this unnecessary cast to "Entry".(«™÷¹ùÿÿÿÿ8ÉßšìÀ/
+P
+java:S1659,".Declare "readMoreShipping" on a separate line.(£â‰…ûÿÿÿÿ8ÙèÀ/
+
+java:S1128"lRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.adapters.DeliveryboyAdapter'.(†¸ëˆøÿÿÿÿ8Â–«ìÀ/
+N
+java:S1659,",Declare "readMoreReturn" on a separate line.(£â‰…ûÿÿÿÿ8é°ÛèÀ/
+M
+java:S1659,"+Declare "readMoreTerms" on a separate line.(£â‰…ûÿÿÿÿ8ÃŠ×èÀ/
+P
+java:S1659,".Declare "readLessShipping" on a separate line.(£â‰…ûÿÿÿÿ8ÙèÀ/
+A
+java:S1659-"%Declare "aboutUs" on a separate line.(äîÀ^8£‹ éÀ/
+H
+java:S1659-",Declare "shippingPolicy" on a separate line.(äîÀ^8£‹ éÀ/
+F
+java:S1659-"*Declare "returnPolicy" on a separate line.(äîÀ^8£‹ éÀ/
+u	java:S1163"YRename this field "PERMISSION_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀ‚×8µ½»Á/
+O
+java:S1659,"-Declare "readLessAboutUs" on a separate line.(£â‰…ûÿÿÿÿ8¯¾ÚèÀ/
+J
+java:S1604s"(Make this anonymous inner class a lambda(‹÷Áèùÿÿÿÿ8ÿ«ÈéÀ/
+H
+java:S1659-",Declare "termsCondition" on a separate line.(äîÀ^8£‹ éÀ/
+N
+java:S1659*",Declare "contactDetails" on a separate line.(êƒÎ¥ûÿÿÿÿ8æ©±äÀ/
+O
+java:S1659,"-Declare "readLessPrivacy" on a separate line.(£â‰…ûÿÿÿÿ8øë¿èÀ/
+N
+java:S1659,",Declare "readLessReturn" on a separate line.(£â‰…ûÿÿÿÿ8ª˜ÜèÀ/
+Œ
+java:S1128!"jRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.seller_app.activity.MainDashboardActivity'.(Şèúÿÿÿÿ8øë¿èÀ/
+o
+java:S3776f"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(¬—Œä8ÿ«ÈéÀ/
+‚
+java:S1128 "fRemove this unused import 'standalone.eduqfix.qfixinfo.com.app.add_new_product.model.DeliveryBoyList'.(íñ™f8òœ¥ìÀ/
+?	java:S131ß""Add a default case to this switch.(ºÖ8ÉßšìÀ/
+F	java:S108·")Either remove or fill this block of code.(”ı¾8ÉßšìÀ/
+D
+java:S1659+"'Declare "thumbnail" on a separate line.(Ù¨°È8šµäÀ/
+O
+java:S1659,"-Declare "readMoreAboutUs" on a separate line.(£â‰…ûÿÿÿÿ8¯¾ÚèÀ/
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(ßê‰À8ÉßšìÀ/
+E
+java:S1659*"#Declare "title" on a separate line.(êƒÎ¥ûÿÿÿÿ8æ©±äÀ/
+M
+java:S1144Î"0Remove this unused private "checkParams" method.(©¸ìG8ÉßšìÀ/
